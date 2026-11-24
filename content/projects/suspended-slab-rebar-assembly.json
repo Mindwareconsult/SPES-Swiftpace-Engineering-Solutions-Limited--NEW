@@ -1,0 +1,85 @@
+{
+  "id": "suspended-slab-rebar-assembly",
+  "title": "Suspended Floor Slab Assembly & On-Site Engineering Supervision",
+  "slug": "suspended-slab-rebar-assembly",
+  "category": "Construction Management",
+  "location": "Lagos, Nigeria",
+  "client": "Private Commercial Stakeholder",
+  "projectStatus": "Superstructure In Progress",
+  "completionDate": "Active Project",
+  "shortDescription": "On-site construction management and suspended floor slab structural coordination in Lagos, Nigeria, capturing resident engineers verifying blueprints, drop beam rebar cages, and conduit embedment.",
+  "overview": "Located in Lagos, Nigeria, this assignment showcases critical-path construction supervision and structural quality assurance on an elevated floor deck. Resident site engineers review structural working drawings directly on the slab prior to casting, inspecting marine board shuttering, main drop-beam rebar cages, two-way slab mesh, and MEP conduit routing.",
+  "objectives": "Maintain strict blueprint fidelity on site, verify bar spacing and lap lengths per BS 8110 / Eurocode 2, coordinate MEP rough-ins before concrete pouring, and eliminate rework.",
+  "scopeOfWork": "On-site blueprint verification, deck falsework and marine board inspection, drop-beam and two-way slab rebar QA/QC, electrical conduit coordination, and pre-pour engineer sign-off.",
+  "technicalApproach": "Continuous supervisory drawing audits by resident project engineers, verifying tension anchorages, cranked bars, beam-column joint confinements, and cover spacers before monolithic concrete placement.",
+  "projectOutcome": "Coordinated structural deck with verified rebar clearances and MEP embeds ready for monolithic concrete casting under strict supervision.",
+  "coverImage": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+  "featured": true,
+  "published": true,
+  "order": 6,
+  "seoTitle": "Suspended Concrete Slab & On-Site Supervision | SPES Swiftpace",
+  "metaDescription": "Construction management, suspended slab rebar assembly, and on-site drawing verification in Lagos, Nigeria by SPES Swiftpace.",
+  "images": [
+    {
+      "id": "suspended-slab-rebar-assembly-img-1",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+      "caption": "Site supervisory engineers inspecting structural drawings directly on the suspended rebar deck",
+      "order": 1
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-2",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-02.jpg",
+      "caption": "Reviewing reinforcement schedule and column starter bar alignment with engineering drawings",
+      "order": 2
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-3",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-03.jpg",
+      "caption": "Drop-beam rebar cage placement and marine board formwork deck",
+      "order": 3
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-4",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-04.jpg",
+      "caption": "Suspended floor slab rebar grid tying with drop beams and perimeter stirrups",
+      "order": 4
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-5",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-05.jpg",
+      "caption": "Detailed view of main beam tensile reinforcement bars and shear links",
+      "order": 5
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-6",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-06.jpg",
+      "caption": "Operatives tying two-way slab reinforcement mesh according to bar-bending schedule",
+      "order": 6
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-7",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-07.jpg",
+      "caption": "Electrical conduits and mechanical piping integration within the reinforcement grid",
+      "order": 7
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-8",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-08.jpg",
+      "caption": "Pre-pour steel reinforcement inspection and concrete cover verification",
+      "order": 8
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-9",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-09.jpg",
+      "caption": "Engineers verifying lap lengths and anchorages for elevated concrete casting",
+      "order": 9
+    },
+    {
+      "id": "suspended-slab-rebar-assembly-img-10",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-10.jpg",
+      "caption": "Completed suspended slab rebar assembly prepared for monolithic concrete pouring",
+      "order": 10
+    }
+  ],
+  "updatedAt": "2026-11-21 10:57:06"
+}

@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.netlify/
+backups/
+.DS_Store
+*.log
+.env*
+!.env.example
+.private_enquiries/
+.private_admin/
+data/
+uploads/attachments/*
+!uploads/attachments/.gitkeep

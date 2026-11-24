@@ -1,0 +1,102 @@
+{
+  "id": "construction-management",
+  "title": "Construction Management",
+  "slug": "construction-management",
+  "iconName": "ClipboardCheck",
+  "shortDescription": "Project coordination and construction management support, with attention to planning, sequencing, resources, quality and delivery.",
+  "heroImage": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+  "relatedCategory": "Construction Management",
+  "galleryImages": [
+    {
+      "src": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+      "alt": "Supervisory engineers reviewing structural drawings on suspended slab deck"
+    },
+    {
+      "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-crew-substructure-13.jpg",
+      "alt": "On-site supervision of substructure masonry crew wearing hi-vis safety vests"
+    },
+    {
+      "src": "/assets/projects/suspended-slab-decking/suspended-slab-decking-08.jpg",
+      "alt": "Pre-pour steel reinforcement verification and concrete cover checks"
+    },
+    {
+      "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-spes-team-rebar-02.jpg",
+      "alt": "SPES field supervision during pad foundation steel reinforcement assembly"
+    }
+  ],
+  "detailedOverview": "SPES Swiftpace delivers construction management support centered around critical-path sequencing, site coordination, contractor accountability, and financial transparency. We act as the client’s authoritative technical representative, coordinating consultants, trade contractors, and suppliers to eliminate budget leakages and project delays.",
+  "capabilities": [
+    "Critical Path Method (CPM) project scheduling and baseline tracking",
+    "Comprehensive procurement strategy and material supply chain management",
+    "Contract administration, contractor prequalification, and tender evaluation",
+    "On-site quality control (QC), materials testing, and craftsmanship verification",
+    "Occupational Health, Safety & Environment (HSE) site compliance enforcement",
+    "Cost control, bill of quantities (BOQ) valuation, and milestone payment certification",
+    "Regular client photographic progress logs and digital dashboard reporting"
+  ],
+  "clientBenefits": [
+    {
+      "title": "Elimination of Cost Overruns",
+      "desc": "Rigorous valuation of on-site works ensures contractors are only paid for verified milestones."
+    },
+    {
+      "title": "Strict Schedule Adherence",
+      "desc": "Proactive critical-path management mitigates supply chain delays and trade bottlenecks."
+    },
+    {
+      "title": "Uncompromising Quality",
+      "desc": "Daily engineering supervision eliminates shortcutting by artisans and trade crews."
+    },
+    {
+      "title": "Total Stakeholder Transparency",
+      "desc": "Detailed milestone reports, photographic records, and expenditure tracking."
+    }
+  ],
+  "processStages": [
+    {
+      "step": "01",
+      "title": "Project Charter & Work Breakdown",
+      "desc": "Establishing scope boundaries, timeline milestones, budget allocations, and RACI matrices."
+    },
+    {
+      "step": "02",
+      "title": "Tendering & Contractor Selection",
+      "desc": "Preparing tender documents, evaluating subcontractor bids, and structuring contract terms."
+    },
+    {
+      "step": "03",
+      "title": "Site Execution & Coordination",
+      "desc": "Daily coordination of site meetings, labor allocation, and trade sequencing."
+    },
+    {
+      "step": "04",
+      "title": "Quality & Safety Audits",
+      "desc": "Inspecting materials, verifying slump tests, and enforcing mandatory safety protocols."
+    },
+    {
+      "step": "05",
+      "title": "Financial Valuation & Claims",
+      "desc": "Measuring work done, verifying variation orders, and issuing milestone valuation certificates."
+    },
+    {
+      "step": "06",
+      "title": "Commissioning & Project Closeout",
+      "desc": "Comprehensive defect rectification, final account reconciliation, and handover."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between a building contractor and a construction manager?",
+      "a": "A contractor is hired to execute specific physical works. A construction manager acts on behalf of the client to oversee, schedule, cost-manage, and quality-audit contractors, ensuring the client’s financial and quality interests are strictly protected."
+    },
+    {
+      "q": "Can SPES manage a project for clients based outside Ekiti or abroad in the diaspora?",
+      "a": "Yes. A substantial part of our clientele includes diaspora property owners and corporate organizations who rely on our transparent milestone reports, video walkthroughs, and verified bank certificate disbursements."
+    }
+  ],
+  "order": 4,
+  "published": true,
+  "seoTitle": "Construction Management | SPES Swiftpace Engineering Solutions Limited",
+  "metaDescription": "Project coordination and construction management support, with attention to planning, sequencing, resources, quality and delivery.",
+  "updatedAt": "2026-11-21T11:07:49.265Z"
+}

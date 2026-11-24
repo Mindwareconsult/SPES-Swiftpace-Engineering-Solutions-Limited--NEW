@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: spes-swiftpace-api
+    runtime: node
+    plan: starter
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    disk:
+      name: spes-persistent-data
+      mountPath: /var/data
+      sizeGB: 5
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_PATH
+        value: /var/data/spes_database.sqlite
+      - key: UPLOAD_DIR
+        value: /var/data/uploads
+      - key: TRUST_PROXY_HOPS
+        value: "2"
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ADMIN_INITIAL_PASSWORD
+        sync: false
+      - key: ADMIN_RECOVERY_TOKEN
+        sync: false
+      - key: ALLOWED_ORIGINS
+        sync: false

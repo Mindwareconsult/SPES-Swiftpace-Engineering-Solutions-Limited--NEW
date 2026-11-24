@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Architecture",
+    "slug": "architecture",
+    "description": "Concepts, spatial planning, and climate-responsive design."
+  },
+  {
+    "name": "Civil Engineering",
+    "slug": "civil-engineering",
+    "description": "Infrastructure, drainage systems, and site engineering."
+  },
+  {
+    "name": "Structural Engineering",
+    "slug": "structural-engineering",
+    "description": "Load analysis, reinforced concrete, and foundation safety."
+  },
+  {
+    "name": "Building Construction",
+    "slug": "building-construction",
+    "description": "Construction methodology, craftsmanship, and materials execution."
+  },
+  {
+    "name": "Construction Management",
+    "slug": "construction-management",
+    "description": "Project scheduling, quality control, and budget optimization."
+  },
+  {
+    "name": "Infrastructure",
+    "slug": "infrastructure",
+    "description": "Public works, bridges, highways, and civic development."
+  },
+  {
+    "name": "Engineering Innovation",
+    "slug": "engineering-innovation",
+    "description": "Cutting-edge materials, BIM, and smart built environment."
+  },
+  {
+    "name": "Industry Insights",
+    "slug": "industry-insights",
+    "description": "Regulatory frameworks, building codes, and Nigerian construction standards."
+  }
+]

@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-serif: 'Cormorant Garamond', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+    --bg-ground: #06142B;
+    --bg-surface: #0B1E3D;
+    --bg-elevated: #10274D;
+    --accent-cyan: #12BCEB;
+    --accent-green: #078A43;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5.5rem;
+    font-family: var(--font-sans);
+    background-color: var(--bg-ground);
+    color: #F4F7FB;
+    overflow-x: clip;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    background-color: var(--bg-ground);
+    color: #F4F7FB;
+    overflow-x: clip;
+    min-width: 0;
+  }
+}
+
+.font-editorial {
+  font-family: var(--font-serif);
+  text-wrap: balance;
+}
+
+.font-mono-tech {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Subtle architectural grid hairline */
+.blueprint-grid {
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 64px 64px;
+}
+
+/* Custom clean scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #06142B;
+}
+::-webkit-scrollbar-thumb {
+  background: #143366;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #12BCEB;
+}

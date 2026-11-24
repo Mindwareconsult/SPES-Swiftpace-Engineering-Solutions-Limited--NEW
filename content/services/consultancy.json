@@ -1,0 +1,102 @@
+{
+  "id": "consultancy",
+  "title": "Consultancy",
+  "slug": "consultancy",
+  "iconName": "Briefcase",
+  "shortDescription": "Professional advisory and consultancy support to help clients assess project needs, options and implementation considerations.",
+  "heroImage": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+  "relatedCategory": "Civil & Structural Engineering",
+  "galleryImages": [
+    {
+      "src": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+      "alt": "3-storey reinforced concrete frame structural evaluation"
+    },
+    {
+      "src": "/assets/projects/suspended-slab-decking/suspended-slab-decking-02.jpg",
+      "alt": "Technical blueprint audit and starter bar alignment verification on site"
+    },
+    {
+      "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-blinded-trench-05.jpg",
+      "alt": "Foundation trench inspection and soil bearing preparation in Ijebu Ode"
+    },
+    {
+      "src": "/assets/projects/commercial-column-shoring/commercial-column-shoring-04.jpg",
+      "alt": "Structural shoring and column alignment inspection"
+    }
+  ],
+  "detailedOverview": "SPES Swiftpace provides specialized engineering consultancy and professional advisory support. We help property owners, commercial enterprises, and institutional clients evaluate site suitability, analyze structural alternatives, navigate statutory physical planning frameworks, and resolve technical complexities before committing significant capital.",
+  "capabilities": [
+    "Project feasibility studies and technical viability assessments",
+    "Structural defect investigations, distress analysis, and rehabilitation schemes",
+    "Value engineering reviews to optimize material costs without compromising structural safety",
+    "Statutory compliance advisory, developmental approvals, and physical planning interface",
+    "Pre-purchase structural and architectural condition surveys for existing real estate",
+    "Expert witness technical reports and dispute resolution support",
+    "Environmental and site sustainability impact appraisals"
+  ],
+  "clientBenefits": [
+    {
+      "title": "De-Risked Capital Investment",
+      "desc": "Uncover hidden geotechnical, structural, or legal constraints before capital commitment."
+    },
+    {
+      "title": "Value-Engineered Savings",
+      "desc": "Identify design inefficiencies and excessive specifications to optimize total project expenditure."
+    },
+    {
+      "title": "Authoritative Technical Counsel",
+      "desc": "Objective, certified guidance unclouded by commercial product sales or contractor bias."
+    },
+    {
+      "title": "Regulatory Peace of Mind",
+      "desc": "Smooth navigation through local and state urban development planning frameworks."
+    }
+  ],
+  "processStages": [
+    {
+      "step": "01",
+      "title": "Consultation Briefing",
+      "desc": "Identifying client challenges, project objectives, and required technical deliverable scope."
+    },
+    {
+      "step": "02",
+      "title": "Site Inspection & Data Gathering",
+      "desc": "Field investigations, non-destructive testing, drawing audits, and regulatory inquiries."
+    },
+    {
+      "step": "03",
+      "title": "Engineering Analysis",
+      "desc": "Running diagnostic calculations, stress simulations, or financial feasibility modeling."
+    },
+    {
+      "step": "04",
+      "title": "Advisory Report Compilation",
+      "desc": "Synthesizing findings into an authoritative, actionable technical report with clear recommendations."
+    },
+    {
+      "step": "05",
+      "title": "Stakeholder Presentation",
+      "desc": "Briefing executive boards, property owners, or legal teams on strategic next steps."
+    },
+    {
+      "step": "06",
+      "title": "Implementation Support",
+      "desc": "Assisting with specification drafting, contractor vetting, or supervisory monitoring."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I engage SPES for an engineering consultancy?",
+      "a": "As early as possible—ideally during land acquisition, prior to drawing finalization, or immediately upon noticing structural cracks, dampness, or settlement on an existing building."
+    },
+    {
+      "q": "Do you provide value engineering for drawings prepared by other consultants?",
+      "a": "Yes. We routinely review existing structural and architectural packages to identify optimization opportunities that reduce construction costs while upholding safety codes."
+    }
+  ],
+  "order": 5,
+  "published": true,
+  "seoTitle": "Consultancy | SPES Swiftpace Engineering Solutions Limited",
+  "metaDescription": "Professional advisory and consultancy support to help clients assess project needs, options and implementation considerations.",
+  "updatedAt": "2026-11-21T11:07:49.265Z"
+}

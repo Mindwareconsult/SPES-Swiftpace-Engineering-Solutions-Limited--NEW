@@ -1,0 +1,33 @@
+{
+  "companyName": "SPES Swiftpace Engineering Solutions Limited",
+  "companyDescription": "SPES Swiftpace Engineering Solutions Limited delivers integrated architectural, engineering, construction and consultancy services designed to shape functional, durable and sustainable built environments.",
+  "rcNumber": "RC:8978524",
+  "email": "spesengineeringlimited@gmail.com",
+  "phonePrimary": "+234 901 075 3592",
+  "phoneSecondary": "+234 707 636 5837",
+  "whatsappPrimary": "2349010753592",
+  "whatsappSecondary": "2347076365837",
+  "addressLine1": "Plot 2, Toluwani Street, Peace Avenue, Off Iworoko Road",
+  "addressCity": "Ado Ekiti",
+  "addressState": "Ekiti State",
+  "addressCountry": "Nigeria",
+  "heroHeadline": "Engineering Excellence. Building the Future.",
+  "heroSubtitle": "SPES Swiftpace Engineering Solutions Limited delivers integrated architectural, engineering, construction and consultancy services designed to shape functional, durable and sustainable built environments.",
+  "heroImage": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+  "contactNotice": "Our engineering consultants typically respond to inquiries within 24 business hours.",
+  "logoUrl": "/logo.peg",
+  "logoFallbackUrl": "/assets/spes_logo.jpeg",
+  "faviconUrl": "/logo.peg",
+  "footerTagline": "SPES Swiftpace Engineering Solutions Limited is an engineering, architecture, building construction, and technical consultancy firm providing integrated solutions designed to shape functional, durable, and sustainable built environments.",
+  "socialLinks": {
+    "linkedin": "",
+    "facebook": "",
+    "instagram": "https://www.instagram.com/swiftpace_engineering/",
+    "x": ""
+  },
+  "seoDefaults": {
+    "siteTitle": "SPES Swiftpace Engineering Solutions Limited | Engineering, Architecture & Construction",
+    "metaDescription": "SPES Swiftpace Engineering Solutions Limited (RC: 8978524) delivers integrated architectural, civil/structural engineering, building construction, and consultancy in Nigeria.",
+    "ogImage": "/assets/spes_logo.jpeg"
+  }
+}

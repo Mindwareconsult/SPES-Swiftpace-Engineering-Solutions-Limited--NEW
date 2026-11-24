@@ -1,0 +1,49 @@
+{
+  "id": "contemporary-residential-duplex",
+  "title": "Luxury Contemporary 2-Storey Residential Duplex & External Works",
+  "slug": "contemporary-residential-duplex",
+  "category": "Building Construction",
+  "location": "Ado Ekiti & Regional Residential Hubs, Ekiti State",
+  "client": "Private Residential Owner",
+  "projectStatus": "Completed Exterior Envelope",
+  "completionDate": "Verified Portfolio Record",
+  "shortDescription": "Turnkey architectural and building construction delivery of a luxury 2-storey duplex featuring clean white exterior screeding, architectural parapets, dark shingle roof, cantilevered balcony, and paved grounds.",
+  "overview": "A modern private residential building construction project showcasing SPES Swiftpace’s craftsmanship. The duplex features contemporary architectural styling, crisp multi-coat exterior screeding, contrasting dark roof tiles, parapet moldings, tinted glazing, cantilevered balcony with accent brick cladding, and paved exterior grounds.",
+  "objectives": "Deliver a private luxury residence meeting high standards of architectural refinement, structural durability, thermal comfort, and secure perimeter containment.",
+  "scopeOfWork": "Turnkey building construction from foundation to final finishes, roof framing and dark shingle roofing, electrical and plumbing installations, exterior screeding and painting, and interlocking driveway paving.",
+  "technicalApproach": "Reinforced concrete frame with sandcrete block infill, waterproofed parapet gutters, tinted exterior glazing, and heavy-duty interlocking concrete compound paving.",
+  "projectOutcome": "Completed exterior building envelope and compound paving with durable, low-maintenance finishes.",
+  "coverImage": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-01.jpg",
+  "featured": false,
+  "published": true,
+  "order": 9,
+  "seoTitle": "Contemporary 2-Storey Residential Duplex | SPES Swiftpace",
+  "metaDescription": "Turnkey architectural planning and building construction of a luxury residential duplex in Ekiti State by SPES Swiftpace.",
+  "images": [
+    {
+      "id": "contemporary-residential-duplex-img-1",
+      "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-01.jpg",
+      "caption": "Front exterior view of completed contemporary 2-storey duplex villa with modern dark roof shingles",
+      "order": 1
+    },
+    {
+      "id": "contemporary-residential-duplex-img-2",
+      "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-02.jpg",
+      "caption": "Side elevation featuring architectural parapet profiles, window moldings, and drainage downpipes",
+      "order": 2
+    },
+    {
+      "id": "contemporary-residential-duplex-img-3",
+      "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-03.jpg",
+      "caption": "Entry porch with dark accent brickwork, cantilevered upper balcony, and granite entrance steps",
+      "order": 3
+    },
+    {
+      "id": "contemporary-residential-duplex-img-4",
+      "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-04.jpg",
+      "caption": "Site layout showing paved interlocking driveway, boundary security wall, and external utilities",
+      "order": 4
+    }
+  ],
+  "updatedAt": "2026-11-21 10:57:06"
+}

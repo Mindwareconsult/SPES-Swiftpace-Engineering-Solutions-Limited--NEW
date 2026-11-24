@@ -1,0 +1,77 @@
+{
+  "legalName": "SPES Swiftpace Engineering Solutions Limited",
+  "shortName": "SPES Swiftpace",
+  "rcNumber": "RC:8978524",
+  "incorporationAct": "Companies and Allied Matters Act (Corporate Affairs Commission, Nigeria)",
+  "headquarters": "Plot 2, Toluwani Street, Peace Avenue, Off Iworoko Road, Ado Ekiti, Ekiti State, Nigeria",
+  "overview": "SPES Swiftpace Engineering Solutions Limited is an engineering, construction and consultancy company based in Ado Ekiti, Ekiti State, Nigeria. Operating across architecture, building construction, civil and structural engineering, construction management, consultancy and allied services, the company delivers practical solutions grounded in technical precision and quality workmanship.",
+  "extendedOverview": "The company’s service offering brings together design-related capabilities, engineering input, construction activity and project coordination. Its stated approach places emphasis on technical precision, professional coordination, quality workmanship, functional design and effective project delivery.",
+  "vision": "To become a recognised and trusted engineering and construction company, distinguished by technical excellence, innovative thinking, quality project delivery and sustainable contributions to the built environment.",
+  "mission": "To provide professional, efficient and innovative engineering, construction and consultancy services through sound technical practices, effective project management and a commitment to quality, safety and client satisfaction.",
+  "coreValues": [
+    {
+      "title": "Professionalism",
+      "desc": "Maintaining high standards of professional conduct and service delivery."
+    },
+    {
+      "title": "Integrity",
+      "desc": "Building relationships through transparency, honesty and accountability."
+    },
+    {
+      "title": "Quality",
+      "desc": "Giving attention to workmanship, specifications and project requirements."
+    },
+    {
+      "title": "Innovation",
+      "desc": "Applying practical and modern approaches to engineering and construction."
+    },
+    {
+      "title": "Efficiency",
+      "desc": "Encouraging effective planning, coordination and resource utilisation."
+    },
+    {
+      "title": "Safety",
+      "desc": "Recognising the importance of responsible construction practices."
+    },
+    {
+      "title": "Client Satisfaction",
+      "desc": "Understanding client needs and aligning services with project objectives."
+    },
+    {
+      "title": "Sustainability",
+      "desc": "Supporting thoughtful and responsible development of the built environment."
+    }
+  ],
+  "deliveryPrinciples": [
+    {
+      "title": "Understanding the Brief",
+      "desc": "Clarifying the client’s objectives, site or project context, requirements and constraints."
+    },
+    {
+      "title": "Planning & Coordination",
+      "desc": "Organising relevant design, engineering, construction and delivery activities."
+    },
+    {
+      "title": "Technical Consideration",
+      "desc": "Applying appropriate professional judgement and technical practices to the work undertaken."
+    },
+    {
+      "title": "Quality Awareness",
+      "desc": "Paying attention to workmanship, specifications and agreed project requirements."
+    },
+    {
+      "title": "Clear Communication",
+      "desc": "Maintaining clear coordination with clients, consultants, contractors and other relevant stakeholders."
+    },
+    {
+      "title": "Responsible Delivery",
+      "desc": "Recognising safety, resource efficiency and the wider impact of construction activity."
+    }
+  ],
+  "verificationPolicy": "Profile verification policy: In alignment with our official company profile, project records, named personnel, professional registrations, licences and certifications are added only when supporting details have been formally verified.",
+  "sisterEnterprise": {
+    "name": "HarmoStructs Engineering Company Limited",
+    "description": "Our professional founders and engineering directors share an established engineering heritage alongside sister enterprise HarmoStructs Engineering Company Limited, collaborating on regional infrastructure knowledge while maintaining independent corporate governance, distinct registration, and individual contractual execution.",
+    "url": "https://harmostructsengineering.com.ng/"
+  }
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "faq-1",
+    "category": "Company Information",
+    "question": "What is SPES Swiftpace Engineering Solutions Limited?",
+    "answer": "SPES Swiftpace Engineering Solutions Limited (RC: 8978524) is a duly incorporated Nigerian engineering, architecture, building construction, and technical consultancy company delivering integrated professional solutions across the built environment.",
+    "order": 1,
+    "published": true
+  },
+  {
+    "id": "faq-2",
+    "category": "Company Information",
+    "question": "Where is the company located?",
+    "answer": "Our corporate office is located at Plot 2, Toluwani Street, Peace Avenue, Off Iworoko Road, Ado Ekiti, Ekiti State, Nigeria.",
+    "order": 2,
+    "published": true
+  },
+  {
+    "id": "faq-3",
+    "category": "Company Information",
+    "question": "What geographic areas does the company serve?",
+    "answer": "While our corporate headquarters is based in Ado Ekiti, Ekiti State, we undertake engineering, structural consultancy, architectural design, and construction projects across South-West Nigeria and select national locations.",
+    "order": 3,
+    "published": true
+  },
+  {
+    "id": "faq-4",
+    "category": "Company Information",
+    "question": "How can I contact the company directly?",
+    "answer": "You can reach us by telephone at +234 901 075 3592 or +234 707 636 5837, by email at spesengineeringlimited@gmail.com, or directly through our official WhatsApp hotline.",
+    "order": 4,
+    "published": true
+  },
+  {
+    "id": "faq-5",
+    "category": "Company Information",
+    "question": "What types of clients does SPES work with?",
+    "answer": "We collaborate with private property owners, real estate developers, corporate organizations, educational and healthcare institutions, and public infrastructure agencies.",
+    "order": 5,
+    "published": true
+  },
+  {
+    "id": "faq-6",
+    "category": "Services",
+    "question": "What core engineering services does SPES provide?",
+    "answer": "We provide six integrated disciplines: Architecture, Building Construction, Civil & Structural Engineering, Construction Management, Consultancy, and Allied Services.",
+    "order": 6,
+    "published": true
+  },
+  {
+    "id": "faq-7",
+    "category": "Services",
+    "question": "Does SPES provide architectural design?",
+    "answer": "Yes. We provide complete architectural solutions including conceptual sketches, 3D photorealistic renderings, spatial planning, statutory building permit drawings, and remodeling designs.",
+    "order": 7,
+    "published": true
+  },
+  {
+    "id": "faq-8",
+    "category": "Services",
+    "question": "Does the company undertake ground-up building construction?",
+    "answer": "Yes. We act as full-scope building contractors managing substructure excavation, reinforced concrete superstructure framing, roofing, MEP installations, and premium interior and exterior finishes.",
+    "order": 8,
+    "published": true
+  },
+  {
+    "id": "faq-9",
+    "category": "Services",
+    "question": "Does SPES provide civil and structural engineering?",
+    "answer": "Yes. Our structural team provides finite-element load calculations, foundation design tailored to soil reports, reinforced concrete member sizing, structural steel design, and bar bending schedules.",
+    "order": 9,
+    "published": true
+  },
+  {
+    "id": "faq-10",
+    "category": "Services",
+    "question": "Does the company offer independent construction management?",
+    "answer": "Yes. We serve as the client’s independent technical representative on site, managing project schedules, verifying contractor quality, auditing material deliveries, and controlling variations.",
+    "order": 10,
+    "published": true
+  },
+  {
+    "id": "faq-11",
+    "category": "Services",
+    "question": "Can I request technical engineering consultancy for an existing building?",
+    "answer": "Yes. We conduct structural health audits, failure analysis, crack remediation evaluations, and constructability reviews for both proposed and existing properties.",
+    "order": 11,
+    "published": true
+  },
+  {
+    "id": "faq-12",
+    "category": "Project Engagement",
+    "question": "How do I start a project with SPES?",
+    "answer": "You can start by submitting an enquiry through our online Contact Form, sending an email with your project overview to spesengineeringlimited@gmail.com, or messaging our team on WhatsApp at +234 901 075 3592.",
+    "order": 12,
+    "published": true
+  },
+  {
+    "id": "faq-13",
+    "category": "Project Engagement",
+    "question": "Can I request an initial technical consultation?",
+    "answer": "Yes. We provide preliminary project consultations where our engineering directors discuss your requirements, budget expectations, site context, and project milestones.",
+    "order": 13,
+    "published": true
+  },
+  {
+    "id": "faq-14",
+    "category": "Project Engagement",
+    "question": "What information should I provide when making an enquiry?",
+    "answer": "Helpful details include your project type (residential, commercial, or civil), site location, estimated budget range, preferred timeline, and any available architectural concepts, survey plans, or soil test reports.",
+    "order": 14,
+    "published": true
+  },
+  {
+    "id": "faq-15",
+    "category": "Project Engagement",
+    "question": "Does SPES work on both residential and commercial projects?",
+    "answer": "Yes. We handle bespoke private residences, luxury duplexes, commercial office complexes, shopping plazas, industrial structures, and civil drainage infrastructure.",
+    "order": 15,
+    "published": true
+  },
+  {
+    "id": "faq-16",
+    "category": "Project Engagement",
+    "question": "Can I submit existing architectural drawings for construction or structural review?",
+    "answer": "Yes. You can attach PDF or CAD drawing packages directly through our online contact form (up to 4 MB) or send compressed archives or larger packages to our official email for a thorough constructability review.",
+    "order": 16,
+    "published": true
+  },
+  {
+    "id": "faq-17",
+    "category": "General Enquiries",
+    "question": "How can I request a formal quotation or Bill of Quantities?",
+    "answer": "After reviewing your drawings and project specifications, our engineering and estimation team prepares a transparent, itemized quotation detailing materials, labor, and delivery phases.",
+    "order": 17,
+    "published": true
+  },
+  {
+    "id": "faq-18",
+    "category": "General Enquiries",
+    "question": "Can I contact the company through WhatsApp for quick answers?",
+    "answer": "Yes. Our dedicated WhatsApp hotline (+234 901 075 3592) is active during business hours for quick messaging, scheduling consultations, and preliminary discussions.",
+    "order": 18,
+    "published": true
+  },
+  {
+    "id": "faq-19",
+    "category": "General Enquiries",
+    "question": "Where is the corporate office located, and can I visit for an in-person meeting?",
+    "answer": "Our office is at Plot 2, Toluwani Street, Peace Avenue, Off Iworoko Road, Ado Ekiti, Ekiti State. In-person consultations can be scheduled in advance through our contact desk.",
+    "order": 19,
+    "published": true
+  },
+  {
+    "id": "faq-20",
+    "category": "General Enquiries",
+    "question": "How can I discuss a strategic corporate partnership or vendor registration?",
+    "answer": "Corporate entities, developers, and material suppliers can reach our executive directorate directly via spesengineeringlimited@gmail.com with their corporate profile and partnership proposal.",
+    "order": 20,
+    "published": true
+  }
+]

@@ -1,0 +1,1050 @@
+# MASTER IMPLEMENTATION PROMPT
+# SPES SWIFTPACE ENGINEERING SOLUTIONS LIMITED
+## Complete Migration to Netlify Free: Netlify Database + Netlify Blobs + Netlify Functions
+
+You are acting as a senior full-stack engineer, cloud infrastructure architect, database migration specialist, and application security engineer.
+
+Your task is to migrate the existing SPES Swiftpace Engineering Solutions Limited website from its current hosting architecture to a fully functional, zero-monthly-cost pilot deployment using Netlify's Free plan.
+
+This is an existing, developed website. You are NOT being asked to create a new website.
+
+Your primary responsibility is to inspect, preserve, adapt, migrate, test, and prepare the existing application for deployment.
+
+Do not discard working functionality. Do not redesign the website unnecessarily. Do not replace existing business content with sample content. Do not claim that a feature works until it has been implemented and tested.
+
+---
+
+# 1. PROJECT BACKGROUND
+
+Company: SPES Swiftpace Engineering Solutions Limited.
+
+Existing application technology:
+- React frontend.
+- Vite build system.
+- Express.js backend.
+- SQLite database.
+- Local filesystem image and upload storage.
+- Existing administrative dashboard.
+- Existing authentication and security implementation.
+- GitHub repository.
+- Previous frontend deployment on Vercel.
+
+The existing website contains multiple pages and business-management features, including:
+
+- Home.
+- About.
+- Services.
+- Individual service pages.
+- Portfolio.
+- Individual project pages.
+- Gallery.
+- Contact.
+- FAQ.
+- Blog.
+- Individual blog posts.
+- Admin dashboard.
+
+The administrative system manages content such as:
+- Projects.
+- Project images.
+- Gallery images.
+- Blog posts.
+- Media.
+- Enquiries.
+- Website settings.
+- Other existing administrative records and functionality.
+
+Preserve the current design, page architecture, URLs, SEO implementation, responsive behaviour, content, and administrative workflows.
+
+Do not remove existing functionality simply because the hosting architecture is changing.
+
+# 2. PRIMARY OBJECTIVE
+
+Move the existing application to the following architecture:
+
+| Application component | Required platform |
+|---|---|
+| Frontend hosting | Netlify |
+| Frontend framework | Existing React + Vite |
+| Backend | Existing Express application adapted to Netlify Functions |
+| Relational database | Netlify Database (PostgreSQL) |
+| Image and file storage | Netlify Blobs |
+| Source code | Existing GitHub repository |
+| Deployment | Netlify continuous deployment |
+| Monthly hosting target | $0 on Netlify Free |
+
+The migration must not introduce a paid hosting dependency.
+
+Do not use:
+- Render.
+- Railway.
+- A paid VPS.
+- Supabase.
+- Paid external image hosting.
+- Paid database services.
+- A paid email provider as a mandatory requirement.
+- A paid storage service.
+
+If an optional integration has a paid tier, make it optional and ensure the website remains functional without it.
+
+IMPORTANT: Netlify Free has usage limits. This is an initial pilot architecture, not a promise of unlimited free production hosting.
+
+Do not configure automatic paid upgrades, automatic credit purchases, or any feature that could unexpectedly incur charges.
+
+# 3. PHASE ONE: AUDIT THE EXISTING APPLICATION
+
+Before modifying files, conduct a complete technical audit.
+
+Inspect the actual repository and identify:
+
+1. Current frontend folder structure.
+2. Current backend folder structure.
+3. Vite configuration.
+4. React routing configuration.
+5. Express server entry point.
+6. Existing API routes.
+7. Existing middleware.
+8. SQLite database location.
+9. Existing database schema.
+10. Database initialization and migration scripts.
+11. Existing authentication implementation.
+12. Existing file-upload endpoints.
+13. Existing local upload directories.
+14. Existing media database records.
+15. Existing admin dashboard functionality.
+16. Environment variables.
+17. Existing deployment configuration.
+18. Existing dependencies and package scripts.
+19. SEO and sitemap generation.
+20. Existing tests and known errors.
+
+Identify every feature that currently depends on:
+- A permanently running Express server.
+- SQLite.
+- Local filesystem persistence.
+- Local image paths.
+- Files written during application execution.
+- Server memory or process-local state.
+- Background processes.
+- Scheduled jobs.
+
+Produce a migration audit report.
+
+Do not assume historical content counts are current. Inspect the actual database and files.
+
+Do not begin destructive migration operations before the audit is complete.
+
+# 4. PHASE TWO: ADAPT EXPRESS TO NETLIFY FUNCTIONS
+
+Netlify does not run a traditional permanently listening Express server in the same way as a conventional VPS.
+
+Adapt the existing Express application to run through Netlify Functions.
+
+Use Netlify's documented Express integration approach with:
+
+- express
+- serverless-http
+- @netlify/functions
+
+Create an API function, preferably:
+
+netlify/functions/api.js
+
+or the appropriate TypeScript equivalent if the existing project uses TypeScript.
+
+The function must import and execute the existing Express application through the serverless adapter.
+
+Preserve the existing API route definitions wherever possible.
+
+Do not duplicate the entire API in a new implementation if the existing Express routes can be reused.
+
+Configure Netlify routing so that existing frontend requests continue using their existing API paths.
+
+For example:
+
+/api/projects
+/api/gallery
+/api/blog
+/api/contact
+/api/admin/login
+/api/admin/projects
+
+must continue to work through the Netlify Functions API.
+
+Create or update netlify.toml using the correct Netlify configuration.
+
+The configuration should include:
+- The correct Vite build command.
+- The correct frontend publish directory.
+- The Functions directory.
+- The Node bundler configuration.
+- The API rewrite from /api/* to the Netlify API function.
+
+Follow the current official Netlify Express integration documentation rather than inventing a custom deployment convention.
+
+IMPORTANT:
+- Do not call app.listen() in the deployed serverless function.
+- Do not depend on a continuously running Express process.
+- Do not use local disk as permanent storage.
+- Do not store important state in process memory.
+- Do not serve the Vite frontend from Express.
+- Netlify must serve the built frontend independently.
+- Express must handle API requests through Netlify Functions.
+
+Ensure that all API routes work with the Netlify serverless request lifecycle.
+
+# 5. PHASE THREE: MIGRATE SQLITE TO NETLIFY DATABASE
+
+Replace the existing SQLite database with Netlify Database, which uses PostgreSQL.
+
+Use Netlify's supported database integration.
+
+Preferred approach:
+- @netlify/database
+- drizzle-orm
+- drizzle-kit
+
+Use the currently supported Netlify Database integration and compatible package versions.
+
+Where appropriate, use:
+
+import { drizzle } from "drizzle-orm/netlify-db";
+
+The application must use a centralized database connection module.
+
+Create an organized database structure, for example:
+
+db/
+  schema.ts
+  index.ts
+  migrations/
+  seed/
+  migration/
+
+Configure Drizzle migrations in the Netlify-supported migration directory:
+
+netlify/database/migrations
+
+Use the actual existing SQLite schema as the source of truth.
+
+Do not invent a new schema that breaks existing functionality.
+
+Migrate all existing entities and relationships, including whichever of the following are present in the actual application:
+
+- Admin users.
+- Projects.
+- Project categories.
+- Project images.
+- Gallery records.
+- Media records.
+- Blog posts.
+- Blog categories.
+- Enquiries.
+- Website settings.
+- Services.
+- FAQs.
+- Other existing tables.
+
+Preserve:
+- Existing primary identifiers wherever practical.
+- Relationships and foreign keys.
+- Slugs.
+- Publication statuses.
+- Created and updated timestamps.
+- Sorting and ordering.
+- Existing content.
+- Existing metadata.
+- Existing admin records.
+
+Translate SQLite-specific database types and SQL statements into PostgreSQL-compatible equivalents.
+
+Pay special attention to:
+- AUTOINCREMENT.
+- INTEGER versus BOOLEAN.
+- DATETIME versus TIMESTAMP.
+- SQLite-specific SQL functions.
+- JSON storage.
+- Case-insensitive searching.
+- Pagination.
+- Transaction handling.
+- Unique constraints.
+- Foreign-key behaviour.
+
+Do not merely replace SQLite queries with superficial text substitutions.
+
+Use proper PostgreSQL queries and parameterized database operations.
+
+## Database connection
+
+Use the official Netlify Database connection mechanism.
+
+The implementation may use the Drizzle Netlify Database adapter or a supported PostgreSQL driver.
+
+If using the connection string, use the supported Netlify Database connection method or the NETLIFY_DB_URL environment variable.
+
+Do not hardcode credentials.
+
+Do not expose database credentials to frontend JavaScript.
+
+All database operations must occur on the server side.
+
+## Database provisioning
+
+The implementation must clearly identify when the database must be created through the Netlify dashboard.
+
+Do not assume a database already exists.
+
+Provide instructions for:
+
+Netlify Dashboard → Project → Data & Storage → Database.
+
+Explain how to connect the database to the project and how to verify that the required environment configuration is available.
+
+Do not run production migrations until the database has been provisioned.
+
+# 6. PHASE FOUR: MIGRATE LOCAL IMAGE STORAGE TO NETLIFY BLOBS
+
+Replace permanent local filesystem image storage with Netlify Blobs.
+
+Install and use:
+
+@netlify/blobs
+
+Use the site-wide persistent store API:
+
+getStore()
+
+Do not use getDeployStore() for permanent website uploads because those stores are scoped to individual deployments.
+
+Create clearly named stores, for example:
+
+spes-project-images
+spes-gallery-images
+spes-blog-images
+spes-media-files
+
+You may use fewer stores if a unified store with organized object keys is more efficient.
+
+The storage implementation must support:
+
+- Project image uploads.
+- Gallery image uploads.
+- Blog featured images.
+- Blog inline images where applicable.
+- Team images.
+- Other existing media uploads.
+- Image retrieval.
+- Image replacement.
+- Image deletion.
+- Media metadata management.
+
+## Object key strategy
+
+Use unique, predictable object keys.
+
+Example:
+
+projects/project-id/image-uuid.webp
+
+gallery/image-uuid.webp
+
+blogs/post-id/image-uuid.webp
+
+team/image-uuid.webp
+
+Do not use the original filename as the only object identifier.
+
+Store the following information in PostgreSQL:
+
+- Object key.
+- Original filename.
+- MIME type.
+- File size.
+- Alt text.
+- Associated project, blog post, or gallery record.
+- Upload date.
+- Relevant metadata.
+- Publication status where applicable.
+
+The database stores metadata and references. Netlify Blobs stores the actual binary files.
+
+## Upload security
+
+All administrative uploads must require valid admin authentication.
+
+Validate:
+- File extension.
+- Actual MIME type.
+- File signature where practical.
+- File size.
+- Allowed upload categories.
+
+Reject executable files and unsupported file types.
+
+Do not allow an unauthenticated user to upload arbitrary files.
+
+Do not expose private administrative media through an unprotected endpoint.
+
+## Image retrieval
+
+Create an appropriate server-side retrieval endpoint for images stored in Blobs.
+
+For example:
+
+/uploads/:key
+
+or another safe, well-designed route compatible with the existing application.
+
+The endpoint must:
+- Validate the requested object key.
+- Prevent path traversal.
+- Retrieve the correct Blob.
+- Return the correct content type.
+- Return 404 for missing images.
+- Set appropriate cache headers.
+- Support efficient browser caching.
+- Avoid unnecessary database queries.
+- Prevent unauthorized access to private files.
+
+Public website images may be served publicly through a controlled endpoint.
+
+Private administrative files must remain protected.
+
+Never assume that Netlify Blobs automatically creates public image URLs.
+
+The server-side retrieval function is responsible for controlling access.
+
+## Image performance
+
+Use efficient image delivery.
+
+Where supported and appropriate, integrate Netlify Image CDN for transformations and optimization.
+
+Do not make Image CDN an essential dependency if it creates additional costs or deployment complications.
+
+Use:
+- Responsive image sizes.
+- Lazy loading.
+- Appropriate image formats.
+- Correct dimensions.
+- Browser caching.
+- Existing frontend image optimization practices.
+
+Ensure that project and gallery images do not disappear after redeployment.
+
+# 7. PHASE FIVE: MIGRATION UTILITIES
+
+Build separate migration utilities for the database and uploaded files.
+
+Do not destroy the original SQLite database or existing upload folders.
+
+## SQLite to PostgreSQL migration
+
+Create a migration script that:
+
+1. Reads the original SQLite database.
+2. Connects to the provisioned Netlify PostgreSQL database.
+3. Maps the existing SQLite schema to the new PostgreSQL schema.
+4. Migrates records in dependency-safe order.
+5. Preserves primary keys wherever practical.
+6. Preserves relationships.
+7. Preserves timestamps and statuses.
+8. Reports failed records.
+9. Verifies record counts.
+10. Produces a migration summary.
+
+The migration must be safe to rerun.
+
+Use conflict handling or migration tracking to avoid duplicating records.
+
+Do not silently skip failed records.
+
+Do not delete the source database.
+
+## Local uploads to Netlify Blobs migration
+
+Create a separate script that:
+
+1. Scans the existing upload directories.
+2. Identifies valid files.
+3. Determines the correct destination store and object key.
+4. Uploads files to Netlify Blobs.
+5. Records their new object keys.
+6. Updates associated media records in PostgreSQL.
+7. Preserves relevant filenames and metadata.
+8. Verifies that each uploaded object can be retrieved.
+9. Reports missing or failed files.
+
+Do not delete original uploads after migration.
+
+Do not assume the historical number of images or media records is accurate.
+
+Compare the actual source files against the actual database references.
+
+Produce a report showing:
+- Source database records.
+- Migrated database records.
+- Failed database records.
+- Source upload files.
+- Successfully uploaded files.
+- Failed file uploads.
+- Missing source files.
+- Orphaned database references.
+- Records requiring manual review.
+
+Do not declare migration successful if any important content is missing.
+
+# 8. PHASE SIX: PRESERVE AND STRENGTHEN ADMIN AUTHENTICATION
+
+The existing admin authentication system has already undergone security improvements.
+
+Preserve the existing working security implementation.
+
+The previous implementation includes features such as:
+
+- Centralized authentication context.
+- Centralized authenticated API requests.
+- JWT authentication.
+- Token revocation using token identifiers and token versioning.
+- HttpOnly cookie-first authentication.
+- Bearer-token fallback where required by the existing preview environment.
+- CSRF protection.
+- Login rate limiting.
+- Login lockout.
+- Secure cookie handling.
+- Password rotation.
+- Password recovery.
+
+Audit the actual current implementation before changing it.
+
+Do not remove security controls to make serverless deployment easier.
+
+Adapt cookie and request handling to Netlify's request and response model.
+
+Verify:
+- Login.
+- Logout.
+- Session persistence.
+- Token revocation.
+- Expired sessions.
+- Invalid credentials.
+- CSRF validation.
+- Login rate limiting.
+- Lockout behaviour.
+- Password change.
+- Password recovery.
+- Unauthorized admin access.
+- Admin-only media uploads.
+- Admin-only media deletion.
+
+Use secure production cookie settings where supported.
+
+Ensure that the website's public API does not expose admin-only information.
+
+Do not expose JWT secrets, database credentials, email credentials, or other secrets to frontend code.
+
+# 9. PHASE SEVEN: PRESERVE ALL WEBSITE FUNCTIONALITY
+
+The migration must preserve the existing website and its administrative dashboard.
+
+Test all public-facing pages.
+
+## Public website
+
+- Homepage loads correctly.
+- About page loads correctly.
+- Services page loads correctly.
+- Individual service pages load correctly.
+- Portfolio loads correctly.
+- Individual project pages load correctly.
+- Gallery loads correctly.
+- Contact page loads correctly.
+- FAQ page loads correctly.
+- Blog page loads correctly.
+- Individual blog posts load correctly.
+- All navigation links work.
+- All images load.
+- Responsive layouts remain functional.
+- Existing SEO metadata remains intact.
+
+## Admin dashboard
+
+Test every existing feature found during the audit.
+
+At minimum, verify:
+
+- Admin login.
+- Dashboard access.
+- Project creation.
+- Project editing.
+- Project publishing.
+- Project deletion.
+- Project image uploads.
+- Gallery image uploads.
+- Gallery management.
+- Blog post creation.
+- Blog editing.
+- Blog publishing.
+- Blog image uploads.
+- Enquiry listing.
+- Enquiry status updates.
+- Enquiry deletion where supported.
+- Website settings.
+- Media management.
+- CSV exports.
+- Search.
+- Filtering.
+- Pagination.
+- Logout.
+
+Do not mark a feature as complete simply because its interface loads.
+
+Test the actual database and storage operation behind each feature.
+
+# 10. PHASE EIGHT: CONTACT AND ENQUIRY MANAGEMENT
+
+Preserve the existing contact form and enquiry workflow.
+
+When a visitor submits an enquiry:
+
+1. Validate the submitted information.
+2. Apply spam and abuse protection.
+3. Save the enquiry to PostgreSQL.
+4. Return a clear success response.
+5. Trigger any existing optional notification mechanism.
+
+The enquiry must be saved before attempting an email notification.
+
+If email delivery fails, the enquiry must remain safely stored.
+
+The admin dashboard must still be able to:
+- View enquiries.
+- Search enquiries.
+- Filter enquiries.
+- Update enquiry status.
+- Add notes where supported.
+- Export enquiries to CSV.
+
+Do not make a paid email service mandatory for the enquiry system to work.
+
+If the existing project uses an email provider, preserve it as an optional integration and clearly document the configuration requirements.
+
+# 11. PHASE NINE: NETLIFY CONFIGURATION
+
+Create or update the required deployment files.
+
+At minimum, review:
+
+- netlify.toml
+- package.json
+- Vite configuration.
+- Netlify Functions directory.
+- Database migration configuration.
+- Environment variable documentation.
+- .gitignore.
+
+The Netlify configuration must:
+
+1. Build the React + Vite application.
+2. Publish the correct Vite output directory.
+3. Package the Express API as a Netlify Function.
+4. Rewrite API requests correctly.
+5. Preserve frontend SPA routing.
+6. Avoid exposing server-side source files.
+7. Use the appropriate Node.js runtime.
+8. Avoid writing permanent data to the function filesystem.
+
+Do not create conflicting redirects.
+
+Ensure that the API rewrite takes precedence over the SPA fallback.
+
+The application must not accidentally route API requests to index.html.
+
+Use the existing frontend build configuration unless an actual issue requires changing it.
+
+# 12. PHASE TEN: ENVIRONMENT VARIABLES AND SECRETS
+
+Create a clear environment-variable inventory.
+
+Inspect existing environment variables and classify them as:
+
+- Required for production.
+- Required only for local development.
+- Optional integrations.
+- Deprecated after migration.
+
+Use Netlify's supported environment-variable management.
+
+Never hardcode secret values.
+
+Never put private credentials in VITE_ variables because these may be exposed to the browser.
+
+Document every required variable and explain where it belongs.
+
+Use placeholders in documentation, not actual secrets.
+
+Do not ask the user to paste secret credentials into Google AI Studio prompts or public chat messages.
+
+# 13. PHASE ELEVEN: LOCAL DEVELOPMENT AND PREVIEW
+
+The application must support local development without requiring production credentials to be embedded in the source code.
+
+Use Netlify CLI and Netlify Dev where appropriate.
+
+Provide a clear distinction between:
+
+1. Local development.
+2. Netlify Deploy Preview.
+3. Netlify production deployment.
+
+Important:
+
+Netlify's local Blobs development environment is sandboxed. Do not assume local development can read production Blobs data.
+
+Do not accidentally use production data for testing.
+
+Create safe test data or a separate test environment where appropriate.
+
+Do not let a Deploy Preview overwrite production site-wide Blob data.
+
+For this reason, implement an environment-aware storage strategy and document the separation between production and preview data.
+
+Do not use deploy-specific stores for permanent production media.
+
+# 14. PHASE TWELVE: FREE-PLAN USAGE CONTROL
+
+The entire deployment must be designed around the Netlify Free plan.
+
+The current Free plan has a limited monthly credit allowance and usage-based limits.
+
+Treat the monthly credit limit as a strict financial boundary.
+
+Do not enable:
+- Automatic credit purchases.
+- Automatic paid upgrades.
+- Unapproved spending.
+- Paid external infrastructure.
+
+Implement reasonable resource-saving practices.
+
+## Database optimization
+
+- Reuse database connections appropriately for serverless execution.
+- Avoid opening unnecessary database connections.
+- Use efficient queries.
+- Add appropriate indexes.
+- Use pagination.
+- Avoid loading entire tables unnecessarily.
+- Avoid repeated queries for the same information.
+- Avoid excessive polling.
+
+## Image optimization
+
+- Compress images before upload where practical.
+- Use responsive image dimensions.
+- Avoid uploading unnecessarily large images.
+- Cache public images appropriately.
+- Avoid repeatedly retrieving unchanged media without caching.
+
+## Function optimization
+
+- Avoid unnecessary function invocations.
+- Keep API operations efficient.
+- Avoid long-running processes.
+- Avoid unnecessary scheduled functions.
+- Do not use Express as a permanent background server.
+
+## Usage monitoring
+
+Provide instructions for monitoring:
+- Monthly credits.
+- Function usage.
+- Database compute.
+- Bandwidth.
+- Web requests.
+- Blob storage usage.
+
+Explain what happens if the monthly credit allowance is exhausted.
+
+Do not assume the Free plan is sufficient for unlimited traffic.
+
+The purpose is to run a controlled pilot, measure real usage, and decide whether an upgrade is justified later.
+
+# 15. PHASE THIRTEEN: BACKUP AND RECOVERY
+
+Do not depend exclusively on Netlify's built-in database backup retention.
+
+Implement a backup strategy that does not require a paid service.
+
+Database backup:
+- Provide a repeatable PostgreSQL export procedure.
+- Export schema and data.
+- Store backups outside the live application database.
+- Include a date and time in backup filenames.
+- Document how to restore the backup.
+
+Blob backup:
+- Provide a repeatable method for listing and downloading stored objects.
+- Preserve object keys and metadata.
+- Document how to restore images and update references if necessary.
+
+Admin data:
+- Preserve existing CSV export functionality.
+- Ensure important business records can be exported.
+
+If automated off-platform backup requires another service or account, make it optional.
+
+If a completely free automated backup destination cannot be guaranteed, explain this honestly and provide a practical manual backup schedule.
+
+Never silently introduce a paid backup dependency.
+
+# 16. PHASE FOURTEEN: SEO AND URL PRESERVATION
+
+Preserve the existing SEO implementation.
+
+Verify:
+- Existing page titles.
+- Meta descriptions.
+- Canonical URLs.
+- Open Graph metadata.
+- Structured data.
+- Robots.txt.
+- XML sitemap.
+- Image alt text.
+- Internal links.
+- Page slugs.
+- Redirects.
+- Mobile responsiveness.
+- Page loading performance.
+
+Do not change established URLs unnecessarily.
+
+If a URL must change, create an appropriate permanent redirect.
+
+Ensure that all public project, service, and blog pages remain crawlable.
+
+Do not expose admin pages in the sitemap.
+
+# 17. PHASE FIFTEEN: TESTING AND ACCEPTANCE CRITERIA
+
+Do not deploy the application as production-ready until the following checks have been completed.
+
+## Infrastructure tests
+
+- Netlify build succeeds.
+- Vite frontend deploys.
+- Express API function deploys.
+- API rewrite works.
+- PostgreSQL connection works.
+- Netlify Blobs connection works.
+- Environment variables are available server-side.
+- No permanent data relies on the function filesystem.
+
+## Database tests
+
+- Database migrations execute successfully.
+- Existing records are migrated.
+- Primary keys and relationships are preserved.
+- Create operations work.
+- Read operations work.
+- Update operations work.
+- Delete operations work where supported.
+- Pagination works.
+- Search and filtering work.
+
+## Media tests
+
+- Admin can upload an image.
+- Image is stored in Netlify Blobs.
+- Image metadata is saved in PostgreSQL.
+- Image can be retrieved after deployment.
+- Image remains available after a new deployment.
+- Image replacement works.
+- Image deletion works.
+- Missing images produce appropriate responses.
+
+## Authentication tests
+
+- Admin login works.
+- Admin logout works.
+- Protected endpoints reject unauthorized requests.
+- CSRF protection works.
+- Token revocation works.
+- Expired sessions are rejected.
+- Rate limiting works.
+
+## Website tests
+
+- All existing pages load.
+- All internal links work.
+- All project images display.
+- All gallery images display.
+- All blog images display.
+- Contact form submissions are stored.
+- Admin dashboard works.
+- Mobile and desktop layouts work.
+
+## Security tests
+
+- No secrets are exposed in frontend bundles.
+- Database credentials are not exposed.
+- Unauthorized uploads are rejected.
+- Private files are protected.
+- User input is validated.
+- SQL injection protections are retained.
+- File upload validation works.
+
+Produce a clear test report with:
+
+| Test | Result | Evidence | Remaining issue |
+|---|---|---|---|
+
+Use these statuses:
+- PASS
+- FAIL
+- NOT TESTED
+- BLOCKED
+
+Do not report PASS without actual verification.
+
+# 18. PHASE SIXTEEN: ROLLBACK PLAN
+
+Preserve the original SQLite database and original uploaded files.
+
+Do not delete or overwrite them during migration.
+
+Create a rollback procedure that explains:
+
+1. How to restore the original application code.
+2. How to reconnect to the original SQLite database.
+3. How to restore the original upload paths.
+4. How to revert deployment configuration.
+5. How to return to the previous deployment if the Netlify migration fails.
+
+Do not make irreversible production changes without an explicit migration checkpoint.
+
+# 19. PHASE SEVENTEEN: REQUIRED IMPLEMENTATION DOCUMENTATION
+
+After implementation, provide a detailed report containing:
+
+A. Existing application audit.
+
+B. Files created.
+
+C. Files modified.
+
+D. Files removed, if any, with reasons.
+
+E. New dependencies installed.
+
+F. Database schema changes.
+
+G. Database migration results.
+
+H. Blob storage migration results.
+
+I. Authentication changes.
+
+J. Netlify configuration.
+
+K. Environment variables required.
+
+L. Netlify dashboard setup instructions.
+
+M. Local testing instructions.
+
+N. Deployment instructions.
+
+O. Production testing results.
+
+P. Backup and recovery instructions.
+
+Q. Rollback instructions.
+
+R. Remaining limitations.
+
+S. Any costs or possible paid dependencies.
+
+Clearly distinguish:
+- Implemented.
+- Implemented but not tested.
+- Requires user configuration.
+- Requires Netlify account action.
+- Blocked by missing credentials or infrastructure.
+
+# 20. IMPLEMENTATION ORDER
+
+Follow this order. Do not skip ahead.
+
+STEP 1 — Audit the existing application.
+
+STEP 2 — Report the current architecture and migration risks.
+
+STEP 3 — Design the Netlify-compatible architecture.
+
+STEP 4 — Adapt the Express backend to Netlify Functions.
+
+STEP 5 — Configure Netlify Database and the PostgreSQL schema.
+
+STEP 6 — Create and test the SQLite-to-PostgreSQL migration utility.
+
+STEP 7 — Implement Netlify Blobs storage.
+
+STEP 8 — Create and test the local-uploads-to-Blobs migration utility.
+
+STEP 9 — Adapt the existing authentication and security implementation.
+
+STEP 10 — Adapt all existing API routes and frontend integrations.
+
+STEP 11 — Configure Netlify deployment and routing.
+
+STEP 12 — Run local and preview tests.
+
+STEP 13 — Prepare production deployment instructions.
+
+STEP 14 — Execute migration only after the required infrastructure has been provisioned and the user has approved the migration checkpoint.
+
+STEP 15 — Verify the production website and produce the final report.
+
+If a phase depends on a Netlify dashboard action that the user must perform, stop at that checkpoint and provide beginner-friendly instructions.
+
+Do not pretend to have created a Netlify database, configured a Netlify project, or deployed the application unless those actions have actually been completed.
+
+# 21. IMPORTANT DEVELOPMENT RULES
+
+1. Work with the existing codebase.
+2. Preserve the current website design.
+3. Preserve real company information.
+4. Preserve all existing website pages.
+5. Preserve the existing admin dashboard.
+6. Preserve existing authentication security.
+7. Do not invent company information.
+8. Do not invent migration results.
+9. Do not delete the original SQLite database.
+10. Do not delete original uploaded images.
+11. Do not hardcode secrets.
+12. Do not introduce paid dependencies.
+13. Do not use local serverless filesystem storage for permanent data.
+14. Do not assume Netlify Blobs has automatic public URLs.
+15. Do not assume the database has already been provisioned.
+16. Do not run destructive migration scripts without approval.
+17. Do not claim successful deployment without verification.
+18. Do not rebuild the website from scratch.
+19. Do not sacrifice security for convenience.
+20. Explain technical tasks in simple language so the website owner can follow the deployment process.
+
+# FINAL INSTRUCTION
+
+Begin with STEP 1: inspect and audit the existing SPES Swiftpace Engineering Solutions Limited project.
+
+Do not immediately rewrite the entire codebase.
+
+First identify the actual current implementation, the files that need to change, the migration risks, and the required Netlify configuration.
+
+Then implement the migration in clearly separated phases.
+
+The final goal is a fully functional SPES website operating on Netlify Free, with the existing React + Vite frontend, Express API running through Netlify Functions, PostgreSQL through Netlify Database, and persistent media storage through Netlify Blobs.
+
+The initial operating target is $0 per month.
+
+The website must be functional, secure, recoverable, and measurable before any future upgrade is considered.

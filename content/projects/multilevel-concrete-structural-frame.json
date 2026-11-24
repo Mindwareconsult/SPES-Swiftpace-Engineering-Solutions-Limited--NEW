@@ -1,0 +1,61 @@
+{
+  "id": "multilevel-concrete-structural-frame",
+  "title": "Multi-Level Reinforced Concrete Structural Frame & Cantilevered Deck Construction",
+  "slug": "multilevel-concrete-structural-frame",
+  "category": "Building Construction",
+  "location": "South-West Nigeria",
+  "client": "Institutional / Commercial Client",
+  "projectStatus": "Superstructure Execution",
+  "completionDate": "Active Construction",
+  "shortDescription": "Construction of a 3-storey reinforced concrete framed building with full-height staging, timber falsework propping, cantilevered balcony slabs, and integrated structural staircase.",
+  "overview": "A multi-level structural building construction project in South-West Nigeria demonstrating integrated concrete framing capabilities. The project features a monolithic cast-in-place reinforced concrete skeleton comprising ground-to-roof columns, floor beams, cantilevered balcony projections, and cast-in-place reinforced concrete staircases.",
+  "objectives": "Construct a laterally stable multi-storey skeleton that optimizes internal clear spans and satisfies statutory physical planning and structural regulations.",
+  "scopeOfWork": "Ground-to-roof structural staging, timber and tubular steel propping, rebar fixing, monolithic concrete casting, staircase framing, and curing supervision.",
+  "technicalApproach": "Floor-by-floor staging with vertical props sized for wet-concrete loads plus construction live traffic, cross-braced access towers, and sequential de-shuttering tied to curing milestones.",
+  "projectOutcome": "Multi-level reinforced concrete skeleton delivered with consistent dimensional tolerances ready for masonry infill and architectural facade treatments.",
+  "coverImage": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+  "featured": false,
+  "published": true,
+  "order": 7,
+  "seoTitle": "Multi-Level Reinforced Concrete Framing | SPES Swiftpace",
+  "metaDescription": "Construction case study of a 3-storey reinforced concrete framed building and cantilevered slabs by SPES Swiftpace.",
+  "images": [
+    {
+      "id": "multilevel-concrete-structural-frame-img-1",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-01.jpg",
+      "caption": "Multi-level framed structure with dense vertical propping and formwork",
+      "order": 1
+    },
+    {
+      "id": "multilevel-concrete-structural-frame-img-2",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-02.jpg",
+      "caption": "Floor-by-floor falsework staging and concrete frame construction",
+      "order": 2
+    },
+    {
+      "id": "multilevel-concrete-structural-frame-img-3",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+      "caption": "Elevated view of 3-storey reinforced concrete skeleton with access staging",
+      "order": 3
+    },
+    {
+      "id": "multilevel-concrete-structural-frame-img-4",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-04.jpg",
+      "caption": "Cantilevered slab falsework and perimeter column casting",
+      "order": 4
+    },
+    {
+      "id": "multilevel-concrete-structural-frame-img-5",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-05.jpg",
+      "caption": "Structural access ramp and staircase installation within the building frame",
+      "order": 5
+    },
+    {
+      "id": "multilevel-concrete-structural-frame-img-6",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-06.jpg",
+      "caption": "Upper-deck propping and masonry infill sequence on lower level",
+      "order": 6
+    }
+  ],
+  "updatedAt": "2026-11-21 10:57:06"
+}

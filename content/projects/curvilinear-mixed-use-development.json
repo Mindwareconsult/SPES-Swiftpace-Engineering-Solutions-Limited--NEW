@@ -1,0 +1,49 @@
+{
+  "id": "curvilinear-mixed-use-development",
+  "title": "4-Storey Curvilinear Mixed-Use Architectural Development",
+  "slug": "curvilinear-mixed-use-development",
+  "category": "Architecture",
+  "location": "Urban Commercial Hub, South-West Nigeria",
+  "client": "Commercial Real Estate Investor",
+  "projectStatus": "Finishing & Envelope Phase",
+  "completionDate": "Active Project",
+  "shortDescription": "Distinctive 4-storey contemporary architectural mixed-use development featuring smooth curved cantilevered balconies, custom window apertures, and perimeter safety scaffolding.",
+  "overview": "An architectural landmark project showcasing contemporary spatial design and curvilinear execution. The 4-level building features a sweeping curved frontal elevation, continuous cantilevered balconies on each upper floor, multi-coat exterior screeding, architectural parapet styling, and mixed commercial/residential zoning.",
+  "objectives": "Deliver a visually commanding contemporary building that maximizes street frontage presence, promotes natural cross-ventilation through curved balconies, and incorporates durable weatherproofing.",
+  "scopeOfWork": "Architectural design, radial formwork engineering, cantilevered balcony structural detailing, exterior screeding and rendering, window frame installations, and modular scaffolding.",
+  "technicalApproach": "Custom radial formwork templates for curved floor slabs and balustrade curbs, weather-resistant sand-cement exterior rendering, and perimeter tubular steel scaffolding with safety netting.",
+  "projectOutcome": "Distinctive curved frontal facade achieved with smooth radial continuity for contemporary commercial and residential occupancy.",
+  "coverImage": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-01.jpg",
+  "featured": false,
+  "published": true,
+  "order": 8,
+  "seoTitle": "4-Storey Curvilinear Architectural Mixed-Use | SPES Swiftpace",
+  "metaDescription": "Architectural design and construction of a 4-storey curvilinear building with curved balconies by SPES Swiftpace.",
+  "images": [
+    {
+      "id": "curvilinear-mixed-use-development-img-1",
+      "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-01.jpg",
+      "caption": "Curved architectural facade with cantilevered front balconies and exterior screeding",
+      "order": 1
+    },
+    {
+      "id": "curvilinear-mixed-use-development-img-2",
+      "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-02.jpg",
+      "caption": "Side elevation showing window apertures and perimeter tubular steel scaffolding",
+      "order": 2
+    },
+    {
+      "id": "curvilinear-mixed-use-development-img-3",
+      "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-03.jpg",
+      "caption": "Street elevation with safety netting, external scaffolding, and commercial ground floor",
+      "order": 3
+    },
+    {
+      "id": "curvilinear-mixed-use-development-img-4",
+      "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-04.jpg",
+      "caption": "Detailed facade view of curved parapet, balcony balustrade recesses, and exterior plastering",
+      "order": 4
+    }
+  ],
+  "updatedAt": "2026-11-21 10:57:06"
+}

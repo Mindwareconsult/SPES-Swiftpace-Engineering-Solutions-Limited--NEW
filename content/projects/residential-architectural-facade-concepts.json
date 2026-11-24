@@ -1,0 +1,55 @@
+{
+  "id": "residential-architectural-facade-concepts",
+  "title": "Contemporary Residential & Multi-Unit Architectural Design Concepts",
+  "slug": "residential-architectural-facade-concepts",
+  "category": "Architecture",
+  "location": "Nigeria (Design Portfolio)",
+  "client": "SPES Architectural Studio Concepts",
+  "projectStatus": "Architectural Design & 3D Visualization",
+  "completionDate": "Design Portfolio",
+  "shortDescription": "Architectural design and 3D exterior visualization studies spanning modern terraced streetscapes, flat-roof contemporary duplexes, and pitched-roof residential villas with stone cladding and solar shading elements.",
+  "overview": "A curated collection of SPES architectural design studies illustrating versatile residential design languages—from high-density minimalist terraced townhomes with timber-slat screens and vertical shading louvers to bespoke detached two-storey family residences integrating textured stone veneers, illuminated entry stairs, and pitched dark-shingle rooflines.",
+  "objectives": "Explore climate-responsive facade articulation, natural daylighting through double-height glazing, sheltered balcony outdoor spaces, and rich material contrast prior to working drawings and site construction.",
+  "scopeOfWork": "Architectural massing, 3D facade visualization, material palette specification, balcony and louver detailing, and external driveway layout planning.",
+  "technicalApproach": "Balanced tropical solar control with modern residential geometry using recessed balconies, vertical timber/aluminum brise-soleil screens, deep cantilever soffits, and durable stone-cladding plinths.",
+  "projectOutcome": "Client-ready architectural exterior concepts bridging contemporary design aesthetics with buildable structural configurations.",
+  "coverImage": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+  "featured": true,
+  "published": true,
+  "order": 3,
+  "seoTitle": "Residential Architectural Design & Facade Concepts | SPES Swiftpace",
+  "metaDescription": "Modern architectural facade designs and 3D residential building visualizations by SPES Swiftpace Engineering Solutions Limited.",
+  "images": [
+    {
+      "id": "residential-architectural-facade-concepts-img-1",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+      "caption": "Contemporary multi-unit terraced streetscape design featuring cantilevered frames and timber-slat balcony screens",
+      "order": 1
+    },
+    {
+      "id": "residential-architectural-facade-concepts-img-2",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-modernist-townhouse-02.jpg",
+      "caption": "Minimalist white and charcoal terraced townhouse facade with vertical louvers and double-height glazing",
+      "order": 2
+    },
+    {
+      "id": "residential-architectural-facade-concepts-img-3",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-detached-flat-roof-03.jpg",
+      "caption": "Modern flat-roof detached 2-storey residential concept with textured stone veneer and illuminated entry steps",
+      "order": 3
+    },
+    {
+      "id": "residential-architectural-facade-concepts-img-4",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-pitched-roof-villa-04.jpg",
+      "caption": "Pitched dark-shingle roof residential villa concept pairing crisp white render with natural stone pier cladding",
+      "order": 4
+    },
+    {
+      "id": "residential-architectural-facade-concepts-img-5",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-ochre-duplex-concept-05.jpg",
+      "caption": "Two-storey residential duplex concept with warm accent projections, glass balcony, and geometric paved driveway",
+      "order": 5
+    }
+  ],
+  "updatedAt": "2026-11-21 10:57:06"
+}

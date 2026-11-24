@@ -1,0 +1,55 @@
+{
+  "id": "contemporary-terraced-residential-development",
+  "title": "Contemporary Multi-Unit Terraced Residential Development",
+  "slug": "contemporary-terraced-residential-development",
+  "category": "Building Construction",
+  "location": "Nigeria (Editable in Admin)",
+  "client": "Residential Development Client (Editable in Admin)",
+  "projectStatus": "Exterior Envelope & Courtyard Complete",
+  "completionDate": "Verified Portfolio Record",
+  "shortDescription": "Contemporary two-storey multi-unit terraced residential development featuring stark white ground-floor colonnades, dark charcoal cantilevered upper volumes, glazed balcony balustrades, and full interlocking paved courtyard.",
+  "overview": "A modern multi-unit terraced residential development showcasing clean geometric massing and coordinated external paving works. Each two-storey residence pairs a crisp white rendered ground-level entry colonnade with a contrasting dark charcoal upper facade, recessed window apertures, tinted glass balcony railings, exterior solar floodlighting, and a continuous interlocking concrete paver courtyard.",
+  "objectives": "Deliver durable, low-maintenance contemporary multi-family residences with unified architectural rhythm, weather-resistant exterior finishes, and heavy-duty vehicular courtyard paving.",
+  "scopeOfWork": "Superstructure masonry and reinforced concrete framing, cantilevered upper floor construction, multi-coat exterior screeding and two-tone painting, glass balcony balustrade installation, solar perimeter lighting, and interlocking driveway paving.",
+  "technicalApproach": "Contrasting matte charcoal and bright white weather-shield exterior coatings protect the rendered blockwork envelope while cantilevered porch soffits shelter ground-level entryways and integrated courtyard drainage gradients channel surface runoff.",
+  "projectOutcome": "Cohesive multi-unit residential terrace row delivered with crisp facade alignments, sheltered entry colonnades, and fully paved communal access.",
+  "coverImage": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+  "featured": true,
+  "published": true,
+  "order": 2,
+  "seoTitle": "Contemporary Terraced Residential Development | SPES Swiftpace",
+  "metaDescription": "Modern two-storey white and charcoal terraced residential building construction and interlocking courtyard paving by SPES Swiftpace.",
+  "images": [
+    {
+      "id": "contemporary-terraced-residential-development-img-1",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+      "caption": "Wide entrance courtyard view of white and charcoal multi-unit terraced duplexes with interlocking concrete paving",
+      "order": 1
+    },
+    {
+      "id": "contemporary-terraced-residential-development-img-2",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-perspective-02.jpg",
+      "caption": "Perspective elevation of the terraced residential row displaying glazed balcony railings and upper cantilevered bays",
+      "order": 2
+    },
+    {
+      "id": "contemporary-terraced-residential-development-img-3",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-corner-03.jpg",
+      "caption": "Corner perspective highlighting ground colonnade pillars, exterior solar floodlighting, and paved forecourt",
+      "order": 3
+    },
+    {
+      "id": "contemporary-terraced-residential-development-img-4",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-facade-04.jpg",
+      "caption": "Close architectural detail of unit entry recess, parapet roof edge, and tinted balcony glazing",
+      "order": 4
+    },
+    {
+      "id": "contemporary-terraced-residential-development-img-5",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-streetview-05.jpg",
+      "caption": "Continuous street frontage of the terraced residential units and interlocking vehicular driveway",
+      "order": 5
+    }
+  ],
+  "updatedAt": "2026-11-21 10:57:06"
+}

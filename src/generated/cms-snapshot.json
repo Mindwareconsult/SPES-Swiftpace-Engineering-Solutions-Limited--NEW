@@ -1,0 +1,2414 @@
+{
+  "projects": [
+    {
+      "id": "ijebu-ode-substructure-foundation-works",
+      "title": "Substructure Pad Foundation & Blockwork Engineering — Ijebu Ode",
+      "slug": "ijebu-ode-substructure-foundation-works",
+      "category": "Civil & Structural Engineering",
+      "location": "Taiwo Osipitan St, Ijebu Ode, Ogun State, Nigeria",
+      "client": "Private Development Client (Editable in Admin)",
+      "projectStatus": "Substructure / Active Construction",
+      "completionDate": "Sept – Nov 2026 (Site Progress)",
+      "shortDescription": "Active substructure engineering and foundation construction in Ijebu Ode, Ogun State featuring excavated laterite pad footings, starter column reinforcement cages, concrete blinding, and sandcrete foundation blockwork.",
+      "overview": "On-site civil and structural substructure execution in Ijebu Ode, Ogun State, Nigeria. Site photography from September through November 2026 documents deep laterite soil excavations, weak-concrete trench blinding, fabricated high-tensile steel pad mats and column starter cages, cast concrete pad footings, and rising sandcrete block foundation walls supervised by SPES Swiftpace field operatives.",
+      "objectives": "Establish a stable load-bearing substructure within lateritic soil strata, ensure precise column grid geometry from starter cages, and construct properly aligned foundation blockwork walls ready for ground-beam capping and backfilling.",
+      "scopeOfWork": "Setting out and trench/pit excavation, lean concrete blinding, pad footing and column starter rebar fabrication and tying, formwork boxing, pad concrete pouring, and substructure sandcrete masonry walling.",
+      "technicalApproach": "Executed reinforced concrete isolated pad footings linked with starter column dowel cages anchored beneath blinding cover levels, followed by plumbed sandcrete block infill tied symmetrically around structural column pockets.",
+      "projectOutcome": "Complete foundation footing grid and multi-bay substructure blockwork walls progressing on schedule with continuous SPES on-site supervision and PPE compliance.",
+      "coverImage": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-overview-01.jpg",
+      "featured": true,
+      "published": true,
+      "order": 1,
+      "seoTitle": "Substructure Pad Foundation Engineering, Ijebu Ode | SPES Swiftpace",
+      "metaDescription": "On-site pad foundation, starter column rebar tying, and substructure blockwork execution in Ijebu Ode, Ogun State by SPES Swiftpace Engineering Solutions Limited.",
+      "images": [
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-1",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-overview-01.jpg",
+          "caption": "Wide site overview of foundation blockwork grid and structural column positions in Ijebu Ode, Ogun State (02/11/2026)",
+          "order": 1
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-2",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-spes-team-rebar-02.jpg",
+          "caption": "SPES field engineering operative in branded hi-vis vest tying pad footing reinforcement in Ijebu Ode (17/10/2026)",
+          "order": 2
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-3",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-cast-pad-footing-03.jpg",
+          "caption": "Cast reinforced concrete pad footing and column starter rebar cage along Taiwo Osipitan St, Ijebu Ode (22/10/2026)",
+          "order": 3
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-4",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-pad-formwork-04.jpg",
+          "caption": "Freshly cast concrete pad base with timber perimeter boxing and vertical starter reinforcement (22/10/2026)",
+          "order": 4
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-5",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-blinded-trench-05.jpg",
+          "caption": "Excavated laterite foundation trench prepared with lean concrete blinding in Ijebu Ode (30/09/2026)",
+          "order": 5
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-6",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-column-starter-cage-06.jpg",
+          "caption": "Vertical column starter reinforcement cage and stirrup links assembled in excavated footing pit (19/10/2026)",
+          "order": 6
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-7",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-footing-mesh-tying-07.jpg",
+          "caption": "Steel fixer crew tying bottom pad footing reinforcement mat prior to concrete placement (17/10/2026)",
+          "order": 7
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-8",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-blockwork-08.jpg",
+          "caption": "Substructure sandcrete blockwork rising symmetrically around cast concrete starter columns",
+          "order": 8
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-9",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-substructure-walls-09.jpg",
+          "caption": "Multi-bay foundation wall layout and starter column alignment across the laterite excavation",
+          "order": 9
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-10",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-column-pocket-masonry-10.jpg",
+          "caption": "Masonry alignment and column pocket framing along primary load-bearing grid lines",
+          "order": 10
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-11",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-trench-rebar-grid-11.jpg",
+          "caption": "Foundation trench layout showing footing depth and adjacent substructure blockwork",
+          "order": 11
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-12",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-site-block-setting-12.jpg",
+          "caption": "Plumbed sandcrete block setting and mortar jointing along substructure courses",
+          "order": 12
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-13",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-crew-substructure-13.jpg",
+          "caption": "Site masons and supervisors executing substructure blockwork wearing safety hi-vis vests",
+          "order": 13
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-14",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-bay-14.jpg",
+          "caption": "Internal partition walling inside the excavated substructure grid",
+          "order": 14
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-15",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-corner-footing-15.jpg",
+          "caption": "Corner substructure footing intersection and perimeter blockwork construction",
+          "order": 15
+        },
+        {
+          "id": "ijebu-ode-substructure-foundation-works-img-16",
+          "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-perimeter-substructure-16.jpg",
+          "caption": "Perimeter substructure progression showing container site office and material staging",
+          "order": 16
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "contemporary-terraced-residential-development",
+      "title": "Contemporary Multi-Unit Terraced Residential Development",
+      "slug": "contemporary-terraced-residential-development",
+      "category": "Building Construction",
+      "location": "Nigeria (Editable in Admin)",
+      "client": "Residential Development Client (Editable in Admin)",
+      "projectStatus": "Exterior Envelope & Courtyard Complete",
+      "completionDate": "Verified Portfolio Record",
+      "shortDescription": "Contemporary two-storey multi-unit terraced residential development featuring stark white ground-floor colonnades, dark charcoal cantilevered upper volumes, glazed balcony balustrades, and full interlocking paved courtyard.",
+      "overview": "A modern multi-unit terraced residential development showcasing clean geometric massing and coordinated external paving works. Each two-storey residence pairs a crisp white rendered ground-level entry colonnade with a contrasting dark charcoal upper facade, recessed window apertures, tinted glass balcony railings, exterior solar floodlighting, and a continuous interlocking concrete paver courtyard.",
+      "objectives": "Deliver durable, low-maintenance contemporary multi-family residences with unified architectural rhythm, weather-resistant exterior finishes, and heavy-duty vehicular courtyard paving.",
+      "scopeOfWork": "Superstructure masonry and reinforced concrete framing, cantilevered upper floor construction, multi-coat exterior screeding and two-tone painting, glass balcony balustrade installation, solar perimeter lighting, and interlocking driveway paving.",
+      "technicalApproach": "Contrasting matte charcoal and bright white weather-shield exterior coatings protect the rendered blockwork envelope while cantilevered porch soffits shelter ground-level entryways and integrated courtyard drainage gradients channel surface runoff.",
+      "projectOutcome": "Cohesive multi-unit residential terrace row delivered with crisp facade alignments, sheltered entry colonnades, and fully paved communal access.",
+      "coverImage": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+      "featured": true,
+      "published": true,
+      "order": 2,
+      "seoTitle": "Contemporary Terraced Residential Development | SPES Swiftpace",
+      "metaDescription": "Modern two-storey white and charcoal terraced residential building construction and interlocking courtyard paving by SPES Swiftpace.",
+      "images": [
+        {
+          "id": "contemporary-terraced-residential-development-img-1",
+          "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+          "caption": "Wide entrance courtyard view of white and charcoal multi-unit terraced duplexes with interlocking concrete paving",
+          "order": 1
+        },
+        {
+          "id": "contemporary-terraced-residential-development-img-2",
+          "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-perspective-02.jpg",
+          "caption": "Perspective elevation of the terraced residential row displaying glazed balcony railings and upper cantilevered bays",
+          "order": 2
+        },
+        {
+          "id": "contemporary-terraced-residential-development-img-3",
+          "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-corner-03.jpg",
+          "caption": "Corner perspective highlighting ground colonnade pillars, exterior solar floodlighting, and paved forecourt",
+          "order": 3
+        },
+        {
+          "id": "contemporary-terraced-residential-development-img-4",
+          "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-facade-04.jpg",
+          "caption": "Close architectural detail of unit entry recess, parapet roof edge, and tinted balcony glazing",
+          "order": 4
+        },
+        {
+          "id": "contemporary-terraced-residential-development-img-5",
+          "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-streetview-05.jpg",
+          "caption": "Continuous street frontage of the terraced residential units and interlocking vehicular driveway",
+          "order": 5
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "residential-architectural-facade-concepts",
+      "title": "Contemporary Residential & Multi-Unit Architectural Design Concepts",
+      "slug": "residential-architectural-facade-concepts",
+      "category": "Architecture",
+      "location": "Nigeria (Design Portfolio)",
+      "client": "SPES Architectural Studio Concepts",
+      "projectStatus": "Architectural Design & 3D Visualization",
+      "completionDate": "Design Portfolio",
+      "shortDescription": "Architectural design and 3D exterior visualization studies spanning modern terraced streetscapes, flat-roof contemporary duplexes, and pitched-roof residential villas with stone cladding and solar shading elements.",
+      "overview": "A curated collection of SPES architectural design studies illustrating versatile residential design languages—from high-density minimalist terraced townhomes with timber-slat screens and vertical shading louvers to bespoke detached two-storey family residences integrating textured stone veneers, illuminated entry stairs, and pitched dark-shingle rooflines.",
+      "objectives": "Explore climate-responsive facade articulation, natural daylighting through double-height glazing, sheltered balcony outdoor spaces, and rich material contrast prior to working drawings and site construction.",
+      "scopeOfWork": "Architectural massing, 3D facade visualization, material palette specification, balcony and louver detailing, and external driveway layout planning.",
+      "technicalApproach": "Balanced tropical solar control with modern residential geometry using recessed balconies, vertical timber/aluminum brise-soleil screens, deep cantilever soffits, and durable stone-cladding plinths.",
+      "projectOutcome": "Client-ready architectural exterior concepts bridging contemporary design aesthetics with buildable structural configurations.",
+      "coverImage": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+      "featured": true,
+      "published": true,
+      "order": 3,
+      "seoTitle": "Residential Architectural Design & Facade Concepts | SPES Swiftpace",
+      "metaDescription": "Modern architectural facade designs and 3D residential building visualizations by SPES Swiftpace Engineering Solutions Limited.",
+      "images": [
+        {
+          "id": "residential-architectural-facade-concepts-img-1",
+          "url": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+          "caption": "Contemporary multi-unit terraced streetscape design featuring cantilevered frames and timber-slat balcony screens",
+          "order": 1
+        },
+        {
+          "id": "residential-architectural-facade-concepts-img-2",
+          "url": "/uploads/projects/architectural-facade-concepts/arch-modernist-townhouse-02.jpg",
+          "caption": "Minimalist white and charcoal terraced townhouse facade with vertical louvers and double-height glazing",
+          "order": 2
+        },
+        {
+          "id": "residential-architectural-facade-concepts-img-3",
+          "url": "/uploads/projects/architectural-facade-concepts/arch-detached-flat-roof-03.jpg",
+          "caption": "Modern flat-roof detached 2-storey residential concept with textured stone veneer and illuminated entry steps",
+          "order": 3
+        },
+        {
+          "id": "residential-architectural-facade-concepts-img-4",
+          "url": "/uploads/projects/architectural-facade-concepts/arch-pitched-roof-villa-04.jpg",
+          "caption": "Pitched dark-shingle roof residential villa concept pairing crisp white render with natural stone pier cladding",
+          "order": 4
+        },
+        {
+          "id": "residential-architectural-facade-concepts-img-5",
+          "url": "/uploads/projects/architectural-facade-concepts/arch-ochre-duplex-concept-05.jpg",
+          "caption": "Two-storey residential duplex concept with warm accent projections, glass balcony, and geometric paved driveway",
+          "order": 5
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "contemporary-interior-architecture-finishing",
+      "title": "Contemporary Residential Interior Architecture & Bespoke Joinery",
+      "slug": "contemporary-interior-architecture-finishing",
+      "category": "Architecture",
+      "location": "Nigeria (Interior Design Portfolio)",
+      "client": "Residential Interior Portfolio",
+      "projectStatus": "Interior Architecture & Finishing Concepts",
+      "completionDate": "Design & Finishing Portfolio",
+      "shortDescription": "Comprehensive residential interior architecture and bespoke finishing studies featuring cove-lit living areas, fluted timber joinery, modern island kitchens, primary bedroom suites, and custom wardrobe systems.",
+      "overview": "Interior spatial planning, ceiling architecture, lighting integration, and custom millwork concepts crafted for modern residences. The visual studies demonstrate cohesive coordination between recessed perimeter POP/gypsum cove ceilings, warm architectural LED accent lighting, fluted timber paneling, stone countertops, and floor-to-ceiling modular cabinetry across kitchens, living lounges, and primary bedrooms.",
+      "objectives": "Harmonize functional ergonomics, concealed task and ambient lighting, durable stone/marble worktops, and clean-lined storage joinery across modern residential interiors.",
+      "scopeOfWork": "Interior space planning, recessed ceiling and lighting design, kitchen island and cabinetry millwork detailing, bedroom headboard wall paneling, and custom wardrobe/vanity joinery concepts.",
+      "technicalApproach": "Layered indirect warm LED strip illumination inside ceiling coves, floating wall partitions, and under-cabinet plinths alongside moisture-resistant cabinetry finishes and polished stone counters.",
+      "projectOutcome": "Integrated interior architectural benchmarks guiding high-specification residential finishing and bespoke joinery execution.",
+      "coverImage": "/uploads/projects/interior-architecture-joinery/interior-primary-bedroom-suite-08.jpg",
+      "featured": true,
+      "published": true,
+      "order": 4,
+      "seoTitle": "Residential Interior Architecture & Bespoke Joinery | SPES Swiftpace",
+      "metaDescription": "Modern kitchen, living room, and primary bedroom interior architecture and finishing designs by SPES Swiftpace.",
+      "images": [
+        {
+          "id": "contemporary-interior-architecture-finishing-img-1",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-open-kitchen-curve-01.jpg",
+          "caption": "Open-plan contemporary kitchen featuring curved LED ceiling cove, fluted timber island, and globe pendant lights",
+          "order": 1
+        },
+        {
+          "id": "contemporary-interior-architecture-finishing-img-2",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-living-media-wall-02.jpg",
+          "caption": "Living and dining suite with backlit floating media partition, slatted wood wall detailing, and cove ceiling",
+          "order": 2
+        },
+        {
+          "id": "contemporary-interior-architecture-finishing-img-3",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-white-living-cove-03.jpg",
+          "caption": "Minimalist bright living/dining interior with recessed perimeter LED ceiling lighting and clean wall paneling",
+          "order": 3
+        },
+        {
+          "id": "contemporary-interior-architecture-finishing-img-4",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-kitchen-island-charcoal-04.jpg",
+          "caption": "Charcoal and beige kitchen with fluted wood breakfast island, black stone top, and geometric pendant lighting",
+          "order": 4
+        },
+        {
+          "id": "contemporary-interior-architecture-finishing-img-5",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-kitchen-peninsula-marble-05.jpg",
+          "caption": "Warm timber and marble-veined peninsula kitchen with fluted wood base and illuminated glass display cabinet",
+          "order": 5
+        },
+        {
+          "id": "contemporary-interior-architecture-finishing-img-6",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-kitchen-greige-lshape-06.jpg",
+          "caption": "Minimalist L-shaped kitchen cabinetry with integrated built-in oven and warm under-cabinet task lighting",
+          "order": 6
+        },
+        {
+          "id": "contemporary-interior-architecture-finishing-img-7",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-kitchen-u-shape-07.jpg",
+          "caption": "Dark charcoal and walnut U-shaped kitchen layout with LED plinth lighting and open corner shelving",
+          "order": 7
+        },
+        {
+          "id": "contemporary-interior-architecture-finishing-img-8",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-primary-bedroom-suite-08.jpg",
+          "caption": "Primary bedroom suite showcasing coffered cove-lit ceiling, vertical padded wall panels, and full-height glazing",
+          "order": 8
+        },
+        {
+          "id": "contemporary-interior-architecture-finishing-img-9",
+          "url": "/uploads/projects/interior-architecture-joinery/interior-bespoke-wardrobe-vanity-09.jpg",
+          "caption": "Bespoke floor-to-ceiling gloss wardrobe joinery with backlit arched mirror on fluted timber backdrop",
+          "order": 9
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "commercial-column-structural-shoring",
+      "title": "Multi-Storey Commercial Development & Column Structural Shoring",
+      "slug": "commercial-column-structural-shoring",
+      "category": "Civil & Structural Engineering",
+      "location": "South-West Nigeria (Coordinates: E3.4 N6.5)",
+      "client": "Commercial Development Partner",
+      "projectStatus": "Superstructure Phase",
+      "completionDate": "Active Project",
+      "shortDescription": "Precision structural engineering execution featuring reinforced concrete column formwork, heavy-duty adjustable shoring systems, and high-tensile steel rebar cages on an elevated commercial deck.",
+      "overview": "Active structural engineering and site construction coordination for a modern multi-storey commercial facility. The works showcase precision-engineered timber and steel column shuttering, rigid diagonal shoring systems designed to resist hydrostatic lateral pressures during concrete placement, and dense Grade 460B reinforcement bar assemblies executed in strict conformance with structural design specifications.",
+      "objectives": "Ensure vertical alignment (plumbness), eliminate differential deflection during concrete placement, guarantee watertight formwork joints to prevent grout leakage, and enforce occupational safety on elevated decks.",
+      "scopeOfWork": "Structural formwork fabrication and erection, rebar cutting, bending and cage placement, concrete cover spacer block distribution, laser leveling, plumb-line verification, and pre-pour technical sign-offs.",
+      "technicalApproach": "Utilized engineered modular formwork panels, heavy-duty adjustable steel push-pull props, calibrated steel tie-rods with high-torque wing-nuts, and Grade 460B high-yield deformed bars with controlled cover depth.",
+      "projectOutcome": "Accurate column alignment across the multi-bay grid, clean concrete finishes upon de-shuttering, and verified structural integrity in compliance with Nigerian National Building Codes.",
+      "coverImage": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+      "featured": true,
+      "published": true,
+      "order": 5,
+      "seoTitle": "Multi-Storey Column Structural Shoring | SPES Swiftpace Engineering",
+      "metaDescription": "Case study of reinforced concrete column shuttering and structural shoring systems by SPES Swiftpace in South-West Nigeria.",
+      "images": [
+        {
+          "id": "commercial-column-structural-shoring-img-1",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+          "caption": "Reinforced concrete column formwork assembly and vertical steel propping systems",
+          "order": 1
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-2",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-02.jpg",
+          "caption": "Heavy-duty column shuttering with diagonal tie-rod alignment shores",
+          "order": 2
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-3",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-03.jpg",
+          "caption": "Pre-pour inspection of vertical rebar cages and timber formwork framework",
+          "order": 3
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-4",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-04.jpg",
+          "caption": "Column perimeter structural supports with high-capacity steel jacks",
+          "order": 4
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-5",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-05.jpg",
+          "caption": "Overview of multi-column shuttering grid across the upper suspended deck",
+          "order": 5
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-6",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-06.jpg",
+          "caption": "Vertical elevation view of column rebar starter bars and shoring props",
+          "order": 6
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-7",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-07.jpg",
+          "caption": "Lateral bracing and structural alignment inspection on concrete columns",
+          "order": 7
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-8",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-08.jpg",
+          "caption": "Formwork alignment verification against structural grid specifications",
+          "order": 8
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-9",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-09.jpg",
+          "caption": "Column reinforcement cage positioning before concrete batch placement",
+          "order": 9
+        },
+        {
+          "id": "commercial-column-structural-shoring-img-10",
+          "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-10.jpg",
+          "caption": "Safety-inspected column formwork ready for concrete placement",
+          "order": 10
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "suspended-slab-rebar-assembly",
+      "title": "Suspended Floor Slab Assembly & On-Site Engineering Supervision",
+      "slug": "suspended-slab-rebar-assembly",
+      "category": "Construction Management",
+      "location": "Lagos, Nigeria",
+      "client": "Private Commercial Stakeholder",
+      "projectStatus": "Superstructure In Progress",
+      "completionDate": "Active Project",
+      "shortDescription": "On-site construction management and suspended floor slab structural coordination in Lagos, Nigeria, capturing resident engineers verifying blueprints, drop beam rebar cages, and conduit embedment.",
+      "overview": "Located in Lagos, Nigeria, this assignment showcases critical-path construction supervision and structural quality assurance on an elevated floor deck. Resident site engineers review structural working drawings directly on the slab prior to casting, inspecting marine board shuttering, main drop-beam rebar cages, two-way slab mesh, and MEP conduit routing.",
+      "objectives": "Maintain strict blueprint fidelity on site, verify bar spacing and lap lengths per BS 8110 / Eurocode 2, coordinate MEP rough-ins before concrete pouring, and eliminate rework.",
+      "scopeOfWork": "On-site blueprint verification, deck falsework and marine board inspection, drop-beam and two-way slab rebar QA/QC, electrical conduit coordination, and pre-pour engineer sign-off.",
+      "technicalApproach": "Continuous supervisory drawing audits by resident project engineers, verifying tension anchorages, cranked bars, beam-column joint confinements, and cover spacers before monolithic concrete placement.",
+      "projectOutcome": "Coordinated structural deck with verified rebar clearances and MEP embeds ready for monolithic concrete casting under strict supervision.",
+      "coverImage": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+      "featured": true,
+      "published": true,
+      "order": 6,
+      "seoTitle": "Suspended Concrete Slab & On-Site Supervision | SPES Swiftpace",
+      "metaDescription": "Construction management, suspended slab rebar assembly, and on-site drawing verification in Lagos, Nigeria by SPES Swiftpace.",
+      "images": [
+        {
+          "id": "suspended-slab-rebar-assembly-img-1",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+          "caption": "Site supervisory engineers inspecting structural drawings directly on the suspended rebar deck",
+          "order": 1
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-2",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-02.jpg",
+          "caption": "Reviewing reinforcement schedule and column starter bar alignment with engineering drawings",
+          "order": 2
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-3",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-03.jpg",
+          "caption": "Drop-beam rebar cage placement and marine board formwork deck",
+          "order": 3
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-4",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-04.jpg",
+          "caption": "Suspended floor slab rebar grid tying with drop beams and perimeter stirrups",
+          "order": 4
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-5",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-05.jpg",
+          "caption": "Detailed view of main beam tensile reinforcement bars and shear links",
+          "order": 5
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-6",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-06.jpg",
+          "caption": "Operatives tying two-way slab reinforcement mesh according to bar-bending schedule",
+          "order": 6
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-7",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-07.jpg",
+          "caption": "Electrical conduits and mechanical piping integration within the reinforcement grid",
+          "order": 7
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-8",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-08.jpg",
+          "caption": "Pre-pour steel reinforcement inspection and concrete cover verification",
+          "order": 8
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-9",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-09.jpg",
+          "caption": "Engineers verifying lap lengths and anchorages for elevated concrete casting",
+          "order": 9
+        },
+        {
+          "id": "suspended-slab-rebar-assembly-img-10",
+          "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-10.jpg",
+          "caption": "Completed suspended slab rebar assembly prepared for monolithic concrete pouring",
+          "order": 10
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "multilevel-concrete-structural-frame",
+      "title": "Multi-Level Reinforced Concrete Structural Frame & Cantilevered Deck Construction",
+      "slug": "multilevel-concrete-structural-frame",
+      "category": "Building Construction",
+      "location": "South-West Nigeria",
+      "client": "Institutional / Commercial Client",
+      "projectStatus": "Superstructure Execution",
+      "completionDate": "Active Construction",
+      "shortDescription": "Construction of a 3-storey reinforced concrete framed building with full-height staging, timber falsework propping, cantilevered balcony slabs, and integrated structural staircase.",
+      "overview": "A multi-level structural building construction project in South-West Nigeria demonstrating integrated concrete framing capabilities. The project features a monolithic cast-in-place reinforced concrete skeleton comprising ground-to-roof columns, floor beams, cantilevered balcony projections, and cast-in-place reinforced concrete staircases.",
+      "objectives": "Construct a laterally stable multi-storey skeleton that optimizes internal clear spans and satisfies statutory physical planning and structural regulations.",
+      "scopeOfWork": "Ground-to-roof structural staging, timber and tubular steel propping, rebar fixing, monolithic concrete casting, staircase framing, and curing supervision.",
+      "technicalApproach": "Floor-by-floor staging with vertical props sized for wet-concrete loads plus construction live traffic, cross-braced access towers, and sequential de-shuttering tied to curing milestones.",
+      "projectOutcome": "Multi-level reinforced concrete skeleton delivered with consistent dimensional tolerances ready for masonry infill and architectural facade treatments.",
+      "coverImage": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+      "featured": false,
+      "published": true,
+      "order": 7,
+      "seoTitle": "Multi-Level Reinforced Concrete Framing | SPES Swiftpace",
+      "metaDescription": "Construction case study of a 3-storey reinforced concrete framed building and cantilevered slabs by SPES Swiftpace.",
+      "images": [
+        {
+          "id": "multilevel-concrete-structural-frame-img-1",
+          "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-01.jpg",
+          "caption": "Multi-level framed structure with dense vertical propping and formwork",
+          "order": 1
+        },
+        {
+          "id": "multilevel-concrete-structural-frame-img-2",
+          "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-02.jpg",
+          "caption": "Floor-by-floor falsework staging and concrete frame construction",
+          "order": 2
+        },
+        {
+          "id": "multilevel-concrete-structural-frame-img-3",
+          "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+          "caption": "Elevated view of 3-storey reinforced concrete skeleton with access staging",
+          "order": 3
+        },
+        {
+          "id": "multilevel-concrete-structural-frame-img-4",
+          "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-04.jpg",
+          "caption": "Cantilevered slab falsework and perimeter column casting",
+          "order": 4
+        },
+        {
+          "id": "multilevel-concrete-structural-frame-img-5",
+          "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-05.jpg",
+          "caption": "Structural access ramp and staircase installation within the building frame",
+          "order": 5
+        },
+        {
+          "id": "multilevel-concrete-structural-frame-img-6",
+          "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-06.jpg",
+          "caption": "Upper-deck propping and masonry infill sequence on lower level",
+          "order": 6
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "curvilinear-mixed-use-development",
+      "title": "4-Storey Curvilinear Mixed-Use Architectural Development",
+      "slug": "curvilinear-mixed-use-development",
+      "category": "Architecture",
+      "location": "Urban Commercial Hub, South-West Nigeria",
+      "client": "Commercial Real Estate Investor",
+      "projectStatus": "Finishing & Envelope Phase",
+      "completionDate": "Active Project",
+      "shortDescription": "Distinctive 4-storey contemporary architectural mixed-use development featuring smooth curved cantilevered balconies, custom window apertures, and perimeter safety scaffolding.",
+      "overview": "An architectural landmark project showcasing contemporary spatial design and curvilinear execution. The 4-level building features a sweeping curved frontal elevation, continuous cantilevered balconies on each upper floor, multi-coat exterior screeding, architectural parapet styling, and mixed commercial/residential zoning.",
+      "objectives": "Deliver a visually commanding contemporary building that maximizes street frontage presence, promotes natural cross-ventilation through curved balconies, and incorporates durable weatherproofing.",
+      "scopeOfWork": "Architectural design, radial formwork engineering, cantilevered balcony structural detailing, exterior screeding and rendering, window frame installations, and modular scaffolding.",
+      "technicalApproach": "Custom radial formwork templates for curved floor slabs and balustrade curbs, weather-resistant sand-cement exterior rendering, and perimeter tubular steel scaffolding with safety netting.",
+      "projectOutcome": "Distinctive curved frontal facade achieved with smooth radial continuity for contemporary commercial and residential occupancy.",
+      "coverImage": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-01.jpg",
+      "featured": false,
+      "published": true,
+      "order": 8,
+      "seoTitle": "4-Storey Curvilinear Architectural Mixed-Use | SPES Swiftpace",
+      "metaDescription": "Architectural design and construction of a 4-storey curvilinear building with curved balconies by SPES Swiftpace.",
+      "images": [
+        {
+          "id": "curvilinear-mixed-use-development-img-1",
+          "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-01.jpg",
+          "caption": "Curved architectural facade with cantilevered front balconies and exterior screeding",
+          "order": 1
+        },
+        {
+          "id": "curvilinear-mixed-use-development-img-2",
+          "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-02.jpg",
+          "caption": "Side elevation showing window apertures and perimeter tubular steel scaffolding",
+          "order": 2
+        },
+        {
+          "id": "curvilinear-mixed-use-development-img-3",
+          "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-03.jpg",
+          "caption": "Street elevation with safety netting, external scaffolding, and commercial ground floor",
+          "order": 3
+        },
+        {
+          "id": "curvilinear-mixed-use-development-img-4",
+          "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-04.jpg",
+          "caption": "Detailed facade view of curved parapet, balcony balustrade recesses, and exterior plastering",
+          "order": 4
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "contemporary-residential-duplex",
+      "title": "Luxury Contemporary 2-Storey Residential Duplex & External Works",
+      "slug": "contemporary-residential-duplex",
+      "category": "Building Construction",
+      "location": "Ado Ekiti & Regional Residential Hubs, Ekiti State",
+      "client": "Private Residential Owner",
+      "projectStatus": "Completed Exterior Envelope",
+      "completionDate": "Verified Portfolio Record",
+      "shortDescription": "Turnkey architectural and building construction delivery of a luxury 2-storey duplex featuring clean white exterior screeding, architectural parapets, dark shingle roof, cantilevered balcony, and paved grounds.",
+      "overview": "A modern private residential building construction project showcasing SPES Swiftpace’s craftsmanship. The duplex features contemporary architectural styling, crisp multi-coat exterior screeding, contrasting dark roof tiles, parapet moldings, tinted glazing, cantilevered balcony with accent brick cladding, and paved exterior grounds.",
+      "objectives": "Deliver a private luxury residence meeting high standards of architectural refinement, structural durability, thermal comfort, and secure perimeter containment.",
+      "scopeOfWork": "Turnkey building construction from foundation to final finishes, roof framing and dark shingle roofing, electrical and plumbing installations, exterior screeding and painting, and interlocking driveway paving.",
+      "technicalApproach": "Reinforced concrete frame with sandcrete block infill, waterproofed parapet gutters, tinted exterior glazing, and heavy-duty interlocking concrete compound paving.",
+      "projectOutcome": "Completed exterior building envelope and compound paving with durable, low-maintenance finishes.",
+      "coverImage": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-01.jpg",
+      "featured": false,
+      "published": true,
+      "order": 9,
+      "seoTitle": "Contemporary 2-Storey Residential Duplex | SPES Swiftpace",
+      "metaDescription": "Turnkey architectural planning and building construction of a luxury residential duplex in Ekiti State by SPES Swiftpace.",
+      "images": [
+        {
+          "id": "contemporary-residential-duplex-img-1",
+          "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-01.jpg",
+          "caption": "Front exterior view of completed contemporary 2-storey duplex villa with modern dark roof shingles",
+          "order": 1
+        },
+        {
+          "id": "contemporary-residential-duplex-img-2",
+          "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-02.jpg",
+          "caption": "Side elevation featuring architectural parapet profiles, window moldings, and drainage downpipes",
+          "order": 2
+        },
+        {
+          "id": "contemporary-residential-duplex-img-3",
+          "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-03.jpg",
+          "caption": "Entry porch with dark accent brickwork, cantilevered upper balcony, and granite entrance steps",
+          "order": 3
+        },
+        {
+          "id": "contemporary-residential-duplex-img-4",
+          "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-04.jpg",
+          "caption": "Site layout showing paved interlocking driveway, boundary security wall, and external utilities",
+          "order": 4
+        }
+      ],
+      "updatedAt": "2026-11-21 10:57:06"
+    }
+  ],
+  "services": [
+    {
+      "id": "architecture",
+      "title": "Architecture",
+      "slug": "architecture",
+      "iconName": "Compass",
+      "shortDescription": "Architectural planning and design support for functional, considered and context-appropriate built environments.",
+      "heroImage": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+      "relatedCategory": "Architecture",
+      "galleryImages": [
+        {
+          "src": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+          "alt": "Contemporary terraced residential architectural streetscape design"
+        },
+        {
+          "src": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-01.jpg",
+          "alt": "4-storey curvilinear mixed-use building facade"
+        },
+        {
+          "src": "/uploads/projects/interior-architecture-joinery/interior-primary-bedroom-suite-08.jpg",
+          "alt": "Residential interior architecture with coffered cove ceiling lighting"
+        },
+        {
+          "src": "/uploads/projects/architectural-facade-concepts/arch-modernist-townhouse-02.jpg",
+          "alt": "Minimalist townhouse exterior with vertical louvers and glazing"
+        }
+      ],
+      "detailedOverview": "SPES Swiftpace Engineering Solutions Limited provides architectural planning and design support focused on functional, considered and context-appropriate built environments. Our design methodology unites spatial ergonomics, bioclimatic climate responsiveness, and cutting-edge 3D modeling with direct structural buildability to produce enduring built environments across commercial, civic, and residential sectors.",
+      "capabilities": [
+        "Architectural planning and creative master planning",
+        "Residential building design (contemporary villas, luxury duplexes, multi-family housing)",
+        "Commercial, corporate, and institutional facility design",
+        "Spatial layouts, functional ergonomics, and interior space planning",
+        "Comprehensive architectural working drawings and statutory documentation",
+        "Building renovation, adaptive reuse, and facade remodeling",
+        "Interdisciplinary design coordination with structural and MEP engineers"
+      ],
+      "clientBenefits": [
+        {
+          "title": "Optimized Spatial Efficiency",
+          "desc": "Every square meter is programmed to maximize usability, natural daylighting, and circulation flow."
+        },
+        {
+          "title": "Bioclimatic Thermal Comfort",
+          "desc": "Passive cooling, strategic solar shading, and cross-ventilation reduce continuous energy and HVAC costs."
+        },
+        {
+          "title": "Flawless Statutory Compliance",
+          "desc": "Permit-ready working drawings engineered to adhere to state town planning regulations."
+        },
+        {
+          "title": "Timeless Aesthetic Identity",
+          "desc": "Distinctive architectural form that elevates corporate prestige and real estate market value."
+        }
+      ],
+      "processStages": [
+        {
+          "step": "01",
+          "title": "Client Brief & Site Analysis",
+          "desc": "Clarifying the client’s objectives, site contours, requirements, and physical planning constraints."
+        },
+        {
+          "step": "02",
+          "title": "Conceptual Schematics",
+          "desc": "Drafting preliminary spatial layouts, massing studies, and architectural volumetric concepts."
+        },
+        {
+          "step": "03",
+          "title": "Design Development & 3D Modeling",
+          "desc": "Refining volumetric geometry, material finishes, photorealistic 3D renders, and walk-throughs."
+        },
+        {
+          "step": "04",
+          "title": "Detailed Working Drawings",
+          "desc": "Compiling structural-compatible construction drawings, door/window schedules, and specifications."
+        },
+        {
+          "step": "05",
+          "title": "Statutory Permitting",
+          "desc": "Assembling submission packages for government physical planning authority approval."
+        },
+        {
+          "step": "06",
+          "title": "Site Design Supervision",
+          "desc": "Periodic architectural inspections ensuring on-site craftsmanship matches design intent."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can SPES design both residential and commercial buildings?",
+          "a": "Yes. Our architectural team has experience across private residences, multi-unit residential developments, retail plazas, corporate office towers, and civic facilities."
+        },
+        {
+          "q": "Do you assist with physical planning building permits in Ekiti and South-West Nigeria?",
+          "a": "Yes. We prepare full architectural packages tailored to meet the statutory codes and requirements of state urban development and physical planning authorities."
+        },
+        {
+          "q": "Can you work with an existing concept or remodel an older property?",
+          "a": "Absolutely. We specialize in renovation, adaptive reuse, and modern facade updates for existing structures."
+        }
+      ],
+      "order": 1,
+      "published": true,
+      "seoTitle": "Architecture | SPES Swiftpace Engineering Solutions Limited",
+      "metaDescription": "Architectural planning and design support for functional, considered and context-appropriate built environments.",
+      "updatedAt": "2026-11-21T11:07:49.264Z"
+    },
+    {
+      "id": "building-construction",
+      "title": "Building Construction",
+      "slug": "building-construction",
+      "iconName": "Building2",
+      "shortDescription": "Building construction services focused on translating project requirements and design intent into built works.",
+      "heroImage": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+      "relatedCategory": "Building Construction",
+      "galleryImages": [
+        {
+          "src": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+          "alt": "Completed white and charcoal multi-unit terraced residential development with paved courtyard"
+        },
+        {
+          "src": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-01.jpg",
+          "alt": "Contemporary 2-storey residential duplex construction"
+        },
+        {
+          "src": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+          "alt": "Multi-level reinforced concrete framed building under construction"
+        },
+        {
+          "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-blockwork-08.jpg",
+          "alt": "Substructure sandcrete blockwork rising around concrete starter columns in Ijebu Ode"
+        }
+      ],
+      "detailedOverview": "SPES Swiftpace Engineering Solutions Limited provides building construction services dedicated to translating project requirements and design intent into high-quality built works. Operating from Ado Ekiti, Ekiti State, we provide ground-up construction management, substructure foundations, reinforced concrete frames, masonry infills, roofing systems, and turnkey finishes.",
+      "capabilities": [
+        "Residential building construction (bespoke homes, luxury duplexes, gated estates)",
+        "Commercial building construction (office complexes, shopping plazas, hospitality)",
+        "Institutional and public sector facility construction",
+        "Turnkey property development from site clearing to turnkey handover",
+        "Structural renovation, building rehabilitation, and structural retrofitting",
+        "Continuous on-site quality assurance and laboratory material testing",
+        "Comprehensive construction supervision and sub-trade management"
+      ],
+      "clientBenefits": [
+        {
+          "title": "Rigorous Material Standards",
+          "desc": "We only deploy laboratory-tested cement, graded aggregates, and certified steel reinforcement bars."
+        },
+        {
+          "title": "Milestone-Driven Execution",
+          "desc": "Clear timeline schedules prevent unwarranted downtime and protect your capital expenditure."
+        },
+        {
+          "title": "Zero Compromise on Safety",
+          "desc": "Strict HSE protocols on every site minimize occupational hazards and site downtime."
+        },
+        {
+          "title": "Single-Source Accountability",
+          "desc": "One professional corporate partner managing all trades, suppliers, and specialist artisans."
+        }
+      ],
+      "processStages": [
+        {
+          "step": "01",
+          "title": "Mobilization & Site Setup",
+          "desc": "Survey pegging, perimeter hoarding, site offices, and equipment logistics."
+        },
+        {
+          "step": "02",
+          "title": "Substructure & Foundation Works",
+          "desc": "Excavation, blinding, steel rebar cage assembly, and foundation casting under supervision."
+        },
+        {
+          "step": "03",
+          "title": "Superstructure Framing",
+          "desc": "Casting columns, beams, suspended floor slabs, and load-bearing blockwork."
+        },
+        {
+          "step": "04",
+          "title": "Roofing & Building Envelope",
+          "desc": "Installation of engineered structural steel/timber trusses, roofing membranes, and facade cladding."
+        },
+        {
+          "step": "05",
+          "title": "Services & Finishes",
+          "desc": "Concealed MEP installations, screeding, tiling, architectural glazing, and custom joinery."
+        },
+        {
+          "step": "06",
+          "title": "Snagging, Testing & Handover",
+          "desc": "System commissioning, rigorous punch-list rectification, and client key handover."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How do you ensure construction quality on site?",
+          "a": "Every concrete pour undergoes standard slump tests and cube compression testing in accredited laboratories. We enforce strict supervision on rebar spacing, cover blocks, and mortar mix ratios."
+        },
+        {
+          "q": "Can you construct based on architectural drawings provided by another firm?",
+          "a": "Yes. We routinely review external architectural and structural packages, perform constructability audits, and execute the physical build to exact specifications."
+        }
+      ],
+      "order": 2,
+      "published": true,
+      "seoTitle": "Building Construction | SPES Swiftpace Engineering Solutions Limited",
+      "metaDescription": "Building construction services focused on translating project requirements and design intent into built works.",
+      "updatedAt": "2026-11-21T11:07:49.265Z"
+    },
+    {
+      "id": "civil-structural-engineering",
+      "title": "Civil & Structural Engineering",
+      "slug": "civil-structural-engineering",
+      "iconName": "Boxes",
+      "shortDescription": "Civil and structural engineering input supporting the planning, design and delivery of safe and functional infrastructure and building elements.",
+      "heroImage": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-overview-01.jpg",
+      "relatedCategory": "Civil & Structural Engineering",
+      "galleryImages": [
+        {
+          "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-overview-01.jpg",
+          "alt": "Wide site view of foundation blockwork grid and column positions in Ijebu Ode, Ogun State"
+        },
+        {
+          "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-cast-pad-footing-03.jpg",
+          "alt": "Cast reinforced concrete pad footing and column starter rebar cage in Ijebu Ode"
+        },
+        {
+          "src": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+          "alt": "Multi-storey commercial reinforced concrete column formwork and shoring"
+        },
+        {
+          "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-spes-team-rebar-02.jpg",
+          "alt": "SPES engineering team member tying pad footing reinforcement cage in Ijebu Ode"
+        }
+      ],
+      "detailedOverview": "SPES Swiftpace provides civil and structural engineering input supporting the planning, design and delivery of safe, functional infrastructure and durable building elements. We deploy advanced structural modeling and soil mechanics calculations to ensure every foundation, column, beam, suspended slab, and retaining structure is engineered for maximum structural integrity and code fidelity.",
+      "capabilities": [
+        "Comprehensive structural engineering design and finite element modeling",
+        "Structural health assessments, integrity audits, and load capacity evaluation",
+        "Subsurface foundation engineering (pad footings, raft foundations, piled systems)",
+        "Reinforced concrete structural design for multi-storey edifices",
+        "Structural steel design (trusses, portal frames, industrial warehouses, canopies)",
+        "Civil infrastructure engineering (access roads, drainage channels, culverts, retaining walls)",
+        "Detailed engineering calculation sheets, bar bending schedules (BBS), and structural drawings",
+        "Structural defect investigation, crack remediation, and structural strengthening consultancy"
+      ],
+      "clientBenefits": [
+        {
+          "title": "Guaranteed Structural Safety",
+          "desc": "Engineered in strict accordance with relevant BS/Eurocode standards and Nigerian building codes."
+        },
+        {
+          "title": "Cost-Optimized Reinforcement",
+          "desc": "Precise rebar calculations prevent both dangerous under-reinforcement and wasteful over-engineering."
+        },
+        {
+          "title": "Soil-Tailored Foundations",
+          "desc": "Custom foundation solutions engineered specifically for local soil stratigraphy and groundwater conditions."
+        },
+        {
+          "title": "Longevity & Asset Protection",
+          "desc": "Structures designed to remain durable, crack-free, and resilient across multi-decade lifespans."
+        }
+      ],
+      "processStages": [
+        {
+          "step": "01",
+          "title": "Geotechnical Soil Assessment",
+          "desc": "Reviewing soil bore logs, water table levels, and allowable bearing capacity."
+        },
+        {
+          "step": "02",
+          "title": "Load Modeling & Computational Analysis",
+          "desc": "Calculating dead, live, wind, and seismic load combinations via structural software."
+        },
+        {
+          "step": "03",
+          "title": "Structural Member Sizing",
+          "desc": "Dimensioning reinforced concrete beams, columns, suspended floor slabs, and foundations."
+        },
+        {
+          "step": "04",
+          "title": "Detailing & Bar-Bending Schedules",
+          "desc": "Producing unambiguous rebar placement drawings, lap lengths, and reinforcement schedules."
+        },
+        {
+          "step": "05",
+          "title": "Statutory Endorsements",
+          "desc": "Providing professional engineering calculation reports for approval."
+        },
+        {
+          "step": "06",
+          "title": "Site Inspection & Sign-off",
+          "desc": "Mandatory on-site pre-pour inspections of reinforcement cages, shuttering, and cover blocks."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Why is a structural engineering drawing mandatory for two-storey buildings and above?",
+          "a": "Multi-storey buildings exert significant loads on soil and structural columns. A structural drawing ensures reinforcement sizes, beam depths, and foundation types prevent catastrophic deflection or collapse."
+        },
+        {
+          "q": "Do you carry out structural integrity tests on existing buildings?",
+          "a": "Yes. We conduct non-destructive tests (rebound hammer tests, core sampling, ultrasonic pulse velocity) to assess the concrete quality and load capacity of existing or compromised structures."
+        }
+      ],
+      "order": 3,
+      "published": true,
+      "seoTitle": "Civil & Structural Engineering | SPES Swiftpace Engineering Solutions Limited",
+      "metaDescription": "Civil and structural engineering input supporting the planning, design and delivery of safe and functional infrastructure and building elements.",
+      "updatedAt": "2026-11-21T11:07:49.265Z"
+    },
+    {
+      "id": "construction-management",
+      "title": "Construction Management",
+      "slug": "construction-management",
+      "iconName": "ClipboardCheck",
+      "shortDescription": "Project coordination and construction management support, with attention to planning, sequencing, resources, quality and delivery.",
+      "heroImage": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+      "relatedCategory": "Construction Management",
+      "galleryImages": [
+        {
+          "src": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+          "alt": "Supervisory engineers reviewing structural drawings on suspended slab deck"
+        },
+        {
+          "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-crew-substructure-13.jpg",
+          "alt": "On-site supervision of substructure masonry crew wearing hi-vis safety vests"
+        },
+        {
+          "src": "/assets/projects/suspended-slab-decking/suspended-slab-decking-08.jpg",
+          "alt": "Pre-pour steel reinforcement verification and concrete cover checks"
+        },
+        {
+          "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-spes-team-rebar-02.jpg",
+          "alt": "SPES field supervision during pad foundation steel reinforcement assembly"
+        }
+      ],
+      "detailedOverview": "SPES Swiftpace delivers construction management support centered around critical-path sequencing, site coordination, contractor accountability, and financial transparency. We act as the client’s authoritative technical representative, coordinating consultants, trade contractors, and suppliers to eliminate budget leakages and project delays.",
+      "capabilities": [
+        "Critical Path Method (CPM) project scheduling and baseline tracking",
+        "Comprehensive procurement strategy and material supply chain management",
+        "Contract administration, contractor prequalification, and tender evaluation",
+        "On-site quality control (QC), materials testing, and craftsmanship verification",
+        "Occupational Health, Safety & Environment (HSE) site compliance enforcement",
+        "Cost control, bill of quantities (BOQ) valuation, and milestone payment certification",
+        "Regular client photographic progress logs and digital dashboard reporting"
+      ],
+      "clientBenefits": [
+        {
+          "title": "Elimination of Cost Overruns",
+          "desc": "Rigorous valuation of on-site works ensures contractors are only paid for verified milestones."
+        },
+        {
+          "title": "Strict Schedule Adherence",
+          "desc": "Proactive critical-path management mitigates supply chain delays and trade bottlenecks."
+        },
+        {
+          "title": "Uncompromising Quality",
+          "desc": "Daily engineering supervision eliminates shortcutting by artisans and trade crews."
+        },
+        {
+          "title": "Total Stakeholder Transparency",
+          "desc": "Detailed milestone reports, photographic records, and expenditure tracking."
+        }
+      ],
+      "processStages": [
+        {
+          "step": "01",
+          "title": "Project Charter & Work Breakdown",
+          "desc": "Establishing scope boundaries, timeline milestones, budget allocations, and RACI matrices."
+        },
+        {
+          "step": "02",
+          "title": "Tendering & Contractor Selection",
+          "desc": "Preparing tender documents, evaluating subcontractor bids, and structuring contract terms."
+        },
+        {
+          "step": "03",
+          "title": "Site Execution & Coordination",
+          "desc": "Daily coordination of site meetings, labor allocation, and trade sequencing."
+        },
+        {
+          "step": "04",
+          "title": "Quality & Safety Audits",
+          "desc": "Inspecting materials, verifying slump tests, and enforcing mandatory safety protocols."
+        },
+        {
+          "step": "05",
+          "title": "Financial Valuation & Claims",
+          "desc": "Measuring work done, verifying variation orders, and issuing milestone valuation certificates."
+        },
+        {
+          "step": "06",
+          "title": "Commissioning & Project Closeout",
+          "desc": "Comprehensive defect rectification, final account reconciliation, and handover."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What is the difference between a building contractor and a construction manager?",
+          "a": "A contractor is hired to execute specific physical works. A construction manager acts on behalf of the client to oversee, schedule, cost-manage, and quality-audit contractors, ensuring the client’s financial and quality interests are strictly protected."
+        },
+        {
+          "q": "Can SPES manage a project for clients based outside Ekiti or abroad in the diaspora?",
+          "a": "Yes. A substantial part of our clientele includes diaspora property owners and corporate organizations who rely on our transparent milestone reports, video walkthroughs, and verified bank certificate disbursements."
+        }
+      ],
+      "order": 4,
+      "published": true,
+      "seoTitle": "Construction Management | SPES Swiftpace Engineering Solutions Limited",
+      "metaDescription": "Project coordination and construction management support, with attention to planning, sequencing, resources, quality and delivery.",
+      "updatedAt": "2026-11-21T11:07:49.265Z"
+    },
+    {
+      "id": "consultancy",
+      "title": "Consultancy",
+      "slug": "consultancy",
+      "iconName": "Briefcase",
+      "shortDescription": "Professional advisory and consultancy support to help clients assess project needs, options and implementation considerations.",
+      "heroImage": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+      "relatedCategory": "Civil & Structural Engineering",
+      "galleryImages": [
+        {
+          "src": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+          "alt": "3-storey reinforced concrete frame structural evaluation"
+        },
+        {
+          "src": "/assets/projects/suspended-slab-decking/suspended-slab-decking-02.jpg",
+          "alt": "Technical blueprint audit and starter bar alignment verification on site"
+        },
+        {
+          "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-blinded-trench-05.jpg",
+          "alt": "Foundation trench inspection and soil bearing preparation in Ijebu Ode"
+        },
+        {
+          "src": "/assets/projects/commercial-column-shoring/commercial-column-shoring-04.jpg",
+          "alt": "Structural shoring and column alignment inspection"
+        }
+      ],
+      "detailedOverview": "SPES Swiftpace provides specialized engineering consultancy and professional advisory support. We help property owners, commercial enterprises, and institutional clients evaluate site suitability, analyze structural alternatives, navigate statutory physical planning frameworks, and resolve technical complexities before committing significant capital.",
+      "capabilities": [
+        "Project feasibility studies and technical viability assessments",
+        "Structural defect investigations, distress analysis, and rehabilitation schemes",
+        "Value engineering reviews to optimize material costs without compromising structural safety",
+        "Statutory compliance advisory, developmental approvals, and physical planning interface",
+        "Pre-purchase structural and architectural condition surveys for existing real estate",
+        "Expert witness technical reports and dispute resolution support",
+        "Environmental and site sustainability impact appraisals"
+      ],
+      "clientBenefits": [
+        {
+          "title": "De-Risked Capital Investment",
+          "desc": "Uncover hidden geotechnical, structural, or legal constraints before capital commitment."
+        },
+        {
+          "title": "Value-Engineered Savings",
+          "desc": "Identify design inefficiencies and excessive specifications to optimize total project expenditure."
+        },
+        {
+          "title": "Authoritative Technical Counsel",
+          "desc": "Objective, certified guidance unclouded by commercial product sales or contractor bias."
+        },
+        {
+          "title": "Regulatory Peace of Mind",
+          "desc": "Smooth navigation through local and state urban development planning frameworks."
+        }
+      ],
+      "processStages": [
+        {
+          "step": "01",
+          "title": "Consultation Briefing",
+          "desc": "Identifying client challenges, project objectives, and required technical deliverable scope."
+        },
+        {
+          "step": "02",
+          "title": "Site Inspection & Data Gathering",
+          "desc": "Field investigations, non-destructive testing, drawing audits, and regulatory inquiries."
+        },
+        {
+          "step": "03",
+          "title": "Engineering Analysis",
+          "desc": "Running diagnostic calculations, stress simulations, or financial feasibility modeling."
+        },
+        {
+          "step": "04",
+          "title": "Advisory Report Compilation",
+          "desc": "Synthesizing findings into an authoritative, actionable technical report with clear recommendations."
+        },
+        {
+          "step": "05",
+          "title": "Stakeholder Presentation",
+          "desc": "Briefing executive boards, property owners, or legal teams on strategic next steps."
+        },
+        {
+          "step": "06",
+          "title": "Implementation Support",
+          "desc": "Assisting with specification drafting, contractor vetting, or supervisory monitoring."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "When should I engage SPES for an engineering consultancy?",
+          "a": "As early as possible—ideally during land acquisition, prior to drawing finalization, or immediately upon noticing structural cracks, dampness, or settlement on an existing building."
+        },
+        {
+          "q": "Do you provide value engineering for drawings prepared by other consultants?",
+          "a": "Yes. We routinely review existing structural and architectural packages to identify optimization opportunities that reduce construction costs while upholding safety codes."
+        }
+      ],
+      "order": 5,
+      "published": true,
+      "seoTitle": "Consultancy | SPES Swiftpace Engineering Solutions Limited",
+      "metaDescription": "Professional advisory and consultancy support to help clients assess project needs, options and implementation considerations.",
+      "updatedAt": "2026-11-21T11:07:49.265Z"
+    },
+    {
+      "id": "allied-services",
+      "title": "Allied Services",
+      "slug": "allied-services",
+      "iconName": "Wrench",
+      "shortDescription": "Related services that complement the company’s core architecture, engineering, construction and management activities.",
+      "heroImage": "/uploads/projects/interior-architecture-joinery/interior-living-media-wall-02.jpg",
+      "relatedCategory": "Building Construction",
+      "galleryImages": [
+        {
+          "src": "/uploads/projects/interior-architecture-joinery/interior-living-media-wall-02.jpg",
+          "alt": "Contemporary interior living suite finishing and custom joinery"
+        },
+        {
+          "src": "/uploads/projects/interior-architecture-joinery/interior-kitchen-greige-lshape-06.jpg",
+          "alt": "Modern fitted kitchen cabinetry and interior electrical lighting integration"
+        },
+        {
+          "src": "/uploads/projects/contemporary-terraced-residential/terraced-residential-corner-03.jpg",
+          "alt": "Interlocking paved external courtyard and exterior floodlight installation"
+        },
+        {
+          "src": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-04.jpg",
+          "alt": "Completed residential driveway paving and perimeter security infrastructure"
+        }
+      ],
+      "detailedOverview": "To provide a truly seamless project delivery ecosystem, SPES Swiftpace Engineering Solutions Limited provides specialized allied technical services. These complementary capabilities encompass external works, drainage, site preparation, utility installations, interior finishing coordination, and technical infrastructure support.",
+      "capabilities": [
+        "Site preparation, bulk earthmoving, grading, and perimeter retaining walls",
+        "Interlocking concrete paving, perimeter security walls, and entrance gatehouses",
+        "Stormwater drainage channels, culvert construction, and soakaway systems",
+        "Mechanical, Electrical & Plumbing (MEP) coordination and borehole utility setups",
+        "Topographical land surveys and boundary demarcation verification",
+        "Facility maintenance planning and post-handover preventative servicing",
+        "Landscaping and external civil works integration"
+      ],
+      "clientBenefits": [
+        {
+          "title": "Unified Project Delivery",
+          "desc": "No need to coordinate external sub-vendors for perimeter fencing, paving, or drainage."
+        },
+        {
+          "title": "Durable Infrastructure Works",
+          "desc": "Heavy-duty pavement designs and stormwater channels engineered to resist erosion."
+        },
+        {
+          "title": "Enhanced Kerb Appeal",
+          "desc": "Refined external finishing that complements the primary architectural structure."
+        },
+        {
+          "title": "Long-Term Facility Performance",
+          "desc": "Reliable water, electrical, and drainage infrastructure built to commercial standards."
+        }
+      ],
+      "processStages": [
+        {
+          "step": "01",
+          "title": "Scope Definition",
+          "desc": "Assessing civil infrastructure, external works, or auxiliary requirements."
+        },
+        {
+          "step": "02",
+          "title": "Site Alignment & Grading",
+          "desc": "Establishing drainage fall levels, boundary pegs, and invert levels."
+        },
+        {
+          "step": "03",
+          "title": "Sub-base Preparation",
+          "desc": "Compaction, subgrade stabilization, and geotextile installation where required."
+        },
+        {
+          "step": "04",
+          "title": "Installation & Construction",
+          "desc": "Executing paving, drainage casting, utility piping, or electrical infrastructure."
+        },
+        {
+          "step": "05",
+          "title": "Testing & Commissioning",
+          "desc": "Testing drainage flow, water pressure, and electrical circuitry."
+        },
+        {
+          "step": "06",
+          "title": "Handover & Integration",
+          "desc": "Final clean-up, integration with the main facility, and operational verification."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can I contract SPES solely for external paving, drainage, and boundary fencing?",
+          "a": "Yes. We accept dedicated civil external works, drainage canalization, and perimeter infrastructure projects for residential estates, schools, and commercial facilities."
+        },
+        {
+          "q": "Do you handle stormwater drainage in flood-prone areas?",
+          "a": "Yes. Our civil engineers calculate catchment storm runoff volumes and construct properly graded reinforced concrete channels to permanently eliminate flooding."
+        }
+      ],
+      "order": 6,
+      "published": true,
+      "seoTitle": "Allied Services | SPES Swiftpace Engineering Solutions Limited",
+      "metaDescription": "Related services that complement the company’s core architecture, engineering, construction and management activities.",
+      "updatedAt": "2026-11-21T11:07:49.265Z"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "architectural-optimization-climate-responsive-design-nigeria",
+      "title": "Architectural Optimization: Climate-Responsive Design for Modern Nigerian Spaces",
+      "slug": "architectural-optimization-climate-responsive-design-nigeria",
+      "category": "Architecture",
+      "excerpt": "Designing high-performance buildings that balance tropical cross-ventilation, daylighting, and contemporary visual sophistication.",
+      "content": "## Architecture Tailored to Tropical Realities\n\nGreat architecture is a dialogue between human aspiration and environmental context. In Nigeria, contemporary architectural design must address intense tropical sunlight, high humidity, and seasonal rainfall while achieving world-class aesthetic appeal.\n\n### Key Bioclimatic Design Strategies\n1. **Solar Orientation:** Orienting building massing along the east-west axis minimizes direct solar heat gain on large facade glazing.\n2. **Deep Overhangs and Brise-Soleil:** Incorporating architectural eaves and perforated shading screens protects windows from midday heat while diffusing natural daylight into interior rooms.\n3. **Passive Cross-Ventilation:** Strategic placement of high and low window apertures harnesses natural convection breezes, reducing mechanical air conditioning requirements.\n4. **Resilient Envelope Materials:** Selecting non-fading, moisture-resistant exterior finishes preserves building aesthetics despite torrential seasonal rainfall.\n\nAt SPES Swiftpace Engineering Solutions Limited, our architectural practice fuses regional responsiveness with cutting-edge 3D visualization and sustainable materials planning.",
+      "featuredImage": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+      "author": "SPES Architectural Studio",
+      "published": true,
+      "publishedAt": "2026-03-03 11:00:00",
+      "seoTitle": "Climate-Responsive Architecture in Nigeria | SPES Swiftpace",
+      "metaDescription": "How modern architectural design balances tropical climate responsiveness with contemporary luxury and spatial efficiency.",
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "understanding-the-role-of-construction-management",
+      "title": "Understanding the Role of Construction Management in Project Delivery",
+      "slug": "understanding-the-role-of-construction-management",
+      "category": "Construction Management",
+      "excerpt": "How disciplined supervision, milestone tracking, and safety protocols prevent cost overruns and maintain quality standards on site.",
+      "content": "## Bridging Design Intent and On-Site Execution\n\nConstruction management is the discipline that turns complex architectural blueprints and engineering specifications into a finished, functional building on time and within budget.\n\n### 1. Critical Path Method (CPM) and Schedule Tracking\nModern construction projects involve dozens of concurrent and sequential activities—from earthworks and foundation pouring to electrical conduits, MEP rough-ins, screeding, and final finishes. A construction manager establishes a rigorous schedule with clear milestone dependencies to eliminate contractor downtime.\n\n### 2. Quality Control & On-Site Inspection\nA primary duty of the construction manager is ensuring that contractors adhere strictly to technical specifications:\n- Verifying reinforcement bar diameters and concrete cover spacers.\n- Monitoring concrete pouring to prevent cold joints.\n- Inspecting plumbing pressure tests prior to drywall or floor tiling closures.\n\n### 3. Occupational Health, Safety & Environment (HSE)\nSafe job sites are productive job sites. Construction managers enforce mandatory personal protective equipment (PPE), secure scaffolding, hazard signage, and emergency protocols to protect workers and visitors alike.\n\n### Summary\nPartnering with a professional construction management firm like SPES Swiftpace ensures that your capital investment is safeguarded through daily oversight, contractual accountability, and engineering rigor.",
+      "featuredImage": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+      "author": "SPES Project Directorate",
+      "published": true,
+      "publishedAt": "2026-03-01 14:15:00",
+      "seoTitle": "The Role of Construction Management | SPES Swiftpace",
+      "metaDescription": "Discover how professional construction management guarantees quality control, timeline compliance, and budget optimization.",
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "key-considerations-before-starting-building-project-nigeria",
+      "title": "Key Considerations Before Starting a Building Construction Project in Nigeria",
+      "slug": "key-considerations-before-starting-building-project-nigeria",
+      "category": "Building Construction",
+      "excerpt": "A practical strategic roadmap covering statutory approvals, bills of quantities, contractor vetting, and site drainage planning.",
+      "content": "## Navigating the Pre-Construction Phase with Confidence\n\nEmbarking on a residential, commercial, or institutional building project in Nigeria is a major financial and logistical commitment. Thorough pre-construction preparation prevents costly delays, regulatory halts, and scope creep.\n\n### Step 1: Statutory Planning and Approvals\nBefore mobilizing plant and equipment to site, ensure that:\n- Title documents (C of O, Deed of Assignment, Governor's Consent) are authenticated.\n- Complete architectural, structural, electrical, and mechanical drawings are submitted to the relevant state Ministry of Physical Planning and Urban Development.\n- Environmental impact assessments (EIA) are conducted where mandatory for large commercial developments.\n\n### Step 2: Accurate Bills of Engineering Measurement and Evaluation (BEME / BOQ)\nNever rely on guesswork or lump-sum verbal contractor estimates. A detailed, itemized Bill of Quantities prepared by a professional quantity surveyor establishes transparent benchmarks for material volumes, labor hours, plant hire, and contingency allowances.\n\n### Step 3: Logistics and Materials Sourcing\nGiven seasonal market fluctuations, establishing fixed-rate material supply agreements for essential commodities—cement, granite, sharp sand, reinforcement bars, and timber formwork—protects your construction budget from unpredictable spikes.\n\n### Conclusion\nA disciplined pre-construction phase led by experienced professionals converts ambitious visions into structurally sound, financially controlled realities.",
+      "featuredImage": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-overview-01.jpg",
+      "author": "SPES Construction Management Team",
+      "published": true,
+      "publishedAt": "2026-02-28 10:30:00",
+      "seoTitle": "Key Considerations for Building Projects in Nigeria | SPES Swiftpace",
+      "metaDescription": "Essential checklist and practical considerations for commercial and residential construction projects in Nigeria.",
+      "updatedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "importance-of-structural-engineering-modern-construction-nigeria",
+      "title": "The Importance of Structural Engineering in Modern Building Construction in Nigeria",
+      "slug": "importance-of-structural-engineering-modern-construction-nigeria",
+      "category": "Structural Engineering",
+      "excerpt": "Understanding why professional structural analysis, concrete grade testing, and rigorous foundation calculations are indispensable to preventing building failures.",
+      "content": "## Why Structural Integrity Dictates Building Longevity\n\nStructural engineering is the invisible backbone of any durable built environment. In modern Nigeria, where urban growth is accelerating and architectural demands are increasingly ambitious, the importance of sound structural analysis cannot be overstated.\n\n### 1. Geotechnical Ground Realities and Foundation Design\nNo two construction sites in Nigeria share identical soil bearing capacities. From expansive clay and sandy soils to seasonal waterlogged terrains in South-Western regions, foundation design must be informed by authentic geotechnical soil bore investigations. Over-simplifying foundation parameters frequently leads to differential settlement, hairline shear cracks, and tragic structural failures.\n\n### 2. Quality Assurance in Reinforced Concrete\nThe durability of concrete depends heavily on:\n- **Water-Cement Ratio:** Maintaining strict slump controls prevents honeycombing and porous cavities.\n- **Steel Reinforcement Yield Strength:** Verifying the tensile strength and rib geometry of rebar ensures that tension loads are properly transferred.\n- **Adequate Curing Cycles:** Hydration must proceed under moisture control for a minimum of 21 to 28 days to attain design compressive strength (e.g., C25/30 or C30/37).\n\n### 3. Mitigating Environmental and Dynamic Loads\nBeyond dead and live floor loads, multi-storey structures must resist significant horizontal forces such as localized gust wind pressures. Professional structural engineers utilize finite element structural modeling to distribute shear forces through shear walls, moment frames, and continuous reinforced slabs.\n\n### Conclusion\nInvesting in comprehensive structural engineering before breaking ground is not an optional cost—it is the ultimate safeguard for human life, financial capital, and long-term asset value.",
+      "featuredImage": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-spes-team-rebar-02.jpg",
+      "author": "Engr. SPES Technical Directorate",
+      "published": true,
+      "publishedAt": "2026-02-15 09:00:00",
+      "seoTitle": "Importance of Structural Engineering in Nigeria | SPES Swiftpace",
+      "metaDescription": "In-depth analysis of structural engineering essentials, foundation design, and concrete quality control for projects in Nigeria.",
+      "updatedAt": "2026-11-21 10:57:06"
+    }
+  ],
+  "blogCategories": [
+    {
+      "name": "Architecture",
+      "slug": "architecture",
+      "description": "Concepts, spatial planning, and climate-responsive design."
+    },
+    {
+      "name": "Civil Engineering",
+      "slug": "civil-engineering",
+      "description": "Infrastructure, drainage systems, and site engineering."
+    },
+    {
+      "name": "Structural Engineering",
+      "slug": "structural-engineering",
+      "description": "Load analysis, reinforced concrete, and foundation safety."
+    },
+    {
+      "name": "Building Construction",
+      "slug": "building-construction",
+      "description": "Construction methodology, craftsmanship, and materials execution."
+    },
+    {
+      "name": "Construction Management",
+      "slug": "construction-management",
+      "description": "Project scheduling, quality control, and budget optimization."
+    },
+    {
+      "name": "Infrastructure",
+      "slug": "infrastructure",
+      "description": "Public works, bridges, highways, and civic development."
+    },
+    {
+      "name": "Engineering Innovation",
+      "slug": "engineering-innovation",
+      "description": "Cutting-edge materials, BIM, and smart built environment."
+    },
+    {
+      "name": "Industry Insights",
+      "slug": "industry-insights",
+      "description": "Regulatory frameworks, building codes, and Nigerian construction standards."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "media-1",
+      "filename": "spes_official_logo.jpeg",
+      "url": "/assets/spes_logo.jpeg",
+      "caption": "SPES Swiftpace Engineering Solutions Limited Official 3D Corporate Emblem",
+      "category": "Company",
+      "projectSlug": "",
+      "order": 1,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-2",
+      "filename": "ijebu-ode-foundation-overview-01.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-overview-01.jpg",
+      "caption": "Wide site overview of foundation blockwork grid and structural column positions in Ijebu Ode, Ogun State (02/11/2026)",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 2,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-3",
+      "filename": "ijebu-ode-spes-team-rebar-02.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-spes-team-rebar-02.jpg",
+      "caption": "SPES field engineering operative in branded hi-vis vest tying pad footing reinforcement in Ijebu Ode (17/10/2026)",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 3,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-4",
+      "filename": "ijebu-ode-cast-pad-footing-03.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-cast-pad-footing-03.jpg",
+      "caption": "Cast reinforced concrete pad footing and column starter rebar cage along Taiwo Osipitan St, Ijebu Ode (22/10/2026)",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 4,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-5",
+      "filename": "ijebu-ode-pad-formwork-04.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-pad-formwork-04.jpg",
+      "caption": "Freshly cast concrete pad base with timber perimeter boxing and vertical starter reinforcement (22/10/2026)",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 5,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-6",
+      "filename": "ijebu-ode-blinded-trench-05.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-blinded-trench-05.jpg",
+      "caption": "Excavated laterite foundation trench prepared with lean concrete blinding in Ijebu Ode (30/09/2026)",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 6,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-7",
+      "filename": "ijebu-ode-column-starter-cage-06.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-column-starter-cage-06.jpg",
+      "caption": "Vertical column starter reinforcement cage and stirrup links assembled in excavated footing pit (19/10/2026)",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 7,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-8",
+      "filename": "ijebu-ode-footing-mesh-tying-07.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-footing-mesh-tying-07.jpg",
+      "caption": "Steel fixer crew tying bottom pad footing reinforcement mat prior to concrete placement (17/10/2026)",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 8,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-9",
+      "filename": "ijebu-ode-foundation-blockwork-08.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-blockwork-08.jpg",
+      "caption": "Substructure sandcrete blockwork rising symmetrically around cast concrete starter columns",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 9,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-10",
+      "filename": "ijebu-ode-substructure-walls-09.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-substructure-walls-09.jpg",
+      "caption": "Multi-bay foundation wall layout and starter column alignment across the laterite excavation",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 10,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-11",
+      "filename": "ijebu-ode-column-pocket-masonry-10.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-column-pocket-masonry-10.jpg",
+      "caption": "Masonry alignment and column pocket framing along primary load-bearing grid lines",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 11,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-12",
+      "filename": "ijebu-ode-trench-rebar-grid-11.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-trench-rebar-grid-11.jpg",
+      "caption": "Foundation trench layout showing footing depth and adjacent substructure blockwork",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 12,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-13",
+      "filename": "ijebu-ode-site-block-setting-12.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-site-block-setting-12.jpg",
+      "caption": "Plumbed sandcrete block setting and mortar jointing along substructure courses",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 13,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-14",
+      "filename": "ijebu-ode-crew-substructure-13.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-crew-substructure-13.jpg",
+      "caption": "Site masons and supervisors executing substructure blockwork wearing safety hi-vis vests",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 14,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-15",
+      "filename": "ijebu-ode-foundation-bay-14.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-bay-14.jpg",
+      "caption": "Internal partition walling inside the excavated substructure grid",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 15,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-16",
+      "filename": "ijebu-ode-corner-footing-15.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-corner-footing-15.jpg",
+      "caption": "Corner substructure footing intersection and perimeter blockwork construction",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 16,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-17",
+      "filename": "ijebu-ode-perimeter-substructure-16.jpg",
+      "url": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-perimeter-substructure-16.jpg",
+      "caption": "Perimeter substructure progression showing container site office and material staging",
+      "category": "Civil Engineering",
+      "projectSlug": "ijebu-ode-substructure-foundation-works",
+      "order": 17,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-18",
+      "filename": "terraced-residential-courtyard-01.jpg",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+      "caption": "Wide entrance courtyard view of white and charcoal multi-unit terraced duplexes with interlocking concrete paving",
+      "category": "Building Construction",
+      "projectSlug": "contemporary-terraced-residential-development",
+      "order": 18,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-19",
+      "filename": "terraced-residential-perspective-02.jpg",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-perspective-02.jpg",
+      "caption": "Perspective elevation of the terraced residential row displaying glazed balcony railings and upper cantilevered bays",
+      "category": "Building Construction",
+      "projectSlug": "contemporary-terraced-residential-development",
+      "order": 19,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-20",
+      "filename": "terraced-residential-corner-03.jpg",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-corner-03.jpg",
+      "caption": "Corner perspective highlighting ground colonnade pillars, exterior solar floodlighting, and paved forecourt",
+      "category": "Building Construction",
+      "projectSlug": "contemporary-terraced-residential-development",
+      "order": 20,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-21",
+      "filename": "terraced-residential-facade-04.jpg",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-facade-04.jpg",
+      "caption": "Close architectural detail of unit entry recess, parapet roof edge, and tinted balcony glazing",
+      "category": "Building Construction",
+      "projectSlug": "contemporary-terraced-residential-development",
+      "order": 21,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-22",
+      "filename": "terraced-residential-streetview-05.jpg",
+      "url": "/uploads/projects/contemporary-terraced-residential/terraced-residential-streetview-05.jpg",
+      "caption": "Continuous street frontage of the terraced residential units and interlocking vehicular driveway",
+      "category": "Building Construction",
+      "projectSlug": "contemporary-terraced-residential-development",
+      "order": 22,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-23",
+      "filename": "arch-terraced-streetscape-01.jpg",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+      "caption": "Contemporary multi-unit terraced streetscape design featuring cantilevered frames and timber-slat balcony screens",
+      "category": "Architecture",
+      "projectSlug": "residential-architectural-facade-concepts",
+      "order": 23,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-24",
+      "filename": "arch-modernist-townhouse-02.jpg",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-modernist-townhouse-02.jpg",
+      "caption": "Minimalist white and charcoal terraced townhouse facade with vertical louvers and double-height glazing",
+      "category": "Architecture",
+      "projectSlug": "residential-architectural-facade-concepts",
+      "order": 24,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-25",
+      "filename": "arch-detached-flat-roof-03.jpg",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-detached-flat-roof-03.jpg",
+      "caption": "Modern flat-roof detached 2-storey residential concept with textured stone veneer and illuminated entry steps",
+      "category": "Architecture",
+      "projectSlug": "residential-architectural-facade-concepts",
+      "order": 25,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-26",
+      "filename": "arch-pitched-roof-villa-04.jpg",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-pitched-roof-villa-04.jpg",
+      "caption": "Pitched dark-shingle roof residential villa concept pairing crisp white render with natural stone pier cladding",
+      "category": "Architecture",
+      "projectSlug": "residential-architectural-facade-concepts",
+      "order": 26,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-27",
+      "filename": "arch-ochre-duplex-concept-05.jpg",
+      "url": "/uploads/projects/architectural-facade-concepts/arch-ochre-duplex-concept-05.jpg",
+      "caption": "Two-storey residential duplex concept with warm accent projections, glass balcony, and geometric paved driveway",
+      "category": "Architecture",
+      "projectSlug": "residential-architectural-facade-concepts",
+      "order": 27,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-28",
+      "filename": "interior-open-kitchen-curve-01.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-open-kitchen-curve-01.jpg",
+      "caption": "Open-plan contemporary kitchen featuring curved LED ceiling cove, fluted timber island, and globe pendant lights",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 28,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-29",
+      "filename": "interior-living-media-wall-02.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-living-media-wall-02.jpg",
+      "caption": "Living and dining suite with backlit floating media partition, slatted wood wall detailing, and cove ceiling",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 29,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-30",
+      "filename": "interior-white-living-cove-03.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-white-living-cove-03.jpg",
+      "caption": "Minimalist bright living/dining interior with recessed perimeter LED ceiling lighting and clean wall paneling",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 30,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-31",
+      "filename": "interior-kitchen-island-charcoal-04.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-kitchen-island-charcoal-04.jpg",
+      "caption": "Charcoal and beige kitchen with fluted wood breakfast island, black stone top, and geometric pendant lighting",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 31,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-32",
+      "filename": "interior-kitchen-peninsula-marble-05.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-kitchen-peninsula-marble-05.jpg",
+      "caption": "Warm timber and marble-veined peninsula kitchen with fluted wood base and illuminated glass display cabinet",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 32,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-33",
+      "filename": "interior-kitchen-greige-lshape-06.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-kitchen-greige-lshape-06.jpg",
+      "caption": "Minimalist L-shaped kitchen cabinetry with integrated built-in oven and warm under-cabinet task lighting",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 33,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-34",
+      "filename": "interior-kitchen-u-shape-07.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-kitchen-u-shape-07.jpg",
+      "caption": "Dark charcoal and walnut U-shaped kitchen layout with LED plinth lighting and open corner shelving",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 34,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-35",
+      "filename": "interior-primary-bedroom-suite-08.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-primary-bedroom-suite-08.jpg",
+      "caption": "Primary bedroom suite showcasing coffered cove-lit ceiling, vertical padded wall panels, and full-height glazing",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 35,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-36",
+      "filename": "interior-bespoke-wardrobe-vanity-09.jpg",
+      "url": "/uploads/projects/interior-architecture-joinery/interior-bespoke-wardrobe-vanity-09.jpg",
+      "caption": "Bespoke floor-to-ceiling gloss wardrobe joinery with backlit arched mirror on fluted timber backdrop",
+      "category": "Architecture",
+      "projectSlug": "contemporary-interior-architecture-finishing",
+      "order": 36,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-37",
+      "filename": "commercial-column-shoring-01.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+      "caption": "Reinforced concrete column formwork assembly and vertical steel propping systems",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 37,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-38",
+      "filename": "commercial-column-shoring-02.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-02.jpg",
+      "caption": "Heavy-duty column shuttering with diagonal tie-rod alignment shores",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 38,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-39",
+      "filename": "commercial-column-shoring-03.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-03.jpg",
+      "caption": "Pre-pour inspection of vertical rebar cages and timber formwork framework",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 39,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-40",
+      "filename": "commercial-column-shoring-04.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-04.jpg",
+      "caption": "Column perimeter structural supports with high-capacity steel jacks",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 40,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-41",
+      "filename": "commercial-column-shoring-05.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-05.jpg",
+      "caption": "Overview of multi-column shuttering grid across the upper suspended deck",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 41,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-42",
+      "filename": "commercial-column-shoring-06.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-06.jpg",
+      "caption": "Vertical elevation view of column rebar starter bars and shoring props",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 42,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-43",
+      "filename": "commercial-column-shoring-07.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-07.jpg",
+      "caption": "Lateral bracing and structural alignment inspection on concrete columns",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 43,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-44",
+      "filename": "commercial-column-shoring-08.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-08.jpg",
+      "caption": "Formwork alignment verification against structural grid specifications",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 44,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-45",
+      "filename": "commercial-column-shoring-09.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-09.jpg",
+      "caption": "Column reinforcement cage positioning before concrete batch placement",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 45,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-46",
+      "filename": "commercial-column-shoring-10.jpg",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-10.jpg",
+      "caption": "Safety-inspected column formwork ready for concrete placement",
+      "category": "Civil Engineering",
+      "projectSlug": "commercial-column-structural-shoring",
+      "order": 46,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-47",
+      "filename": "suspended-slab-decking-01.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-01.jpg",
+      "caption": "Site supervisory engineers inspecting structural drawings directly on the suspended rebar deck",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 47,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-48",
+      "filename": "suspended-slab-decking-02.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-02.jpg",
+      "caption": "Reviewing reinforcement schedule and column starter bar alignment with engineering drawings",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 48,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-49",
+      "filename": "suspended-slab-decking-03.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-03.jpg",
+      "caption": "Drop-beam rebar cage placement and marine board formwork deck",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 49,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-50",
+      "filename": "suspended-slab-decking-04.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-04.jpg",
+      "caption": "Suspended floor slab rebar grid tying with drop beams and perimeter stirrups",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 50,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-51",
+      "filename": "suspended-slab-decking-05.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-05.jpg",
+      "caption": "Detailed view of main beam tensile reinforcement bars and shear links",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 51,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-52",
+      "filename": "suspended-slab-decking-06.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-06.jpg",
+      "caption": "Operatives tying two-way slab reinforcement mesh according to bar-bending schedule",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 52,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-53",
+      "filename": "suspended-slab-decking-07.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-07.jpg",
+      "caption": "Electrical conduits and mechanical piping integration within the reinforcement grid",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 53,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-54",
+      "filename": "suspended-slab-decking-08.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-08.jpg",
+      "caption": "Pre-pour steel reinforcement inspection and concrete cover verification",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 54,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-55",
+      "filename": "suspended-slab-decking-09.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-09.jpg",
+      "caption": "Engineers verifying lap lengths and anchorages for elevated concrete casting",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 55,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-56",
+      "filename": "suspended-slab-decking-10.jpg",
+      "url": "/assets/projects/suspended-slab-decking/suspended-slab-decking-10.jpg",
+      "caption": "Completed suspended slab rebar assembly prepared for monolithic concrete pouring",
+      "category": "Civil Engineering",
+      "projectSlug": "suspended-slab-rebar-assembly",
+      "order": 56,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-57",
+      "filename": "multilevel-concrete-frame-01.jpg",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-01.jpg",
+      "caption": "Multi-level framed structure with dense vertical propping and formwork",
+      "category": "Building Construction",
+      "projectSlug": "multilevel-concrete-structural-frame",
+      "order": 57,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-58",
+      "filename": "multilevel-concrete-frame-02.jpg",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-02.jpg",
+      "caption": "Floor-by-floor falsework staging and concrete frame construction",
+      "category": "Building Construction",
+      "projectSlug": "multilevel-concrete-structural-frame",
+      "order": 58,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-59",
+      "filename": "multilevel-concrete-frame-03.jpg",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+      "caption": "Elevated view of 3-storey reinforced concrete skeleton with access staging",
+      "category": "Building Construction",
+      "projectSlug": "multilevel-concrete-structural-frame",
+      "order": 59,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-60",
+      "filename": "multilevel-concrete-frame-04.jpg",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-04.jpg",
+      "caption": "Cantilevered slab falsework and perimeter column casting",
+      "category": "Building Construction",
+      "projectSlug": "multilevel-concrete-structural-frame",
+      "order": 60,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-61",
+      "filename": "multilevel-concrete-frame-05.jpg",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-05.jpg",
+      "caption": "Structural access ramp and staircase installation within the building frame",
+      "category": "Building Construction",
+      "projectSlug": "multilevel-concrete-structural-frame",
+      "order": 61,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-62",
+      "filename": "multilevel-concrete-frame-06.jpg",
+      "url": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-06.jpg",
+      "caption": "Upper-deck propping and masonry infill sequence on lower level",
+      "category": "Building Construction",
+      "projectSlug": "multilevel-concrete-structural-frame",
+      "order": 62,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-63",
+      "filename": "curvilinear-mixed-use-01.jpg",
+      "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-01.jpg",
+      "caption": "Curved architectural facade with cantilevered front balconies and exterior screeding",
+      "category": "Architecture",
+      "projectSlug": "curvilinear-mixed-use-development",
+      "order": 63,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-64",
+      "filename": "curvilinear-mixed-use-02.jpg",
+      "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-02.jpg",
+      "caption": "Side elevation showing window apertures and perimeter tubular steel scaffolding",
+      "category": "Architecture",
+      "projectSlug": "curvilinear-mixed-use-development",
+      "order": 64,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-65",
+      "filename": "curvilinear-mixed-use-03.jpg",
+      "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-03.jpg",
+      "caption": "Street elevation with safety netting, external scaffolding, and commercial ground floor",
+      "category": "Architecture",
+      "projectSlug": "curvilinear-mixed-use-development",
+      "order": 65,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-66",
+      "filename": "curvilinear-mixed-use-04.jpg",
+      "url": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-04.jpg",
+      "caption": "Detailed facade view of curved parapet, balcony balustrade recesses, and exterior plastering",
+      "category": "Architecture",
+      "projectSlug": "curvilinear-mixed-use-development",
+      "order": 66,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-67",
+      "filename": "contemporary-duplex-villa-01.jpg",
+      "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-01.jpg",
+      "caption": "Front exterior view of completed contemporary 2-storey duplex villa with modern dark roof shingles",
+      "category": "Architecture",
+      "projectSlug": "contemporary-residential-duplex",
+      "order": 67,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-68",
+      "filename": "contemporary-duplex-villa-02.jpg",
+      "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-02.jpg",
+      "caption": "Side elevation featuring architectural parapet profiles, window moldings, and drainage downpipes",
+      "category": "Architecture",
+      "projectSlug": "contemporary-residential-duplex",
+      "order": 68,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-69",
+      "filename": "contemporary-duplex-villa-03.jpg",
+      "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-03.jpg",
+      "caption": "Entry porch with dark accent brickwork, cantilevered upper balcony, and granite entrance steps",
+      "category": "Architecture",
+      "projectSlug": "contemporary-residential-duplex",
+      "order": 69,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    },
+    {
+      "id": "media-70",
+      "filename": "contemporary-duplex-villa-04.jpg",
+      "url": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-04.jpg",
+      "caption": "Site layout showing paved interlocking driveway, boundary security wall, and external utilities",
+      "category": "Architecture",
+      "projectSlug": "contemporary-residential-duplex",
+      "order": 70,
+      "published": true,
+      "uploadedAt": "2026-11-21 10:57:06"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "category": "Company Information",
+      "question": "What is SPES Swiftpace Engineering Solutions Limited?",
+      "answer": "SPES Swiftpace Engineering Solutions Limited (RC: 8978524) is a duly incorporated Nigerian engineering, architecture, building construction, and technical consultancy company delivering integrated professional solutions across the built environment.",
+      "order": 1,
+      "published": true
+    },
+    {
+      "id": "faq-2",
+      "category": "Company Information",
+      "question": "Where is the company located?",
+      "answer": "Our corporate office is located at Plot 2, Toluwani Street, Peace Avenue, Off Iworoko Road, Ado Ekiti, Ekiti State, Nigeria.",
+      "order": 2,
+      "published": true
+    },
+    {
+      "id": "faq-3",
+      "category": "Company Information",
+      "question": "What geographic areas does the company serve?",
+      "answer": "While our corporate headquarters is based in Ado Ekiti, Ekiti State, we undertake engineering, structural consultancy, architectural design, and construction projects across South-West Nigeria and select national locations.",
+      "order": 3,
+      "published": true
+    },
+    {
+      "id": "faq-4",
+      "category": "Company Information",
+      "question": "How can I contact the company directly?",
+      "answer": "You can reach us by telephone at +234 901 075 3592 or +234 707 636 5837, by email at spesengineeringlimited@gmail.com, or directly through our official WhatsApp hotline.",
+      "order": 4,
+      "published": true
+    },
+    {
+      "id": "faq-5",
+      "category": "Company Information",
+      "question": "What types of clients does SPES work with?",
+      "answer": "We collaborate with private property owners, real estate developers, corporate organizations, educational and healthcare institutions, and public infrastructure agencies.",
+      "order": 5,
+      "published": true
+    },
+    {
+      "id": "faq-6",
+      "category": "Services",
+      "question": "What core engineering services does SPES provide?",
+      "answer": "We provide six integrated disciplines: Architecture, Building Construction, Civil & Structural Engineering, Construction Management, Consultancy, and Allied Services.",
+      "order": 6,
+      "published": true
+    },
+    {
+      "id": "faq-7",
+      "category": "Services",
+      "question": "Does SPES provide architectural design?",
+      "answer": "Yes. We provide complete architectural solutions including conceptual sketches, 3D photorealistic renderings, spatial planning, statutory building permit drawings, and remodeling designs.",
+      "order": 7,
+      "published": true
+    },
+    {
+      "id": "faq-8",
+      "category": "Services",
+      "question": "Does the company undertake ground-up building construction?",
+      "answer": "Yes. We act as full-scope building contractors managing substructure excavation, reinforced concrete superstructure framing, roofing, MEP installations, and premium interior and exterior finishes.",
+      "order": 8,
+      "published": true
+    },
+    {
+      "id": "faq-9",
+      "category": "Services",
+      "question": "Does SPES provide civil and structural engineering?",
+      "answer": "Yes. Our structural team provides finite-element load calculations, foundation design tailored to soil reports, reinforced concrete member sizing, structural steel design, and bar bending schedules.",
+      "order": 9,
+      "published": true
+    },
+    {
+      "id": "faq-10",
+      "category": "Services",
+      "question": "Does the company offer independent construction management?",
+      "answer": "Yes. We serve as the client’s independent technical representative on site, managing project schedules, verifying contractor quality, auditing material deliveries, and controlling variations.",
+      "order": 10,
+      "published": true
+    },
+    {
+      "id": "faq-11",
+      "category": "Services",
+      "question": "Can I request technical engineering consultancy for an existing building?",
+      "answer": "Yes. We conduct structural health audits, failure analysis, crack remediation evaluations, and constructability reviews for both proposed and existing properties.",
+      "order": 11,
+      "published": true
+    },
+    {
+      "id": "faq-12",
+      "category": "Project Engagement",
+      "question": "How do I start a project with SPES?",
+      "answer": "You can start by submitting an enquiry through our online Contact Form, sending an email with your project overview to spesengineeringlimited@gmail.com, or messaging our team on WhatsApp at +234 901 075 3592.",
+      "order": 12,
+      "published": true
+    },
+    {
+      "id": "faq-13",
+      "category": "Project Engagement",
+      "question": "Can I request an initial technical consultation?",
+      "answer": "Yes. We provide preliminary project consultations where our engineering directors discuss your requirements, budget expectations, site context, and project milestones.",
+      "order": 13,
+      "published": true
+    },
+    {
+      "id": "faq-14",
+      "category": "Project Engagement",
+      "question": "What information should I provide when making an enquiry?",
+      "answer": "Helpful details include your project type (residential, commercial, or civil), site location, estimated budget range, preferred timeline, and any available architectural concepts, survey plans, or soil test reports.",
+      "order": 14,
+      "published": true
+    },
+    {
+      "id": "faq-15",
+      "category": "Project Engagement",
+      "question": "Does SPES work on both residential and commercial projects?",
+      "answer": "Yes. We handle bespoke private residences, luxury duplexes, commercial office complexes, shopping plazas, industrial structures, and civil drainage infrastructure.",
+      "order": 15,
+      "published": true
+    },
+    {
+      "id": "faq-16",
+      "category": "Project Engagement",
+      "question": "Can I submit existing architectural drawings for construction or structural review?",
+      "answer": "Yes. You can attach PDF or CAD drawing packages directly through our online contact form (up to 4 MB) or send compressed archives or larger packages to our official email for a thorough constructability review.",
+      "order": 16,
+      "published": true
+    },
+    {
+      "id": "faq-17",
+      "category": "General Enquiries",
+      "question": "How can I request a formal quotation or Bill of Quantities?",
+      "answer": "After reviewing your drawings and project specifications, our engineering and estimation team prepares a transparent, itemized quotation detailing materials, labor, and delivery phases.",
+      "order": 17,
+      "published": true
+    },
+    {
+      "id": "faq-18",
+      "category": "General Enquiries",
+      "question": "Can I contact the company through WhatsApp for quick answers?",
+      "answer": "Yes. Our dedicated WhatsApp hotline (+234 901 075 3592) is active during business hours for quick messaging, scheduling consultations, and preliminary discussions.",
+      "order": 18,
+      "published": true
+    },
+    {
+      "id": "faq-19",
+      "category": "General Enquiries",
+      "question": "Where is the corporate office located, and can I visit for an in-person meeting?",
+      "answer": "Our office is at Plot 2, Toluwani Street, Peace Avenue, Off Iworoko Road, Ado Ekiti, Ekiti State. In-person consultations can be scheduled in advance through our contact desk.",
+      "order": 19,
+      "published": true
+    },
+    {
+      "id": "faq-20",
+      "category": "General Enquiries",
+      "question": "How can I discuss a strategic corporate partnership or vendor registration?",
+      "answer": "Corporate entities, developers, and material suppliers can reach our executive directorate directly via spesengineeringlimited@gmail.com with their corporate profile and partnership proposal.",
+      "order": 20,
+      "published": true
+    }
+  ],
+  "company": {
+    "legalName": "SPES Swiftpace Engineering Solutions Limited",
+    "shortName": "SPES Swiftpace",
+    "rcNumber": "RC:8978524",
+    "incorporationAct": "Companies and Allied Matters Act (Corporate Affairs Commission, Nigeria)",
+    "headquarters": "Plot 2, Toluwani Street, Peace Avenue, Off Iworoko Road, Ado Ekiti, Ekiti State, Nigeria",
+    "overview": "SPES Swiftpace Engineering Solutions Limited is an engineering, construction and consultancy company based in Ado Ekiti, Ekiti State, Nigeria. Operating across architecture, building construction, civil and structural engineering, construction management, consultancy and allied services, the company delivers practical solutions grounded in technical precision and quality workmanship.",
+    "extendedOverview": "The company’s service offering brings together design-related capabilities, engineering input, construction activity and project coordination. Its stated approach places emphasis on technical precision, professional coordination, quality workmanship, functional design and effective project delivery.",
+    "vision": "To become a recognised and trusted engineering and construction company, distinguished by technical excellence, innovative thinking, quality project delivery and sustainable contributions to the built environment.",
+    "mission": "To provide professional, efficient and innovative engineering, construction and consultancy services through sound technical practices, effective project management and a commitment to quality, safety and client satisfaction.",
+    "coreValues": [
+      {
+        "title": "Professionalism",
+        "desc": "Maintaining high standards of professional conduct and service delivery."
+      },
+      {
+        "title": "Integrity",
+        "desc": "Building relationships through transparency, honesty and accountability."
+      },
+      {
+        "title": "Quality",
+        "desc": "Giving attention to workmanship, specifications and project requirements."
+      },
+      {
+        "title": "Innovation",
+        "desc": "Applying practical and modern approaches to engineering and construction."
+      },
+      {
+        "title": "Efficiency",
+        "desc": "Encouraging effective planning, coordination and resource utilisation."
+      },
+      {
+        "title": "Safety",
+        "desc": "Recognising the importance of responsible construction practices."
+      },
+      {
+        "title": "Client Satisfaction",
+        "desc": "Understanding client needs and aligning services with project objectives."
+      },
+      {
+        "title": "Sustainability",
+        "desc": "Supporting thoughtful and responsible development of the built environment."
+      }
+    ],
+    "deliveryPrinciples": [
+      {
+        "title": "Understanding the Brief",
+        "desc": "Clarifying the client’s objectives, site or project context, requirements and constraints."
+      },
+      {
+        "title": "Planning & Coordination",
+        "desc": "Organising relevant design, engineering, construction and delivery activities."
+      },
+      {
+        "title": "Technical Consideration",
+        "desc": "Applying appropriate professional judgement and technical practices to the work undertaken."
+      },
+      {
+        "title": "Quality Awareness",
+        "desc": "Paying attention to workmanship, specifications and agreed project requirements."
+      },
+      {
+        "title": "Clear Communication",
+        "desc": "Maintaining clear coordination with clients, consultants, contractors and other relevant stakeholders."
+      },
+      {
+        "title": "Responsible Delivery",
+        "desc": "Recognising safety, resource efficiency and the wider impact of construction activity."
+      }
+    ],
+    "verificationPolicy": "Profile verification policy: In alignment with our official company profile, project records, named personnel, professional registrations, licences and certifications are added only when supporting details have been formally verified.",
+    "sisterEnterprise": {
+      "name": "HarmoStructs Engineering Company Limited",
+      "description": "Our professional founders and engineering directors share an established engineering heritage alongside sister enterprise HarmoStructs Engineering Company Limited, collaborating on regional infrastructure knowledge while maintaining independent corporate governance, distinct registration, and individual contractual execution.",
+      "url": "https://harmostructsengineering.com.ng/"
+    }
+  },
+  "settings": {
+    "companyName": "SPES Swiftpace Engineering Solutions Limited",
+    "companyDescription": "SPES Swiftpace Engineering Solutions Limited delivers integrated architectural, engineering, construction and consultancy services designed to shape functional, durable and sustainable built environments.",
+    "rcNumber": "RC:8978524",
+    "email": "spesengineeringlimited@gmail.com",
+    "phonePrimary": "+234 901 075 3592",
+    "phoneSecondary": "+234 707 636 5837",
+    "whatsappPrimary": "2349010753592",
+    "whatsappSecondary": "2347076365837",
+    "addressLine1": "Plot 2, Toluwani Street, Peace Avenue, Off Iworoko Road",
+    "addressCity": "Ado Ekiti",
+    "addressState": "Ekiti State",
+    "addressCountry": "Nigeria",
+    "heroHeadline": "Engineering Excellence. Building the Future.",
+    "heroSubtitle": "SPES Swiftpace Engineering Solutions Limited delivers integrated architectural, engineering, construction and consultancy services designed to shape functional, durable and sustainable built environments.",
+    "heroImage": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+    "contactNotice": "Our engineering consultants typically respond to inquiries within 24 business hours.",
+    "logoUrl": "/logo.peg",
+    "logoFallbackUrl": "/assets/spes_logo.jpeg",
+    "faviconUrl": "/logo.peg",
+    "footerTagline": "SPES Swiftpace Engineering Solutions Limited is an engineering, architecture, building construction, and technical consultancy firm providing integrated solutions designed to shape functional, durable, and sustainable built environments.",
+    "socialLinks": {
+      "linkedin": "",
+      "facebook": "",
+      "instagram": "https://www.instagram.com/swiftpace_engineering/",
+      "x": ""
+    },
+    "seoDefaults": {
+      "siteTitle": "SPES Swiftpace Engineering Solutions Limited | Engineering, Architecture & Construction",
+      "metaDescription": "SPES Swiftpace Engineering Solutions Limited (RC: 8978524) delivers integrated architectural, civil/structural engineering, building construction, and consultancy in Nigeria.",
+      "ogImage": "/assets/spes_logo.jpeg"
+    }
+  },
+  "meta": {
+    "cmsMode": "local",
+    "generatedAt": "2026-11-21T12:12:36.007Z"
+  }
+}

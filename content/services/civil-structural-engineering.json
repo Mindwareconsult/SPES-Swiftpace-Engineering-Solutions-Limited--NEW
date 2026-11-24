@@ -1,0 +1,103 @@
+{
+  "id": "civil-structural-engineering",
+  "title": "Civil & Structural Engineering",
+  "slug": "civil-structural-engineering",
+  "iconName": "Boxes",
+  "shortDescription": "Civil and structural engineering input supporting the planning, design and delivery of safe and functional infrastructure and building elements.",
+  "heroImage": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-overview-01.jpg",
+  "relatedCategory": "Civil & Structural Engineering",
+  "galleryImages": [
+    {
+      "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-overview-01.jpg",
+      "alt": "Wide site view of foundation blockwork grid and column positions in Ijebu Ode, Ogun State"
+    },
+    {
+      "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-cast-pad-footing-03.jpg",
+      "alt": "Cast reinforced concrete pad footing and column starter rebar cage in Ijebu Ode"
+    },
+    {
+      "src": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+      "alt": "Multi-storey commercial reinforced concrete column formwork and shoring"
+    },
+    {
+      "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-spes-team-rebar-02.jpg",
+      "alt": "SPES engineering team member tying pad footing reinforcement cage in Ijebu Ode"
+    }
+  ],
+  "detailedOverview": "SPES Swiftpace provides civil and structural engineering input supporting the planning, design and delivery of safe, functional infrastructure and durable building elements. We deploy advanced structural modeling and soil mechanics calculations to ensure every foundation, column, beam, suspended slab, and retaining structure is engineered for maximum structural integrity and code fidelity.",
+  "capabilities": [
+    "Comprehensive structural engineering design and finite element modeling",
+    "Structural health assessments, integrity audits, and load capacity evaluation",
+    "Subsurface foundation engineering (pad footings, raft foundations, piled systems)",
+    "Reinforced concrete structural design for multi-storey edifices",
+    "Structural steel design (trusses, portal frames, industrial warehouses, canopies)",
+    "Civil infrastructure engineering (access roads, drainage channels, culverts, retaining walls)",
+    "Detailed engineering calculation sheets, bar bending schedules (BBS), and structural drawings",
+    "Structural defect investigation, crack remediation, and structural strengthening consultancy"
+  ],
+  "clientBenefits": [
+    {
+      "title": "Guaranteed Structural Safety",
+      "desc": "Engineered in strict accordance with relevant BS/Eurocode standards and Nigerian building codes."
+    },
+    {
+      "title": "Cost-Optimized Reinforcement",
+      "desc": "Precise rebar calculations prevent both dangerous under-reinforcement and wasteful over-engineering."
+    },
+    {
+      "title": "Soil-Tailored Foundations",
+      "desc": "Custom foundation solutions engineered specifically for local soil stratigraphy and groundwater conditions."
+    },
+    {
+      "title": "Longevity & Asset Protection",
+      "desc": "Structures designed to remain durable, crack-free, and resilient across multi-decade lifespans."
+    }
+  ],
+  "processStages": [
+    {
+      "step": "01",
+      "title": "Geotechnical Soil Assessment",
+      "desc": "Reviewing soil bore logs, water table levels, and allowable bearing capacity."
+    },
+    {
+      "step": "02",
+      "title": "Load Modeling & Computational Analysis",
+      "desc": "Calculating dead, live, wind, and seismic load combinations via structural software."
+    },
+    {
+      "step": "03",
+      "title": "Structural Member Sizing",
+      "desc": "Dimensioning reinforced concrete beams, columns, suspended floor slabs, and foundations."
+    },
+    {
+      "step": "04",
+      "title": "Detailing & Bar-Bending Schedules",
+      "desc": "Producing unambiguous rebar placement drawings, lap lengths, and reinforcement schedules."
+    },
+    {
+      "step": "05",
+      "title": "Statutory Endorsements",
+      "desc": "Providing professional engineering calculation reports for approval."
+    },
+    {
+      "step": "06",
+      "title": "Site Inspection & Sign-off",
+      "desc": "Mandatory on-site pre-pour inspections of reinforcement cages, shuttering, and cover blocks."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is a structural engineering drawing mandatory for two-storey buildings and above?",
+      "a": "Multi-storey buildings exert significant loads on soil and structural columns. A structural drawing ensures reinforcement sizes, beam depths, and foundation types prevent catastrophic deflection or collapse."
+    },
+    {
+      "q": "Do you carry out structural integrity tests on existing buildings?",
+      "a": "Yes. We conduct non-destructive tests (rebound hammer tests, core sampling, ultrasonic pulse velocity) to assess the concrete quality and load capacity of existing or compromised structures."
+    }
+  ],
+  "order": 3,
+  "published": true,
+  "seoTitle": "Civil & Structural Engineering | SPES Swiftpace Engineering Solutions Limited",
+  "metaDescription": "Civil and structural engineering input supporting the planning, design and delivery of safe and functional infrastructure and building elements.",
+  "updatedAt": "2026-11-21T11:07:49.265Z"
+}

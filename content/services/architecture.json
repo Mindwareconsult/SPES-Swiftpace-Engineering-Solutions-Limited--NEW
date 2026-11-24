@@ -1,0 +1,106 @@
+{
+  "id": "architecture",
+  "title": "Architecture",
+  "slug": "architecture",
+  "iconName": "Compass",
+  "shortDescription": "Architectural planning and design support for functional, considered and context-appropriate built environments.",
+  "heroImage": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+  "relatedCategory": "Architecture",
+  "galleryImages": [
+    {
+      "src": "/uploads/projects/architectural-facade-concepts/arch-terraced-streetscape-01.jpg",
+      "alt": "Contemporary terraced residential architectural streetscape design"
+    },
+    {
+      "src": "/assets/projects/curvilinear-mixed-use/curvilinear-mixed-use-01.jpg",
+      "alt": "4-storey curvilinear mixed-use building facade"
+    },
+    {
+      "src": "/uploads/projects/interior-architecture-joinery/interior-primary-bedroom-suite-08.jpg",
+      "alt": "Residential interior architecture with coffered cove ceiling lighting"
+    },
+    {
+      "src": "/uploads/projects/architectural-facade-concepts/arch-modernist-townhouse-02.jpg",
+      "alt": "Minimalist townhouse exterior with vertical louvers and glazing"
+    }
+  ],
+  "detailedOverview": "SPES Swiftpace Engineering Solutions Limited provides architectural planning and design support focused on functional, considered and context-appropriate built environments. Our design methodology unites spatial ergonomics, bioclimatic climate responsiveness, and cutting-edge 3D modeling with direct structural buildability to produce enduring built environments across commercial, civic, and residential sectors.",
+  "capabilities": [
+    "Architectural planning and creative master planning",
+    "Residential building design (contemporary villas, luxury duplexes, multi-family housing)",
+    "Commercial, corporate, and institutional facility design",
+    "Spatial layouts, functional ergonomics, and interior space planning",
+    "Comprehensive architectural working drawings and statutory documentation",
+    "Building renovation, adaptive reuse, and facade remodeling",
+    "Interdisciplinary design coordination with structural and MEP engineers"
+  ],
+  "clientBenefits": [
+    {
+      "title": "Optimized Spatial Efficiency",
+      "desc": "Every square meter is programmed to maximize usability, natural daylighting, and circulation flow."
+    },
+    {
+      "title": "Bioclimatic Thermal Comfort",
+      "desc": "Passive cooling, strategic solar shading, and cross-ventilation reduce continuous energy and HVAC costs."
+    },
+    {
+      "title": "Flawless Statutory Compliance",
+      "desc": "Permit-ready working drawings engineered to adhere to state town planning regulations."
+    },
+    {
+      "title": "Timeless Aesthetic Identity",
+      "desc": "Distinctive architectural form that elevates corporate prestige and real estate market value."
+    }
+  ],
+  "processStages": [
+    {
+      "step": "01",
+      "title": "Client Brief & Site Analysis",
+      "desc": "Clarifying the client’s objectives, site contours, requirements, and physical planning constraints."
+    },
+    {
+      "step": "02",
+      "title": "Conceptual Schematics",
+      "desc": "Drafting preliminary spatial layouts, massing studies, and architectural volumetric concepts."
+    },
+    {
+      "step": "03",
+      "title": "Design Development & 3D Modeling",
+      "desc": "Refining volumetric geometry, material finishes, photorealistic 3D renders, and walk-throughs."
+    },
+    {
+      "step": "04",
+      "title": "Detailed Working Drawings",
+      "desc": "Compiling structural-compatible construction drawings, door/window schedules, and specifications."
+    },
+    {
+      "step": "05",
+      "title": "Statutory Permitting",
+      "desc": "Assembling submission packages for government physical planning authority approval."
+    },
+    {
+      "step": "06",
+      "title": "Site Design Supervision",
+      "desc": "Periodic architectural inspections ensuring on-site craftsmanship matches design intent."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can SPES design both residential and commercial buildings?",
+      "a": "Yes. Our architectural team has experience across private residences, multi-unit residential developments, retail plazas, corporate office towers, and civic facilities."
+    },
+    {
+      "q": "Do you assist with physical planning building permits in Ekiti and South-West Nigeria?",
+      "a": "Yes. We prepare full architectural packages tailored to meet the statutory codes and requirements of state urban development and physical planning authorities."
+    },
+    {
+      "q": "Can you work with an existing concept or remodel an older property?",
+      "a": "Absolutely. We specialize in renovation, adaptive reuse, and modern facade updates for existing structures."
+    }
+  ],
+  "order": 1,
+  "published": true,
+  "seoTitle": "Architecture | SPES Swiftpace Engineering Solutions Limited",
+  "metaDescription": "Architectural planning and design support for functional, considered and context-appropriate built environments.",
+  "updatedAt": "2026-11-21T11:07:49.264Z"
+}

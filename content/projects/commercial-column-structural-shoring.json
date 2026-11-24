@@ -1,0 +1,85 @@
+{
+  "id": "commercial-column-structural-shoring",
+  "title": "Multi-Storey Commercial Development & Column Structural Shoring",
+  "slug": "commercial-column-structural-shoring",
+  "category": "Civil & Structural Engineering",
+  "location": "South-West Nigeria (Coordinates: E3.4 N6.5)",
+  "client": "Commercial Development Partner",
+  "projectStatus": "Superstructure Phase",
+  "completionDate": "Active Project",
+  "shortDescription": "Precision structural engineering execution featuring reinforced concrete column formwork, heavy-duty adjustable shoring systems, and high-tensile steel rebar cages on an elevated commercial deck.",
+  "overview": "Active structural engineering and site construction coordination for a modern multi-storey commercial facility. The works showcase precision-engineered timber and steel column shuttering, rigid diagonal shoring systems designed to resist hydrostatic lateral pressures during concrete placement, and dense Grade 460B reinforcement bar assemblies executed in strict conformance with structural design specifications.",
+  "objectives": "Ensure vertical alignment (plumbness), eliminate differential deflection during concrete placement, guarantee watertight formwork joints to prevent grout leakage, and enforce occupational safety on elevated decks.",
+  "scopeOfWork": "Structural formwork fabrication and erection, rebar cutting, bending and cage placement, concrete cover spacer block distribution, laser leveling, plumb-line verification, and pre-pour technical sign-offs.",
+  "technicalApproach": "Utilized engineered modular formwork panels, heavy-duty adjustable steel push-pull props, calibrated steel tie-rods with high-torque wing-nuts, and Grade 460B high-yield deformed bars with controlled cover depth.",
+  "projectOutcome": "Accurate column alignment across the multi-bay grid, clean concrete finishes upon de-shuttering, and verified structural integrity in compliance with Nigerian National Building Codes.",
+  "coverImage": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+  "featured": true,
+  "published": true,
+  "order": 5,
+  "seoTitle": "Multi-Storey Column Structural Shoring | SPES Swiftpace Engineering",
+  "metaDescription": "Case study of reinforced concrete column shuttering and structural shoring systems by SPES Swiftpace in South-West Nigeria.",
+  "images": [
+    {
+      "id": "commercial-column-structural-shoring-img-1",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-01.jpg",
+      "caption": "Reinforced concrete column formwork assembly and vertical steel propping systems",
+      "order": 1
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-2",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-02.jpg",
+      "caption": "Heavy-duty column shuttering with diagonal tie-rod alignment shores",
+      "order": 2
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-3",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-03.jpg",
+      "caption": "Pre-pour inspection of vertical rebar cages and timber formwork framework",
+      "order": 3
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-4",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-04.jpg",
+      "caption": "Column perimeter structural supports with high-capacity steel jacks",
+      "order": 4
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-5",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-05.jpg",
+      "caption": "Overview of multi-column shuttering grid across the upper suspended deck",
+      "order": 5
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-6",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-06.jpg",
+      "caption": "Vertical elevation view of column rebar starter bars and shoring props",
+      "order": 6
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-7",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-07.jpg",
+      "caption": "Lateral bracing and structural alignment inspection on concrete columns",
+      "order": 7
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-8",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-08.jpg",
+      "caption": "Formwork alignment verification against structural grid specifications",
+      "order": 8
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-9",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-09.jpg",
+      "caption": "Column reinforcement cage positioning before concrete batch placement",
+      "order": 9
+    },
+    {
+      "id": "commercial-column-structural-shoring-img-10",
+      "url": "/assets/projects/commercial-column-shoring/commercial-column-shoring-10.jpg",
+      "caption": "Safety-inspected column formwork ready for concrete placement",
+      "order": 10
+    }
+  ],
+  "updatedAt": "2026-11-21 10:57:06"
+}

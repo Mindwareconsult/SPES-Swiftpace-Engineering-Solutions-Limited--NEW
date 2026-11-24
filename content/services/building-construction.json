@@ -1,0 +1,102 @@
+{
+  "id": "building-construction",
+  "title": "Building Construction",
+  "slug": "building-construction",
+  "iconName": "Building2",
+  "shortDescription": "Building construction services focused on translating project requirements and design intent into built works.",
+  "heroImage": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+  "relatedCategory": "Building Construction",
+  "galleryImages": [
+    {
+      "src": "/uploads/projects/contemporary-terraced-residential/terraced-residential-courtyard-01.jpg",
+      "alt": "Completed white and charcoal multi-unit terraced residential development with paved courtyard"
+    },
+    {
+      "src": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-01.jpg",
+      "alt": "Contemporary 2-storey residential duplex construction"
+    },
+    {
+      "src": "/assets/projects/multilevel-concrete-frame/multilevel-concrete-frame-03.jpg",
+      "alt": "Multi-level reinforced concrete framed building under construction"
+    },
+    {
+      "src": "/uploads/projects/ijebu-ode-substructure-foundation/ijebu-ode-foundation-blockwork-08.jpg",
+      "alt": "Substructure sandcrete blockwork rising around concrete starter columns in Ijebu Ode"
+    }
+  ],
+  "detailedOverview": "SPES Swiftpace Engineering Solutions Limited provides building construction services dedicated to translating project requirements and design intent into high-quality built works. Operating from Ado Ekiti, Ekiti State, we provide ground-up construction management, substructure foundations, reinforced concrete frames, masonry infills, roofing systems, and turnkey finishes.",
+  "capabilities": [
+    "Residential building construction (bespoke homes, luxury duplexes, gated estates)",
+    "Commercial building construction (office complexes, shopping plazas, hospitality)",
+    "Institutional and public sector facility construction",
+    "Turnkey property development from site clearing to turnkey handover",
+    "Structural renovation, building rehabilitation, and structural retrofitting",
+    "Continuous on-site quality assurance and laboratory material testing",
+    "Comprehensive construction supervision and sub-trade management"
+  ],
+  "clientBenefits": [
+    {
+      "title": "Rigorous Material Standards",
+      "desc": "We only deploy laboratory-tested cement, graded aggregates, and certified steel reinforcement bars."
+    },
+    {
+      "title": "Milestone-Driven Execution",
+      "desc": "Clear timeline schedules prevent unwarranted downtime and protect your capital expenditure."
+    },
+    {
+      "title": "Zero Compromise on Safety",
+      "desc": "Strict HSE protocols on every site minimize occupational hazards and site downtime."
+    },
+    {
+      "title": "Single-Source Accountability",
+      "desc": "One professional corporate partner managing all trades, suppliers, and specialist artisans."
+    }
+  ],
+  "processStages": [
+    {
+      "step": "01",
+      "title": "Mobilization & Site Setup",
+      "desc": "Survey pegging, perimeter hoarding, site offices, and equipment logistics."
+    },
+    {
+      "step": "02",
+      "title": "Substructure & Foundation Works",
+      "desc": "Excavation, blinding, steel rebar cage assembly, and foundation casting under supervision."
+    },
+    {
+      "step": "03",
+      "title": "Superstructure Framing",
+      "desc": "Casting columns, beams, suspended floor slabs, and load-bearing blockwork."
+    },
+    {
+      "step": "04",
+      "title": "Roofing & Building Envelope",
+      "desc": "Installation of engineered structural steel/timber trusses, roofing membranes, and facade cladding."
+    },
+    {
+      "step": "05",
+      "title": "Services & Finishes",
+      "desc": "Concealed MEP installations, screeding, tiling, architectural glazing, and custom joinery."
+    },
+    {
+      "step": "06",
+      "title": "Snagging, Testing & Handover",
+      "desc": "System commissioning, rigorous punch-list rectification, and client key handover."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do you ensure construction quality on site?",
+      "a": "Every concrete pour undergoes standard slump tests and cube compression testing in accredited laboratories. We enforce strict supervision on rebar spacing, cover blocks, and mortar mix ratios."
+    },
+    {
+      "q": "Can you construct based on architectural drawings provided by another firm?",
+      "a": "Yes. We routinely review external architectural and structural packages, perform constructability audits, and execute the physical build to exact specifications."
+    }
+  ],
+  "order": 2,
+  "published": true,
+  "seoTitle": "Building Construction | SPES Swiftpace Engineering Solutions Limited",
+  "metaDescription": "Building construction services focused on translating project requirements and design intent into built works.",
+  "updatedAt": "2026-11-21T11:07:49.265Z"
+}

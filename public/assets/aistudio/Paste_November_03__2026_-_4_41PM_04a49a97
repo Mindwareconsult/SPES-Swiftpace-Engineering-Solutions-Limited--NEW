@@ -1,0 +1,2254 @@
+# MASTER DEVELOPMENT PROMPT
+# GOOGLE AI STUDIO — SPES SWIFTPACE ENGINEERING SOLUTIONS LIMITED
+## Premium $10,000-Class Engineering, Architecture & Construction Corporate Website
+
+---
+
+# PART 1: YOUR ROLE AND PROJECT OBJECTIVE
+
+Act as an elite multidisciplinary digital agency consisting of:
+
+- A senior UI/UX design director.
+- A premium corporate website designer.
+- A senior full-stack software engineer.
+- A branding and visual identity specialist.
+- An architectural and engineering industry website specialist.
+- An SEO strategist.
+- A conversion rate optimisation specialist.
+- A website performance and security engineer.
+
+Your assignment is to design and develop a complete, premium, modern, multi-page corporate website for:
+
+**SPES SWIFTPACE ENGINEERING SOLUTIONS LIMITED**
+
+The website must look and perform like a professionally commissioned corporate website with a design and development budget of approximately $10,000.
+
+This is not a basic business website, a generic construction template or a single-page landing page.
+
+The finished website must communicate:
+
+1. Engineering expertise.
+2. Architectural excellence.
+3. Construction capability.
+4. Technical professionalism.
+5. Corporate credibility.
+6. Innovation and modern technology.
+7. Project management competence.
+8. Reliability and client confidence.
+
+The website must be visually impressive, highly functional, fast-loading, mobile-friendly, SEO-ready and designed to convert visitors into genuine business enquiries.
+
+**Build a complete multi-page corporate website with individual service pages, individual project pages, a fully developed blog section and a simple integrated administration backend.**
+
+The backend must be managed directly from the website's own admin dashboard. Do not introduce Supabase or unnecessary external backend infrastructure.
+
+---
+
+# PART 2: COMPANY INFORMATION AND BRAND IDENTITY
+
+Use the following company information throughout the website.
+
+## 2.1 Official company details
+
+**Company Name:** SPES Swiftpace Engineering Solutions Limited
+
+**Registration Number:** RC 8978524
+
+**Industry:** Engineering, Architecture, Building Construction and Consultancy.
+
+**Business Location:** Ado Ekiti, Ekiti State, Nigeria.
+
+**Official Address:**
+
+Plot 2, Toluwani Street,  
+Peace Avenue, Off Iworoko Road,  
+Ado Ekiti, Ekiti State, Nigeria.
+
+**Official Email:**
+
+spesengineeringlimited@gmail.com
+
+**Telephone Numbers:**
+
+- +234 901 075 3592
+- +234 707 636 5837
+
+Use these details consistently in the website header, footer, contact page and contact forms.
+
+Do not change the company's name, registration number, telephone numbers or email address.
+
+## 2.2 Official branding
+
+Use the original SPES Swiftpace Engineering Solutions Limited logo supplied as an uploaded reference asset.
+
+The logo contains:
+
+- A contemporary architectural building symbol.
+- Deep navy-blue elements.
+- Bright cyan and turquoise-blue architectural details.
+- Metallic and white highlights.
+- Green company descriptor text.
+
+The logo is the official brand identity and must be preserved.
+
+### Brand colour palette
+
+Build the website around the following colour system:
+
+| Colour | Suggested Hex | Application |
+|---|---|---|
+| Deep Navy | #06152F | Main corporate background |
+| Midnight Blue | #081D43 | Hero and dark sections |
+| Royal Blue | #063B85 | Buttons and accents |
+| Cyan Blue | #12BCEB | Highlights and interactive elements |
+| Emerald Green | #078A43 | Secondary accent |
+| White | #FFFFFF | Text and light sections |
+| Light Grey | #F3F6FA | Content backgrounds |
+| Slate | #667085 | Secondary text |
+
+The colours are suggested web values inspired by the logo. Match the actual logo colours wherever possible.
+
+### Branding rules
+
+- Maintain a consistent visual identity.
+- Use the original logo rather than generating a replacement.
+- Use navy and white as dominant colours.
+- Use cyan and green as restrained accents.
+- Avoid excessive gradients.
+- Avoid cartoon-style illustrations.
+- Avoid generic website template aesthetics.
+
+The website should feel like an established international engineering consultancy.
+
+---
+
+# PART 3: VISUAL DESIGN DIRECTION
+
+Use the uploaded NovaEngineering website screenshot as the primary visual inspiration.
+
+Study its:
+
+- Cinematic cityscape hero.
+- Dark navy background.
+- Elegant typography.
+- Architectural and infrastructure photography.
+- Three-column service presentation.
+- Premium project showcase.
+- Corporate capability highlights.
+- Sophisticated navigation.
+- Layered visual composition.
+
+Do not copy the screenshot.
+
+Create a more refined, sophisticated and visually impressive interpretation for SPES Swiftpace Engineering Solutions Limited.
+
+## 3.1 Overall aesthetic
+
+Combine:
+
+- Premium engineering consultancy branding.
+- International architectural firm aesthetics.
+- Modern construction company presentation.
+- Luxury corporate website design.
+- Contemporary technology-inspired visual elements.
+
+The website should immediately communicate professionalism and technical competence.
+
+## 3.2 Homepage hero
+
+Create a cinematic full-width hero.
+
+Use high-resolution architectural and engineering imagery featuring:
+
+- Modern city skylines.
+- Contemporary commercial buildings.
+- Large-scale infrastructure.
+- Modern bridges.
+- Architectural developments.
+- Construction sites.
+- Steel and concrete structures.
+
+Headline:
+
+**Engineering Excellence. Building the Future.**
+
+Supporting text:
+
+"Delivering innovative engineering, architectural and construction solutions through technical expertise, professional excellence and a commitment to quality."
+
+Primary CTA:
+
+**Explore Our Services**
+
+Secondary CTA:
+
+**Discuss Your Project**
+
+Use a dark overlay for text readability, subtle animations and elegant transitions.
+
+## 3.3 Typography
+
+Use a sophisticated typography combination.
+
+Recommended:
+
+- Headings: elegant editorial serif or refined geometric display font.
+- Body: Inter, Manrope, DM Sans or similar.
+- Navigation: clean modern sans-serif.
+- Technical details: clear, legible typography.
+
+Maintain generous spacing and a clear visual hierarchy.
+
+## 3.4 Photography
+
+Use premium, commercially suitable stock imagery for the first production.
+
+Images must be realistic, high-resolution and relevant to:
+
+- Architecture.
+- Structural engineering.
+- Civil engineering.
+- Building construction.
+- Industrial construction.
+- Infrastructure.
+- Professional engineering teams.
+- Construction management.
+
+Avoid repetitive imagery.
+
+Stock photographs are temporary design assets. Never present them as actual completed projects of SPES.
+
+Build a centralised image management system so genuine company photographs can replace stock images later without redesigning the website.
+
+---
+
+# PART 4: COMPLETE WEBSITE ARCHITECTURE
+
+Build the following complete multi-page architecture.
+
+## Main navigation
+
+1. Home.
+2. About Us.
+3. Services.
+4. Portfolio.
+5. Blog.
+6. Contact.
+
+Include a prominent **Get a Quote** or **Discuss a Project** button.
+
+Make the FAQ page accessible through the footer and relevant internal links.
+
+## Required website routes
+
+```text
+/
+│
+├── /about
+│
+├── /services
+│   ├── /services/architecture
+│   ├── /services/building-construction
+│   ├── /services/civil-structural-engineering
+│   ├── /services/construction-management
+│   ├── /services/consultancy
+│   └── /services/allied-services
+│
+├── /portfolio
+│
+├── /projects
+│   ├── /projects/[project-slug]
+│   ├── /projects/[project-slug]
+│   └── /projects/[project-slug]
+│
+├── /blog
+│   ├── /blog/[article-slug]
+│   └── /blog/category/[category-slug]
+│
+├── /contact
+│
+├── /faq
+│
+├── /privacy-policy
+│
+├── /terms-and-conditions
+│
+└── /admin
+    ├── /admin/login
+    ├── /admin/dashboard
+    ├── /admin/projects
+    ├── /admin/projects/new
+    ├── /admin/blog
+    ├── /admin/blog/new
+    ├── /admin/enquiries
+    ├── /admin/media
+    └── /admin/settings
+```
+
+Every public route must be independently accessible and have its own content and SEO metadata.
+
+The admin routes must be protected from public access.
+
+---
+
+# PART 5: HOMEPAGE
+
+The homepage must be the most visually impressive page.
+
+Its purpose is to introduce the company, establish credibility, communicate capabilities and encourage business enquiries.
+
+Build the following sections.
+
+## 5.1 Premium navigation
+
+Desktop:
+
+- Original company logo.
+- Home.
+- About.
+- Services dropdown.
+- Portfolio.
+- Blog.
+- Contact.
+- Get a Quote CTA.
+
+Mobile:
+
+- Compact logo.
+- Hamburger menu.
+- Smooth navigation drawer.
+- Prominent enquiry CTA.
+
+Use a transparent header over the hero that transitions into a solid corporate header on scroll.
+
+## 5.2 Cinematic hero
+
+Headline:
+
+**Engineering Excellence. Building the Future.**
+
+Supporting copy:
+
+"SPES Swiftpace Engineering Solutions Limited delivers integrated architectural, engineering, construction and consultancy services designed to shape functional, durable and sustainable built environments."
+
+Buttons:
+
+- Explore Our Services.
+- Start a Project.
+
+## 5.3 Company introduction
+
+Heading:
+
+**Building Possibilities Through Engineering Excellence**
+
+Content:
+
+"SPES Swiftpace Engineering Solutions Limited is an engineering, construction and consultancy company providing integrated professional services across architecture, building construction, civil and structural engineering, construction management and allied services.
+
+We approach every project with a focus on technical precision, quality, effective coordination and practical solutions that respond to our clients' requirements."
+
+Include:
+
+- Company overview.
+- Supporting image.
+- Short corporate highlights.
+- Learn More About Us CTA.
+
+Do not invent years of experience or completed project statistics.
+
+## 5.4 Our core services
+
+Heading:
+
+**Comprehensive Engineering & Construction Solutions**
+
+Create six premium service cards:
+
+1. Architecture.
+2. Building Construction.
+3. Civil & Structural Engineering.
+4. Construction Management.
+5. Consultancy.
+6. Allied Services.
+
+Each card must include:
+
+- Relevant photograph.
+- Service title.
+- Short description.
+- Icon.
+- View Service Details link.
+
+Every card must link to its individual service page.
+
+## 5.5 Our capabilities
+
+Heading:
+
+**Technical Expertise. Practical Solutions.**
+
+Highlight:
+
+- Advanced Engineering.
+- Architectural Design.
+- Structural Solutions.
+- Construction Management.
+- Technical Consultancy.
+- Project Coordination.
+
+Use elegant icons and photography.
+
+## 5.6 Featured projects
+
+Heading:
+
+**Our Project Portfolio**
+
+Create a premium project showcase with:
+
+- Project image.
+- Project title.
+- Category.
+- Verified location where available.
+- Brief description.
+- View Project CTA.
+
+Use stock imagery for the initial design, but never present stock photographs as completed SPES projects.
+
+Unverified sample projects must remain unpublished.
+
+Include View All Projects CTA.
+
+## 5.7 Why choose SPES?
+
+Present:
+
+- Integrated Engineering Services.
+- Technical Precision.
+- Client-Focused Solutions.
+- Professional Project Coordination.
+- Quality Commitment.
+- Practical and Sustainable Solutions.
+
+## 5.8 Project delivery process
+
+Heading:
+
+**From Concept to Completion**
+
+Present an animated six-stage timeline:
+
+1. Consultation.
+2. Planning and Design.
+3. Technical Coordination.
+4. Project Execution.
+5. Quality Monitoring.
+6. Completion and Handover.
+
+## 5.9 Corporate commitment
+
+Headline:
+
+**Building with Purpose. Engineering with Precision.**
+
+Use a striking architectural photograph and Discuss Your Project CTA.
+
+## 5.10 Featured blog articles
+
+Heading:
+
+**Insights, Ideas & Engineering Perspectives**
+
+Display the latest three or four published blog articles.
+
+Each article card must contain:
+
+- Featured image.
+- Category.
+- Publication date.
+- Article title.
+- Short excerpt.
+- Read Article CTA.
+
+Add a View All Articles button linking to `/blog`.
+
+Only display published articles.
+
+## 5.11 Contact CTA
+
+Headline:
+
+**Have a Project in Mind? Let's Build Something Exceptional.**
+
+Buttons:
+
+- Request a Consultation.
+- Call Our Team.
+- Chat on WhatsApp.
+
+## 5.12 FAQ preview
+
+Display four to six frequently asked questions with expandable answers.
+
+## 5.13 Premium footer
+
+Include:
+
+- Official logo.
+- Company introduction.
+- Quick navigation.
+- Service links.
+- Portfolio link.
+- Blog link.
+- Contact information.
+- WhatsApp.
+- Email.
+- Office address.
+- Social media links only when supplied.
+- FAQ.
+- Privacy Policy.
+- Terms and Conditions.
+- Copyright.
+
+Use a dynamically generated current year.
+
+---
+
+# PART 6: ABOUT US PAGE
+
+Route: `/about`
+
+Create a sophisticated corporate presentation.
+
+## Hero
+
+Headline:
+
+**About SPES Swiftpace Engineering Solutions Limited**
+
+Supporting text:
+
+"Engineering expertise, construction solutions and professional services dedicated to shaping the built environment."
+
+## Company overview
+
+Use the established company profile.
+
+Explain:
+
+- Company identity.
+- Engineering and construction focus.
+- Integrated professional services.
+- Project delivery approach.
+- Commitment to quality.
+
+## Vision
+
+"To become a recognised and trusted engineering and construction company, distinguished by technical excellence, innovative thinking, quality project delivery and sustainable contributions to the built environment."
+
+## Mission
+
+"To provide professional, efficient and innovative engineering, construction and consultancy services through sound technical practices, effective project management and a commitment to quality, safety and client satisfaction."
+
+## Core values
+
+- Professionalism.
+- Integrity.
+- Quality.
+- Innovation.
+- Efficiency.
+- Safety.
+- Client Satisfaction.
+- Sustainability.
+
+## Management and professional team
+
+Build a premium management and team presentation capable of displaying:
+
+- Managing Director.
+- Executive Directors.
+- General Manager.
+- Head of Engineering.
+- Civil Engineers.
+- Structural Engineers.
+- Architects.
+- Project Managers.
+- Construction Supervisors.
+- Technical Personnel.
+
+Do not invent personnel names, qualifications or professional registrations.
+
+Create an editable content structure for adding actual team information later.
+
+## Corporate credentials
+
+Create a section for:
+
+- Corporate registration.
+- Professional registrations.
+- Relevant licences.
+- Professional affiliations.
+- Quality certifications.
+- Safety certifications.
+
+Only display verified credentials.
+
+The sister company HarmoStructs Engineering Company Limited may provide reference information for further research, but its credentials must not automatically be transferred to SPES.
+
+Website: https://harmostructsengineering.com.ng/
+
+---
+
+# PART 7: SERVICES PAGE AND INDIVIDUAL SERVICE PAGES
+
+Route: `/services`
+
+Headline:
+
+**Our Engineering & Construction Services**
+
+Supporting text:
+
+"Integrated professional services designed to support projects from concept development and technical planning through construction coordination and delivery."
+
+Create six premium service cards linking to individual service pages.
+
+## 7.1 Architecture
+
+Route: `/services/architecture`
+
+Include:
+
+- Architectural concept development.
+- Residential building design.
+- Commercial and institutional design.
+- Building layouts and space planning.
+- Architectural drawings and documentation.
+- Building renovation and remodelling design.
+- Design coordination.
+
+## 7.2 Building Construction
+
+Route: `/services/building-construction`
+
+Include:
+
+- Residential construction.
+- Commercial construction.
+- Institutional construction.
+- Building development.
+- Renovation and rehabilitation.
+- Construction supervision.
+- Quality monitoring.
+
+## 7.3 Civil and Structural Engineering
+
+Route: `/services/civil-structural-engineering`
+
+Include:
+
+- Structural engineering design.
+- Structural analysis and assessment.
+- Foundation engineering.
+- Reinforced concrete design.
+- Steel structural design.
+- Civil engineering design.
+- Engineering drawings.
+- Structural rehabilitation consultancy.
+
+## 7.4 Construction Management
+
+Route: `/services/construction-management`
+
+Include:
+
+- Project planning.
+- Construction scheduling.
+- Site supervision.
+- Contractor coordination.
+- Quality assurance and control.
+- Project monitoring.
+- Materials coordination.
+- Project documentation.
+- Risk and safety coordination.
+
+## 7.5 Consultancy
+
+Route: `/services/consultancy`
+
+Include:
+
+- Engineering advisory.
+- Construction advisory.
+- Preliminary project assessments.
+- Technical project planning.
+- Design coordination.
+- Project evaluation.
+- Construction documentation advisory.
+
+## 7.6 Allied Services
+
+Route: `/services/allied-services`
+
+Include:
+
+- Engineering support services.
+- Building maintenance and improvement.
+- Construction technical support.
+- Project development assistance.
+- General engineering coordination.
+- Related professional and technical services.
+
+## Common service page structure
+
+Every individual service page must have:
+
+1. Dedicated hero.
+2. Service introduction.
+3. Detailed service capabilities.
+4. Benefits to clients.
+5. Delivery process.
+6. Relevant photographs.
+7. Related services.
+8. Relevant FAQs.
+9. Strong enquiry CTA.
+10. Footer.
+
+Include breadcrumb navigation and cross-linking between related services.
+
+---
+
+# PART 8: PORTFOLIO PAGE
+
+Route: `/portfolio`
+
+Headline:
+
+**Our Portfolio of Engineering & Construction Solutions**
+
+Create a premium architectural project gallery.
+
+## Portfolio filters
+
+- All Projects.
+- Architecture.
+- Building Construction.
+- Civil Engineering.
+- Structural Engineering.
+- Infrastructure.
+- Commercial Developments.
+- Construction Management.
+- Industrial Projects.
+
+Filters must work without unnecessary page reloads.
+
+## Project cards
+
+Each project card must support:
+
+- Cover image.
+- Project title.
+- Project category.
+- Location.
+- Brief description.
+- View Project Details.
+
+Use a premium responsive masonry or grid layout.
+
+## Portfolio content integrity
+
+For the first production:
+
+- Use stock images as temporary visual assets.
+- Do not claim they represent actual SPES projects.
+- Keep unverified project records unpublished.
+- Make adding real projects straightforward through the admin dashboard.
+
+---
+
+# PART 9: INDIVIDUAL PROJECT DETAIL PAGES
+
+Route:
+
+`/projects/[project-slug]`
+
+Every project must have an individual detail page generated from its project data.
+
+## Project detail structure
+
+### 1. Project hero
+
+- Large project image.
+- Project title.
+- Category.
+- Location where verified.
+- Short introduction.
+- Breadcrumb navigation.
+
+### 2. Project overview
+
+Detailed project introduction.
+
+### 3. Project information
+
+Display available information:
+
+- Project name.
+- Category.
+- Location.
+- Client.
+- Project status.
+- Completion date.
+- Project scope.
+- Services provided.
+
+Only display verified information.
+
+### 4. Project objectives
+
+Explain the project's purpose and requirements.
+
+### 5. Scope of work
+
+Describe the work undertaken.
+
+### 6. Technical approach
+
+Present verified technical considerations and project delivery methods.
+
+### 7. Project gallery
+
+Provide:
+
+- Multiple photographs.
+- Full-screen lightbox.
+- Previous/next controls.
+- Captions.
+- Responsive image layout.
+
+### 8. Project outcome
+
+Present genuine, verified results.
+
+### 9. Related projects
+
+Display three relevant projects.
+
+### 10. Project enquiry CTA
+
+Headline:
+
+**Have a Similar Project in Mind?**
+
+Buttons:
+
+- Request a Consultation.
+- Call Our Team.
+- WhatsApp Enquiry.
+
+## Project administration
+
+The admin must be able to:
+
+- Add a project.
+- Edit a project.
+- Upload a cover image.
+- Upload multiple gallery photographs.
+- Add descriptions.
+- Add project categories.
+- Add locations.
+- Add project information.
+- Feature projects.
+- Publish or unpublish projects.
+- Edit SEO metadata.
+
+When a project is published, automatically generate its public project page and add it to the appropriate portfolio listings.
+
+---
+
+# PART 10: BLOG SYSTEM
+
+This is a mandatory part of the website.
+
+Build a complete, premium blog section designed to communicate industry knowledge, improve organic search visibility and establish the company's professional presence.
+
+The blog must have:
+
+1. A main blog landing page.
+2. Individual article pages.
+3. Blog category pages.
+4. A related articles section.
+5. An integrated blog management system in the admin dashboard.
+
+## 10.1 Blog landing page
+
+Route: `/blog`
+
+Headline:
+
+**Insights, Ideas & Engineering Perspectives**
+
+Supporting text:
+
+"Explore professional insights, industry perspectives and practical knowledge across architecture, engineering, construction and the built environment."
+
+### Blog hero
+
+Feature a large, visually impressive article at the top.
+
+Display:
+
+- Featured image.
+- Category.
+- Article title.
+- Short introduction.
+- Publication date.
+- Read Article CTA.
+
+### Blog category navigation
+
+Create filters for:
+
+- All Articles.
+- Architecture.
+- Civil Engineering.
+- Structural Engineering.
+- Building Construction.
+- Construction Management.
+- Infrastructure.
+- Engineering Innovation.
+- Industry Insights.
+- Company News.
+
+Categories must be editable through the admin dashboard.
+
+### Blog article grid
+
+Create a premium responsive grid.
+
+Each article card must contain:
+
+- Featured image.
+- Category.
+- Publication date.
+- Article title.
+- Short excerpt.
+- Read More link.
+
+Include pagination or a Load More function.
+
+Only published articles should appear publicly.
+
+### Blog sidebar
+
+On desktop, provide an optional sidebar containing:
+
+- Search articles.
+- Popular categories.
+- Recent articles.
+- Featured article.
+- Contact CTA.
+
+On mobile, arrange these elements in a clean vertical layout.
+
+## 10.2 Individual blog article page
+
+Route:
+
+`/blog/[article-slug]`
+
+Every article must have its own SEO-friendly URL.
+
+### Article page structure
+
+1. Breadcrumb navigation.
+2. Article category.
+3. Article headline.
+4. Article introduction.
+5. Featured image.
+6. Author information, when supplied.
+7. Publication date.
+8. Estimated reading time.
+9. Main article content.
+10. Relevant images within the article.
+11. Related articles.
+12. Share buttons.
+13. Newsletter or enquiry CTA, if configured.
+14. Footer.
+
+Use a beautiful editorial reading layout with excellent typography, comfortable line length and clear heading hierarchy.
+
+Support:
+
+- H1.
+- H2.
+- H3.
+- Paragraphs.
+- Bullet lists.
+- Numbered lists.
+- Images.
+- Image captions.
+- Hyperlinks.
+- Quotes.
+- Tables where appropriate.
+
+Create a rich-text editor or an accessible Markdown-based editor in the admin dashboard.
+
+## 10.3 Initial blog content
+
+Prepare the blog structure and allow administrators to add real articles.
+
+Create optional unpublished draft articles or clearly identified editorial examples covering topics such as:
+
+- The Importance of Structural Engineering in Modern Building Construction.
+- Key Considerations Before Starting a Building Project in Nigeria.
+- Understanding the Role of Construction Management.
+- How Architectural Design Influences Building Functionality.
+- The Importance of Proper Foundation Design.
+- Modern Trends in Sustainable Construction.
+- Common Building Construction Challenges and How to Avoid Them.
+- The Role of Engineering Consultancy in Project Development.
+
+These are suggested topics, not claims of company experience.
+
+Do not publish articles falsely claiming specific company projects, achievements or expertise.
+
+## 10.4 Blog SEO
+
+Every blog article must support:
+
+- Unique SEO title.
+- Meta description.
+- SEO-friendly slug.
+- Featured image.
+- Image alt text.
+- Article category.
+- Author, if verified.
+- Publication date.
+- Updated date.
+- Canonical URL.
+- Social sharing image.
+- Article structured data.
+
+Generate the correct Article or BlogPosting structured data.
+
+Create a blog XML sitemap or ensure all published articles are included in the main XML sitemap.
+
+---
+
+# PART 11: CONTACT PAGE AND ENQUIRY COLLECTION
+
+Route: `/contact`
+
+Headline:
+
+**Let's Discuss Your Next Project**
+
+Supporting text:
+
+"Tell us about your engineering, architectural or construction requirements. Our team looks forward to understanding your project and exploring how we can assist."
+
+## 11.1 Contact information
+
+Display:
+
+**SPES Swiftpace Engineering Solutions Limited**
+
+Address:
+
+Plot 2, Toluwani Street,  
+Peace Avenue, Off Iworoko Road,  
+Ado Ekiti, Ekiti State, Nigeria.
+
+Email:
+
+spesengineeringlimited@gmail.com
+
+Phone numbers:
+
+- +234 901 075 3592.
+- +234 707 636 5837.
+
+Include:
+
+- Click-to-call links.
+- Click-to-email links.
+- WhatsApp links.
+- Map section using the verified office location when available.
+
+## 11.2 Contact form
+
+Create a professional, highly functional enquiry form.
+
+### Personal information
+
+1. Full Name — required.
+2. Company/Organisation — optional.
+3. Email Address — required.
+4. Phone Number — required.
+
+### Project information
+
+5. Service Required — dropdown:
+
+- Architecture.
+- Building Construction.
+- Civil Engineering.
+- Structural Engineering.
+- Construction Management.
+- Consultancy.
+- Allied Services.
+- Other.
+
+6. Project Location — required.
+
+7. Project Type — dropdown:
+
+- Residential.
+- Commercial.
+- Industrial.
+- Institutional.
+- Infrastructure.
+- Other.
+
+8. Estimated Project Budget — optional:
+
+- To be discussed.
+- Below ₦10 million.
+- ₦10 million–₦50 million.
+- ₦50 million–₦100 million.
+- ₦100 million–₦500 million.
+- Above ₦500 million.
+
+9. Preferred Contact Method:
+
+- Phone Call.
+- WhatsApp.
+- Email.
+
+10. Project Description — required.
+
+11. Attachment Upload — optional.
+
+Allow suitable drawings, reference images and project documents.
+
+Set appropriate file type and size restrictions.
+
+12. Privacy Consent — required.
+
+Text:
+
+"I agree that SPES Swiftpace Engineering Solutions Limited may use the information submitted to respond to my enquiry in accordance with its privacy policy."
+
+## 11.3 Form functionality
+
+The form must:
+
+- Validate required fields.
+- Validate email and telephone formats.
+- Show helpful validation messages.
+- Prevent duplicate submissions.
+- Display loading indicators.
+- Display successful submission confirmation.
+- Display error messages.
+- Preserve form data after failed submissions.
+- Work properly on mobile.
+- Include spam protection.
+
+## 11.4 Contact submission storage
+
+Store all contact submissions in the website's own database.
+
+The admin dashboard must allow authorised users to:
+
+- View all enquiries.
+- Open individual enquiry records.
+- Search enquiries.
+- Filter by date.
+- Filter by service.
+- Filter by status.
+- View submitted contact details.
+- Read project descriptions.
+- Download submitted attachments.
+- Update enquiry statuses.
+- Add internal notes.
+- Delete enquiries when authorised.
+- Export enquiries as CSV.
+
+Enquiry statuses:
+
+- New.
+- Contacted.
+- In Discussion.
+- Quoted.
+- Converted.
+- Closed.
+
+Display new enquiry counts on the admin dashboard.
+
+## 11.5 WhatsApp integration
+
+Primary WhatsApp:
+
+`https://wa.me/2349010753592`
+
+Secondary WhatsApp:
+
+`https://wa.me/2347076365837`
+
+Use the first number as the default WhatsApp contact.
+
+Generate contextual messages for individual services and project pages.
+
+Example:
+
+"Hello SPES Swiftpace Engineering Solutions Limited. I visited your website and would like to enquire about your engineering and construction services."
+
+---
+
+# PART 12: FAQ PAGE
+
+Route: `/faq`
+
+Headline:
+
+**Frequently Asked Questions**
+
+Organise questions into categories.
+
+### Company Information
+
+1. What is SPES Swiftpace Engineering Solutions Limited?
+2. Where is the company located?
+3. What areas does the company serve?
+4. How can I contact the company?
+5. What types of clients does the company work with?
+
+### Services
+
+6. What engineering services does SPES provide?
+7. Does SPES provide architectural design?
+8. Does the company undertake building construction?
+9. Does SPES provide civil and structural engineering?
+10. Does the company offer construction management?
+11. Can I request engineering consultancy?
+
+### Project Engagement
+
+12. How do I start a project?
+13. Can I request a consultation?
+14. What information should I provide when making an enquiry?
+15. Does SPES work on residential and commercial projects?
+16. Can I submit project drawings?
+
+### General Enquiries
+
+17. How can I request a quotation?
+18. Can I contact the company through WhatsApp?
+19. Where is the office located?
+20. How can I discuss a potential partnership?
+
+Use expandable accordion components.
+
+Provide professional answers based on verified information.
+
+---
+
+# PART 13: SIMPLE INTEGRATED BACKEND AND ADMIN DASHBOARD
+
+## IMPORTANT: BACKEND ARCHITECTURE DECISION
+
+Do not build an unnecessarily complicated backend.
+
+Do not use Supabase.
+
+Do not require Firebase, external database subscriptions or a separate third-party CMS.
+
+Do not create a complicated microservices architecture.
+
+The requirement is a simple, lightweight backend integrated into the website itself.
+
+The administrator should be able to log into the website and manage projects, photographs, blog articles and contact enquiries from a single dashboard.
+
+### Recommended architecture
+
+Use:
+
+**Frontend:**
+- React.
+- TypeScript.
+- Tailwind CSS.
+
+**Backend:**
+- Node.js.
+- Express.js.
+
+**Database:**
+- SQLite.
+
+**Image and document storage:**
+- Server-side file storage using a persistent uploads directory.
+
+**Authentication:**
+- Secure administrator login using hashed passwords and server-managed sessions.
+
+**Editor:**
+- Rich-text editor for blog and project descriptions.
+
+This architecture should operate as one integrated application.
+
+The backend should be lightweight, easy to maintain and straightforward to deploy.
+
+### Important deployment requirement
+
+The backend, database and uploaded files must use persistent storage.
+
+Do not deploy the database or uploads to an ephemeral filesystem.
+
+Choose a hosting environment that supports:
+
+- A persistent Node.js server.
+- Persistent disk storage.
+- SQLite database files.
+- File uploads.
+- Environment variables.
+- HTTPS.
+- Server-side application execution.
+
+A modest VPS or compatible Node.js hosting environment is sufficient.
+
+Do not introduce additional paid external infrastructure unless absolutely necessary.
+
+## 13.1 Admin login
+
+Route: `/admin/login`
+
+Create a premium but simple administrator login page.
+
+Fields:
+
+- Email or username.
+- Password.
+
+Include:
+
+- Login button.
+- Show/hide password.
+- Validation.
+- Error messages.
+- Secure session handling.
+
+Do not create a public administrator registration page.
+
+The initial administrator account should be created through a secure setup process or environment-configured credentials.
+
+Force a password change from any temporary initial credential.
+
+## 13.2 Admin dashboard
+
+Route: `/admin/dashboard`
+
+Create a professional administration dashboard.
+
+Use a clean layout with:
+
+- Left sidebar.
+- Top navigation.
+- Main content area.
+- Responsive mobile dashboard.
+
+Dashboard overview cards:
+
+- Total Projects.
+- Published Projects.
+- Draft Projects.
+- Published Blog Articles.
+- Draft Blog Articles.
+- Total Enquiries.
+- New Enquiries.
+
+Include a recent enquiries table and recent content activity.
+
+The dashboard should be simple enough for a non-technical company administrator to use.
+
+## 13.3 Project management
+
+Routes:
+
+- `/admin/projects`
+- `/admin/projects/new`
+
+Allow the administrator to:
+
+- Create projects.
+- Edit projects.
+- Delete projects with confirmation.
+- Upload project cover photographs.
+- Upload multiple gallery photographs.
+- Add project titles.
+- Write project descriptions.
+- Add project categories.
+- Add project locations.
+- Add client information when approved.
+- Add project status.
+- Add completion dates.
+- Add project scope.
+- Add technical details.
+- Set featured status.
+- Save as draft.
+- Publish.
+- Unpublish.
+
+Automatically generate project slugs and public project pages.
+
+Support image previews before saving.
+
+Allow replacement and removal of individual photographs.
+
+## 13.4 Blog management
+
+Routes:
+
+- `/admin/blog`
+- `/admin/blog/new`
+
+Allow the administrator to:
+
+- Create articles.
+- Edit articles.
+- Delete articles with confirmation.
+- Upload featured images.
+- Upload images inside articles.
+- Write and format article content.
+- Add article titles.
+- Generate or edit SEO-friendly slugs.
+- Add categories.
+- Add excerpts.
+- Add author information.
+- Add SEO titles.
+- Add meta descriptions.
+- Save drafts.
+- Schedule publication if supported.
+- Publish articles.
+- Unpublish articles.
+
+Provide a simple, intuitive rich-text editor.
+
+The editor should support:
+
+- Headings.
+- Paragraphs.
+- Bold and italic.
+- Bullet lists.
+- Numbered lists.
+- Images.
+- Image captions.
+- Hyperlinks.
+- Quotes.
+- Tables.
+
+Include an article preview function before publication.
+
+Published articles should automatically appear on the public blog page.
+
+Draft articles must remain private and must not be indexed by search engines.
+
+## 13.5 Media management
+
+Route: `/admin/media`
+
+Create a simple media library.
+
+Allow the administrator to:
+
+- Upload photographs.
+- Preview uploaded images.
+- View image names.
+- View upload dates.
+- Select existing photographs for projects and blog articles.
+- Delete unused photographs.
+- Replace images.
+
+Organise files into logical categories:
+
+- Projects.
+- Project Galleries.
+- Blog.
+- Services.
+- Company.
+- Team.
+
+Use safe file naming and validate file formats.
+
+Do not allow executable files to be uploaded.
+
+Recommended image formats:
+
+- JPG.
+- JPEG.
+- PNG.
+- WebP.
+
+Set a sensible maximum upload size and provide clear feedback when files are too large.
+
+Optimise uploaded images where practical.
+
+## 13.6 Enquiry management
+
+Route: `/admin/enquiries`
+
+Create an organised enquiry management interface.
+
+Display:
+
+- Name.
+- Email.
+- Phone.
+- Service required.
+- Project location.
+- Date received.
+- Enquiry status.
+
+Allow administrators to:
+
+- Open enquiries.
+- Read complete enquiry details.
+- Update enquiry status.
+- Add internal notes.
+- Download attachments.
+- Search and filter.
+- Export records.
+- Delete records when necessary.
+
+## 13.7 Website settings
+
+Route: `/admin/settings`
+
+Allow administrators to update:
+
+- Company email.
+- Telephone numbers.
+- Office address.
+- WhatsApp number.
+- Footer information.
+- Logo, where appropriate.
+- Social media links.
+- Default SEO information.
+
+Protect settings against unauthorised changes.
+
+---
+
+# PART 14: DATABASE DESIGN
+
+Use SQLite with a straightforward, relational database structure.
+
+Create the following tables.
+
+### 1. admins
+
+Fields:
+
+- id.
+- username.
+- email.
+- password_hash.
+- created_at.
+- updated_at.
+- last_login.
+
+### 2. projects
+
+Fields:
+
+- id.
+- title.
+- slug.
+- category.
+- location.
+- client.
+- project_status.
+- completion_date.
+- short_description.
+- overview.
+- objectives.
+- scope_of_work.
+- technical_approach.
+- project_outcome.
+- cover_image.
+- featured.
+- publication_status.
+- seo_title.
+- meta_description.
+- created_at.
+- updated_at.
+
+### 3. project_images
+
+Fields:
+
+- id.
+- project_id.
+- image_path.
+- image_caption.
+- display_order.
+- created_at.
+
+### 4. blog_posts
+
+Fields:
+
+- id.
+- title.
+- slug.
+- category_id.
+- excerpt.
+- content.
+- featured_image.
+- author.
+- publication_status.
+- published_at.
+- seo_title.
+- meta_description.
+- created_at.
+- updated_at.
+
+### 5. blog_categories
+
+Fields:
+
+- id.
+- name.
+- slug.
+- description.
+
+### 6. enquiries
+
+Fields:
+
+- id.
+- full_name.
+- company_name.
+- email.
+- phone.
+- service_required.
+- project_type.
+- project_location.
+- estimated_budget.
+- preferred_contact_method.
+- project_description.
+- attachment_path.
+- privacy_consent.
+- enquiry_status.
+- internal_notes.
+- created_at.
+- updated_at.
+
+### 7. media
+
+Fields:
+
+- id.
+- filename.
+- file_path.
+- file_type.
+- file_size.
+- category.
+- uploaded_at.
+
+### 8. website_settings
+
+Fields:
+
+- id.
+- setting_key.
+- setting_value.
+- updated_at.
+
+Use appropriate foreign keys and database indexes.
+
+Implement database migrations or an initialisation script so the database can be created automatically during installation.
+
+Do not create unnecessary tables or overcomplicate the data structure.
+
+---
+
+# PART 15: BACKEND SECURITY AND RELIABILITY
+
+Although the backend is simple, security must be taken seriously.
+
+Implement:
+
+1. Password hashing using a secure password-hashing algorithm.
+2. Protected administrator routes.
+3. Server-side session validation.
+4. Secure, HTTP-only session cookies.
+5. CSRF protection where applicable.
+6. Rate limiting on login and contact submission.
+7. Server-side form validation.
+8. File type and file size validation.
+9. Safe upload file naming.
+10. Protection against path traversal.
+11. Parameterised database queries.
+12. Protection against SQL injection.
+13. Secure handling of environment variables.
+14. Automatic database backup capability.
+15. Proper error logging.
+
+Never expose administrator passwords, session secrets or privileged backend information in frontend code.
+
+Uploaded files must not be executable.
+
+Do not allow unauthenticated users to access admin data.
+
+Provide a simple backup and restoration procedure for:
+
+- SQLite database.
+- Project images.
+- Blog images.
+- Uploaded attachments.
+
+The administrator should be able to manage the website without needing to access the server or edit source code.
+
+---
+
+# PART 16: TECHNICAL DEVELOPMENT REQUIREMENTS
+
+Build a maintainable application.
+
+Suggested architecture:
+
+```text
+spes-website/
+│
+├── client/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── layouts/
+│   │   ├── pages/
+│   │   │   ├── Home.tsx
+│   │   │   ├── About.tsx
+│   │   │   ├── Services.tsx
+│   │   │   ├── ServiceDetail.tsx
+│   │   │   ├── Portfolio.tsx
+│   │   │   ├── ProjectDetail.tsx
+│   │   │   ├── Blog.tsx
+│   │   │   ├── BlogDetail.tsx
+│   │   │   ├── Contact.tsx
+│   │   │   ├── FAQ.tsx
+│   │   │   └── admin/
+│   │   ├── hooks/
+│   │   ├── lib/
+│   │   └── App.tsx
+│   │
+│   └── package.json
+│
+├── server/
+│   ├── routes/
+│   │   ├── auth.js
+│   │   ├── projects.js
+│   │   ├── blog.js
+│   │   ├── enquiries.js
+│   │   ├── media.js
+│   │   └── settings.js
+│   │
+│   ├── middleware/
+│   ├── database/
+│   │   ├── db.js
+│   │   ├── init.js
+│   │   └── migrations/
+│   │
+│   ├── uploads/
+│   │   ├── projects/
+│   │   ├── blog/
+│   │   ├── company/
+│   │   └── attachments/
+│   │
+│   ├── app.js
+│   └── package.json
+│
+├── .env.example
+├── package.json
+└── README.md
+```
+
+Adjust the folder structure where necessary, but maintain a clear separation between frontend, backend, database and uploaded assets.
+
+The application must be straightforward to maintain.
+
+## 16.1 API routes
+
+Implement appropriate backend endpoints.
+
+Examples:
+
+**Authentication**
+- POST `/api/admin/login`
+- POST `/api/admin/logout`
+- GET `/api/admin/me`
+
+**Projects**
+- GET `/api/projects`
+- GET `/api/projects/:slug`
+- POST `/api/admin/projects`
+- PUT `/api/admin/projects/:id`
+- DELETE `/api/admin/projects/:id`
+
+**Blog**
+- GET `/api/blog`
+- GET `/api/blog/:slug`
+- POST `/api/admin/blog`
+- PUT `/api/admin/blog/:id`
+- DELETE `/api/admin/blog/:id`
+
+**Enquiries**
+- POST `/api/enquiries`
+- GET `/api/admin/enquiries`
+- GET `/api/admin/enquiries/:id`
+- PUT `/api/admin/enquiries/:id`
+
+**Media**
+- POST `/api/admin/media`
+- GET `/api/admin/media`
+- DELETE `/api/admin/media/:id`
+
+**Settings**
+- GET `/api/admin/settings`
+- PUT `/api/admin/settings`
+
+All administrator endpoints must require valid authentication.
+
+Public endpoints must return only published projects and articles.
+
+---
+
+# PART 17: RESPONSIVE DESIGN AND INTERACTIONS
+
+The website must work exceptionally well on:
+
+- 1920px desktop.
+- 1440px desktop.
+- 1280px laptop.
+- 1024px tablet.
+- 768px tablet.
+- 430px mobile.
+- 390px mobile.
+- 360px mobile.
+
+Requirements:
+
+- No horizontal overflow.
+- Properly sized typography.
+- Touch-friendly buttons.
+- Responsive navigation.
+- Responsive galleries.
+- Readable forms.
+- Appropriate mobile spacing.
+- No overlapping elements.
+
+## Animations
+
+Use restrained premium animations:
+
+- Hero entrance animation.
+- Scroll reveal.
+- Image hover effects.
+- Smooth accordion transitions.
+- Project card interactions.
+- Blog card transitions.
+- Navigation indicators.
+- Page transitions where appropriate.
+
+Maintain performance and reduced-motion accessibility.
+
+---
+
+# PART 18: SEO AND GOOGLE SEARCH OPTIMISATION
+
+Build a complete SEO foundation.
+
+## 18.1 Keyword themes
+
+Use relevant terms naturally:
+
+- Engineering company in Ado Ekiti.
+- Engineering companies in Ekiti State.
+- Construction company in Ado Ekiti.
+- Building construction in Ekiti State.
+- Civil engineering services in Nigeria.
+- Structural engineering consultancy in Nigeria.
+- Architectural design services in Ekiti.
+- Construction management services.
+- Building contractors in Ado Ekiti.
+- Engineering consultancy in Nigeria.
+
+Do not claim service coverage in locations without confirmation.
+
+## 18.2 Individual page SEO
+
+Every public page must have:
+
+- Unique SEO title.
+- Unique meta description.
+- Canonical URL.
+- Proper heading hierarchy.
+- Descriptive image alt text.
+- Internal links.
+- Relevant keyword targeting.
+
+## 18.3 Blog SEO
+
+Every article must support:
+
+- Unique title tag.
+- Meta description.
+- SEO-friendly URL.
+- Article structured data.
+- Open Graph metadata.
+- Canonical URL.
+- Image alt text.
+- Publication and modification dates.
+
+## 18.4 Structured data
+
+Implement appropriate:
+
+- Organization.
+- LocalBusiness where applicable.
+- Service.
+- BreadcrumbList.
+- Article or BlogPosting.
+- FAQPage where eligible.
+
+Never invent ratings, reviews or company statistics.
+
+## 18.5 Technical SEO
+
+Implement:
+
+- XML sitemap.
+- Robots.txt.
+- Canonical URLs.
+- Search-friendly URLs.
+- Open Graph tags.
+- Social sharing metadata.
+- Custom 404.
+- Internal linking.
+- Proper crawl controls.
+
+Unpublished projects and draft blog articles must not be indexed.
+
+---
+
+# PART 19: ANALYTICS AND CONVERSION TRACKING
+
+Prepare for future integration with:
+
+- Google Analytics 4.
+- Google Search Console.
+- Google Tag Manager.
+- Google Ads conversion tracking.
+- Meta Pixel where required.
+
+Track:
+
+- Contact form submissions.
+- WhatsApp clicks.
+- Telephone clicks.
+- Email clicks.
+- Get a Quote clicks.
+- Service page engagement.
+- Project page views.
+- Blog article views.
+
+Do not insert fake tracking IDs.
+
+Do not report conversions unless tracking has been properly configured and verified.
+
+---
+
+# PART 20: LEGAL AND PRIVACY PAGES
+
+Create:
+
+- Privacy Policy.
+- Terms and Conditions.
+- Cookie Notice where applicable.
+
+The Privacy Policy should explain:
+
+- Contact form information collected.
+- Purpose of data collection.
+- Enquiry processing.
+- Attachment handling.
+- Data retention.
+- Contact details for privacy enquiries.
+
+Use a compliance-conscious approach appropriate to applicable Nigerian data protection requirements.
+
+Do not claim legal certification without verification.
+
+---
+
+# PART 21: IMAGE MANAGEMENT AND FUTURE CONTENT UPDATES
+
+For the initial production, use premium stock images.
+
+Build a centralised image management structure for:
+
+- Homepage hero.
+- Company introduction.
+- Architecture.
+- Building construction.
+- Civil engineering.
+- Structural engineering.
+- Construction management.
+- Consultancy.
+- Portfolio.
+- Project galleries.
+- Blog articles.
+- Management.
+- Team photographs.
+
+The administrator must be able to upload and replace project and blog images through the dashboard.
+
+Replacing stock photographs with actual company photographs must not require a website redesign.
+
+Maintain an internal distinction between temporary stock imagery and verified company photography.
+
+---
+
+# PART 22: TESTING AND QUALITY ASSURANCE
+
+Before declaring the website complete, test the entire application.
+
+## Public website tests
+
+- All navigation links work.
+- All pages load correctly.
+- Service links work.
+- Project pages load dynamically.
+- Portfolio filters work.
+- Blog categories work.
+- Individual articles load.
+- FAQ accordions work.
+- Contact buttons work.
+- WhatsApp links work.
+- Telephone links work.
+
+## Admin tests
+
+- Admin login works.
+- Protected routes cannot be accessed without authentication.
+- Project creation works.
+- Project editing works.
+- Image uploads work.
+- Project publishing works.
+- Blog creation works.
+- Blog editing works.
+- Blog image uploads work.
+- Blog publishing works.
+- Enquiries are stored.
+- Enquiries can be viewed and updated.
+- Media management works.
+- Website settings can be updated.
+
+## Database tests
+
+- Database initialises correctly.
+- Records persist after server restart.
+- Uploaded files remain available after server restart.
+- Database relationships work.
+- Deletion and update operations behave correctly.
+
+## Contact tests
+
+- Form validation works.
+- Valid submissions are saved.
+- Invalid submissions are rejected.
+- Duplicate submissions are controlled.
+- Attachments upload correctly.
+- Confirmation messages work.
+
+## Responsive tests
+
+Test desktop, tablet and mobile layouts.
+
+## SEO tests
+
+Check:
+
+- Titles.
+- Meta descriptions.
+- Heading hierarchy.
+- Canonical URLs.
+- Sitemap.
+- Robots.txt.
+- Structured data.
+- Image alt text.
+- Internal links.
+
+## Security tests
+
+Check:
+
+- Authentication.
+- Session handling.
+- Upload validation.
+- Database security.
+- API protection.
+- Password storage.
+- Spam protection.
+
+---
+
+# PART 23: REQUIRED FINAL DELIVERABLES
+
+Deliver a complete working application containing:
+
+1. Premium homepage.
+2. About Us page.
+3. Services landing page.
+4. Six individual service pages.
+5. Portfolio landing page.
+6. Individual project detail pages.
+7. Blog landing page.
+8. Individual blog article pages.
+9. Blog category pages.
+10. Contact page.
+11. Functional contact form.
+12. FAQ page.
+13. Privacy Policy.
+14. Terms and Conditions.
+15. Responsive navigation.
+16. Premium footer.
+17. WhatsApp integration.
+18. Click-to-call integration.
+19. Secure admin login.
+20. Admin dashboard.
+21. Project management system.
+22. Project image upload system.
+23. Blog management system.
+24. Blog image upload system.
+25. Contact enquiry management.
+26. Media library.
+27. SQLite database.
+28. Integrated Node.js and Express backend.
+29. SEO implementation.
+30. Analytics integration structure.
+31. Deployment instructions.
+32. Database backup and restoration instructions.
+33. Environment configuration documentation.
+34. Testing and quality assurance report.
+
+---
+
+# PART 24: DEPLOYMENT AND HANDOVER
+
+The website must be deployable as one integrated application.
+
+Provide clear instructions for:
+
+- Installing dependencies.
+- Configuring environment variables.
+- Creating the initial administrator account.
+- Initialising the SQLite database.
+- Creating upload directories.
+- Starting the backend server.
+- Building the frontend.
+- Deploying the application.
+- Connecting the domain.
+- Enabling HTTPS.
+- Configuring persistent storage.
+- Backing up the database.
+- Restoring the database.
+- Updating the application.
+
+Use a hosting environment that supports a persistent Node.js process and persistent disk storage.
+
+Do not assume that a serverless or ephemeral deployment environment can safely store SQLite files and uploaded images.
+
+The administrator should not need to operate the terminal for routine content management.
+
+Once deployed, normal management must happen directly through:
+
+`yourdomain.com/admin`
+
+---
+
+# PART 25: FINAL DEVELOPMENT INSTRUCTIONS
+
+Now proceed to design and build the complete SPES Swiftpace Engineering Solutions Limited website.
+
+Follow these instructions carefully.
+
+1. Deliver a bespoke premium design, not a generic template.
+2. Build every required public page.
+3. Create individual pages for all six services.
+4. Create a portfolio and dynamic project detail pages.
+5. Include a complete blog with individual article pages.
+6. Include a secure admin dashboard.
+7. Use a simple integrated Node.js, Express and SQLite backend.
+8. Do not use Supabase.
+9. Do not introduce unnecessary external database or CMS subscriptions.
+10. Allow the administrator to manage projects, blog articles, images and enquiries directly through the website.
+11. Use premium stock imagery for the first production.
+12. Preserve the original SPES brand identity.
+13. Make the website exceptionally responsive.
+14. Implement genuine contact form data storage.
+15. Implement SEO foundations on all public pages.
+16. Do not invent company credentials, personnel, certifications or completed projects.
+17. Ensure uploaded files and database records persist after server restarts and redeployments.
+18. Test the complete application before declaring it finished.
+
+## Final development report
+
+When development is complete, provide:
+
+- All pages created.
+- All features implemented.
+- Backend architecture.
+- Database structure.
+- Admin dashboard access route.
+- Initial admin setup instructions.
+- Image upload functionality.
+- Blog management functionality.
+- Contact enquiry management functionality.
+- Deployment requirements.
+- Remaining configuration requirements.
+- Testing results.
+- Outstanding issues, if any.
+
+Do not claim that an integration works unless it has actually been implemented and tested.
+
+---
+
+# FINAL CREATIVE DIRECTION
+
+The finished SPES Swiftpace Engineering Solutions Limited website should look like the online presence of a serious, professionally structured engineering and construction company.
+
+The website should immediately communicate:
+
+**"This is a professional engineering and construction company with a strong corporate identity, comprehensive technical capabilities, a clear project portfolio and a serious approach to project delivery."**
+
+It must be:
+
+- Visually memorable.
+- Technically sound.
+- Professionally written.
+- Highly responsive.
+- Easy to navigate.
+- SEO-ready.
+- Conversion-focused.
+- Simple to administer.
+- Easy to maintain.
+
+The backend should be deliberately lightweight, practical and fully integrated into the website.
+
+The public-facing website should be premium, sophisticated and impressive.
+
+**Create something exceptional. Do not compromise on design quality, functionality, responsiveness, content organisation or technical execution.**
+
+PROJECT: SPES SWIFTPACE ENGINEERING SOLUTIONS LIMITED — PREMIUM CORPORATE WEBSITE AND INTEGRATED ADMINISTRATION SYSTEM.

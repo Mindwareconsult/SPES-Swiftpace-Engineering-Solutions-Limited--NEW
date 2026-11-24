@@ -1,0 +1,102 @@
+{
+  "id": "allied-services",
+  "title": "Allied Services",
+  "slug": "allied-services",
+  "iconName": "Wrench",
+  "shortDescription": "Related services that complement the company’s core architecture, engineering, construction and management activities.",
+  "heroImage": "/uploads/projects/interior-architecture-joinery/interior-living-media-wall-02.jpg",
+  "relatedCategory": "Building Construction",
+  "galleryImages": [
+    {
+      "src": "/uploads/projects/interior-architecture-joinery/interior-living-media-wall-02.jpg",
+      "alt": "Contemporary interior living suite finishing and custom joinery"
+    },
+    {
+      "src": "/uploads/projects/interior-architecture-joinery/interior-kitchen-greige-lshape-06.jpg",
+      "alt": "Modern fitted kitchen cabinetry and interior electrical lighting integration"
+    },
+    {
+      "src": "/uploads/projects/contemporary-terraced-residential/terraced-residential-corner-03.jpg",
+      "alt": "Interlocking paved external courtyard and exterior floodlight installation"
+    },
+    {
+      "src": "/assets/projects/contemporary-duplex-villa/contemporary-duplex-villa-04.jpg",
+      "alt": "Completed residential driveway paving and perimeter security infrastructure"
+    }
+  ],
+  "detailedOverview": "To provide a truly seamless project delivery ecosystem, SPES Swiftpace Engineering Solutions Limited provides specialized allied technical services. These complementary capabilities encompass external works, drainage, site preparation, utility installations, interior finishing coordination, and technical infrastructure support.",
+  "capabilities": [
+    "Site preparation, bulk earthmoving, grading, and perimeter retaining walls",
+    "Interlocking concrete paving, perimeter security walls, and entrance gatehouses",
+    "Stormwater drainage channels, culvert construction, and soakaway systems",
+    "Mechanical, Electrical & Plumbing (MEP) coordination and borehole utility setups",
+    "Topographical land surveys and boundary demarcation verification",
+    "Facility maintenance planning and post-handover preventative servicing",
+    "Landscaping and external civil works integration"
+  ],
+  "clientBenefits": [
+    {
+      "title": "Unified Project Delivery",
+      "desc": "No need to coordinate external sub-vendors for perimeter fencing, paving, or drainage."
+    },
+    {
+      "title": "Durable Infrastructure Works",
+      "desc": "Heavy-duty pavement designs and stormwater channels engineered to resist erosion."
+    },
+    {
+      "title": "Enhanced Kerb Appeal",
+      "desc": "Refined external finishing that complements the primary architectural structure."
+    },
+    {
+      "title": "Long-Term Facility Performance",
+      "desc": "Reliable water, electrical, and drainage infrastructure built to commercial standards."
+    }
+  ],
+  "processStages": [
+    {
+      "step": "01",
+      "title": "Scope Definition",
+      "desc": "Assessing civil infrastructure, external works, or auxiliary requirements."
+    },
+    {
+      "step": "02",
+      "title": "Site Alignment & Grading",
+      "desc": "Establishing drainage fall levels, boundary pegs, and invert levels."
+    },
+    {
+      "step": "03",
+      "title": "Sub-base Preparation",
+      "desc": "Compaction, subgrade stabilization, and geotextile installation where required."
+    },
+    {
+      "step": "04",
+      "title": "Installation & Construction",
+      "desc": "Executing paving, drainage casting, utility piping, or electrical infrastructure."
+    },
+    {
+      "step": "05",
+      "title": "Testing & Commissioning",
+      "desc": "Testing drainage flow, water pressure, and electrical circuitry."
+    },
+    {
+      "step": "06",
+      "title": "Handover & Integration",
+      "desc": "Final clean-up, integration with the main facility, and operational verification."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I contract SPES solely for external paving, drainage, and boundary fencing?",
+      "a": "Yes. We accept dedicated civil external works, drainage canalization, and perimeter infrastructure projects for residential estates, schools, and commercial facilities."
+    },
+    {
+      "q": "Do you handle stormwater drainage in flood-prone areas?",
+      "a": "Yes. Our civil engineers calculate catchment storm runoff volumes and construct properly graded reinforced concrete channels to permanently eliminate flooding."
+    }
+  ],
+  "order": 6,
+  "published": true,
+  "seoTitle": "Allied Services | SPES Swiftpace Engineering Solutions Limited",
+  "metaDescription": "Related services that complement the company’s core architecture, engineering, construction and management activities.",
+  "updatedAt": "2026-11-21T11:07:49.265Z"
+}
