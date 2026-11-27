@@ -4,7 +4,7 @@ import { useCms } from '../../context/CmsContext';
 
 export const WhatsAppButton: React.FC = () => {
   const { settings } = useCms();
-  const digits = (settings.whatsappPrimary || '2349010753592').replace(/\D/g, '');
+  const digits = (settings.whatsappPrimary || '2347076365837').replace(/\D/g, '');
   const href = `https://wa.me/${digits}?text=${encodeURIComponent(
     'Hello SPES Swiftpace Engineering Solutions, I would like to discuss an engineering or construction project.'
   )}`;

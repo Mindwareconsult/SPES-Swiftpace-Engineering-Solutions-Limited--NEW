@@ -200,7 +200,7 @@ export const Contact: React.FC = () => {
     })();
   };
 
-  const whatsappDigits = (settings.whatsappPrimary || '2349010753592').replace(/\D/g, '');
+  const whatsappDigits = (settings.whatsappPrimary || '2347076365837').replace(/\D/g, '');
   const origin =
     typeof window !== 'undefined' ? window.location.origin : 'https://spesengineeringlimited.com';
 

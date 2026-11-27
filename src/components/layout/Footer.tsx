@@ -5,7 +5,7 @@ import { useCms } from '../../context/CmsContext';
 import { BrandLogo } from '../common/BrandLogo';
 
 export const Footer: React.FC = () => {
-  const { settings, services, company } = useCms();
+  const { settings, services } = useCms();
   const year = new Date().getFullYear();
 
   const socialEntries = [
@@ -35,20 +35,6 @@ export const Footer: React.FC = () => {
             <p className="text-sm text-slate-400 leading-relaxed">
               {settings.footerTagline || settings.companyDescription}
             </p>
-            {company.sisterEnterprise?.url && (
-              <p className="text-xs text-slate-400 pt-1">
-                Sister Enterprise:{' '}
-                <a
-                  href={company.sisterEnterprise.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-slate-200 hover:text-[#12BCEB] inline-flex items-center gap-1 underline underline-offset-4"
-                >
-                  {company.sisterEnterprise.name}
-                  <ExternalLink className="w-3 h-3" />
-                </a>
-              </p>
-            )}
           </div>
 
           {/* Disciplines Column */}
